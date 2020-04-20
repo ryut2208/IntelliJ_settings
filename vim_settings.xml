@@ -88,12 +88,6 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/build.gradle" timestamp="1570971411493">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="21" />
-        <mark key="." line="13" column="21" />
-        <mark key="^" line="16" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/work/android/memo_app/lib/noteView.dart" timestamp="1577953236879">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="61" />
@@ -106,12 +100,23 @@
         <mark key="." line="15" column="73" />
         <mark key="^" line="15" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587371472559">
-        <mark key="'" line="38" column="31" />
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/AndroidManifest.xml" timestamp="1587373803122">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587374341249">
+        <mark key="'" line="42" column="31" />
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1587374323876">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/work/flutter/nthmatch/android/app/build.gradle" timestamp="1570973454311">
         <mark key="[" line="28" column="24" />
@@ -163,21 +168,15 @@
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/src/main/kotlin/com/ryut2208/winloupper/utilities/AppDelegate.kt" timestamp="1570969840182">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/proguard-rules.pro" timestamp="1570970151092">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="39" column="1" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1587365859546">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1587373362640">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
         <mark key="'" line="0" column="0" />
@@ -247,44 +246,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>plus(it.toString())</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVua25vd24iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>plus(it.toString())</text>
+        <text>READ_PRIVILEGED_PHONE_STATE</text>
       </register>
       <register name="/" type="4">
         <text>source ~</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxmcmFnbWVudAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaGlkZGVuX2NvbW1hbmRfdmlldyIKICAgICAgICBhbmRyb2lkOm5hbWU9ImpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuSGlkZGVuQ29tbWFuZEZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+Cg==</text>
+      <register name="0" type="4">
+        <text>FirebaseInstanceId.getInstance(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBEaXNwbGF5Lk1vZGUudG9TdHJpbmcoKTogU3RyaW5nIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVua25vd24iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VJbnN0YW5jZUlkLmdldEluc3RhbmNlKCkuaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXh0ZQo=</text>
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QUklWSUxFR0VEX1BIT05FX1NUQVRFIiAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygiVkVSU0lPTi5TREtfSU5UIDwgTSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2VyaWFsID09ICJ1bmtub3duIiB8fCBzZXJpYWwgPT0gIjEyMzQ1Njc4OUEiKSB7CiAgICAgICAgICAgIHZhbCBzcCA9IGFjdGl2aXR5LmdldFNoYXJlZFByZWZlcmVuY2VzKGFjdGl2aXR5LnBhY2thZ2VOYW1lLCBDb250ZXh0Lk1PREVfUFJJVkFURSkKICAgICAgICAgICAgaWYgKHNwLmNvbnRhaW5zKFBSRUZFUkVOQ0VfU0VSSUFMKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHNwLmdldFN0cmluZyhQUkVGRVJFTkNFX1NFUklBTCwgIiIpISEKICAgICAgICAgICAgfQogICAgICAgICAgICB2YWwgdXVpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkKICAgICAgICAgICAgc3AuZWRpdCB7IHB1dFN0cmluZyhQUkVGRVJFTkNFX1NFUklBTCwgdXVpZCkgfQogICAgICAgICAgICByZXR1cm4gdXVpZAogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHNlcmlhbCA/OiB0aHJvdyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ucmVyZmRmYXNqawo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzUmVhZFBob25lU3RhdGVEZW5pZWQoYWN0aXZpdHkpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNkZmpmc2Rha2Zqc2Rha2pmbGtqZHNsamEK</text>
+        <text encoding="base64">ICAgIGZ1biBEaXNwbGF5Lk1vZGUudG9TdHJpbmcoKTogU3RyaW5nIHsKCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ub3Rlc1N0cmVhbSA9IG5vdGVzRnV0dXJlLmFzU3RyZWFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
