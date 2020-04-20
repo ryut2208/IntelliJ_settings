@@ -105,24 +105,18 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587374341249">
-        <mark key="'" line="42" column="31" />
-        <mark key="[" line="105" column="43" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="^" line="105" column="43" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587377967019">
+        <mark key="'" line="102" column="71" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="87" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1587374323876">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/android/app/build.gradle" timestamp="1570973454311">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="2" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1587378100043">
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="27" />
+        <mark key="^" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" timestamp="1575740227135">
         <mark key="'" line="10" column="30" />
@@ -150,8 +144,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587366485973">
-        <mark key="[" line="24" column="52" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587377527749">
+        <mark key="[" line="29" column="44" />
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="22" />
         <mark key="^" line="14" column="43" />
@@ -161,6 +155,11 @@
         <mark key="]" line="119" column="4" />
         <mark key="^" line="119" column="4" />
         <mark key="." line="119" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" timestamp="1587377895075">
+        <mark key="[" line="67" column="10" />
+        <mark key="]" line="67" column="10" />
+        <mark key="." line="67" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/FirebaseManager.dart" timestamp="1574525043811">
         <mark key="[" line="15" column="5" />
@@ -239,6 +238,7 @@
       <jump line="89" column="17" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" />
       <jump line="37" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
+      <jump line="103" column="71" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -247,43 +247,43 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVua25vd24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>READ_PRIVILEGED_PHONE_STATE</text>
+        <text encoding="base64">IGluZm9ybWF0aW9uX3ZpZXcudmlzaWJpbGl0eSA9</text>
       </register>
       <register name="/" type="4">
         <text>source ~</text>
       </register>
-      <register name="0" type="4">
-        <text>FirebaseInstanceId.getInstance(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVua25vd24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VJbnN0YW5jZUlkLmdldEluc3RhbmNlKCkuaWQK</text>
+        <text encoding="base64">CiAgICBpbnRlcmZhY2UgSGlkZGVuQ29tbWFuZENhbGxiYWNrIHsKICAgICAgICAvKiog6Zqg44GX44Kz44Oe44Oz44OJ44GM5a6M5oiQ44GX44Gf44Go44GN44Gu44Kz44O844Or44OQ44OD44KvICovCiAgICAgICAgZnVuIG9uQ29tcGxldGVDb21tYW5kKCkKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uUkVBRF9QUklWSUxFR0VEX1BIT05FX1NUQVRFIiAvPgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoa2V5Q29kZSA9PSBLZXlFdmVudC5LRVlDT0RFX0RQQURfRE9XTiAmJiBhY3Rpb24gPT0gS2V5RXZlbnQuQUNUSU9OX1VQKSB7CiAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBpbmZvcm1hdGlvbl92aWV3LnZpc2liaWxpdHkgPSBpZiAoaW5mb3JtYXRpb25fdmlldy5pc1Zpc2libGUpIHsKICAgICAgICAgICAgICAgIFZpZXcuSU5WSVNJQkxFCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBWaWV3LlZJU0lCTEUKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2VyaWFsID09ICJ1bmtub3duIiB8fCBzZXJpYWwgPT0gIjEyMzQ1Njc4OUEiKSB7CiAgICAgICAgICAgIHZhbCBzcCA9IGFjdGl2aXR5LmdldFNoYXJlZFByZWZlcmVuY2VzKGFjdGl2aXR5LnBhY2thZ2VOYW1lLCBDb250ZXh0Lk1PREVfUFJJVkFURSkKICAgICAgICAgICAgaWYgKHNwLmNvbnRhaW5zKFBSRUZFUkVOQ0VfU0VSSUFMKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHNwLmdldFN0cmluZyhQUkVGRVJFTkNFX1NFUklBTCwgIiIpISEKICAgICAgICAgICAgfQogICAgICAgICAgICB2YWwgdXVpZCA9IFVVSUQucmFuZG9tVVVJRCgpLnRvU3RyaW5nKCkKICAgICAgICAgICAgc3AuZWRpdCB7IHB1dFN0cmluZyhQUkVGRVJFTkNFX1NFUklBTCwgdXVpZCkgfQogICAgICAgICAgICByZXR1cm4gdXVpZAogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHNlcmlhbCA/OiB0aHJvdyBOdWxsUG9pbnRlckV4Y2VwdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZSA9ICF0aGlzLmlzVmlzaWJsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuaXNWaXNpYmxlKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlzUmVhZFBob25lU3RhdGVEZW5pZWQoYWN0aXZpdHkpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHkubGV0IHsKICAgICAgICAgICAgICAgIGlmIChpdCBpcyBIaWRkZW5Db21tYW5kQ2FsbGJhY2spIHsKICAgICAgICAgICAgICAgICAgICBpdC5vbkNvbXBsZXRlQ29tbWFuZCgpCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIExvZ1V0aWxzLmUoVEFHLCAiY2FsbGJhY2sgaXMgdW5pbXBsZW1lbnRlZCIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZ1biBEaXNwbGF5Lk1vZGUudG9TdHJpbmcoKTogU3RyaW5nIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1bmtub3duIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VJbnN0YW5jZUlkLmdldEluc3RhbmNlKCkuaWQK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
