@@ -1,6 +1,39 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>color</entry>
+        <entry>MATCH_COUNT</entry>
+        <entry>drawable</entry>
+        <entry>fragmentmanager</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry>User</entry>
+        <entry encoding="base64">XDxMaW5rZWRMaXN0XD4=</entry>
+        <entry>google</entry>
+        <entry>source ~</entry>
+      </history-search>
+      <history-cmd>
+        <entry>~/.ideavimrc</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>vsp ~/.vimrc</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>q</entry>
+        <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
+        <entry>vsp</entry>
+        <entry>%s/User/UserEntity/g</entry>
+        <entry>nohlsearch</entry>
+        <entry>src ~/.ideavimrc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
@@ -36,9 +69,241 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" timestamp="1574526202210">
+        <mark key="'" line="112" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" timestamp="1587281033389">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/pubspec.yaml" timestamp="1571036245099">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/build.gradle" timestamp="1570971411493">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/memo_app/lib/noteView.dart" timestamp="1577953236879">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_registration_license.xml" timestamp="1587366702443">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+        <mark key="^" line="15" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587371472559">
+        <mark key="'" line="38" column="31" />
+        <mark key="[" line="51" column="31" />
+        <mark key="]" line="51" column="31" />
+        <mark key="." line="51" column="31" />
+        <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/android/app/build.gradle" timestamp="1570973454311">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="77" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" timestamp="1575740227135">
+        <mark key="'" line="10" column="30" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/res/layout/activity_main.xml" timestamp="1575738384726">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="12" />
+        <mark key="^" line="18" column="12" />
+        <mark key="." line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" timestamp="1575740434898">
+        <mark key="'" line="20" column="46" />
+        <mark key="[" line="24" column="62" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/MainActivity.kt" timestamp="1575740301833">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587366485973">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/RecordView.dart" timestamp="1574526459245">
+        <mark key="[" line="118" column="6" />
+        <mark key="]" line="119" column="4" />
+        <mark key="^" line="119" column="4" />
+        <mark key="." line="119" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/FirebaseManager.dart" timestamp="1574525043811">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/src/main/kotlin/com/ryut2208/winloupper/utilities/AppDelegate.kt" timestamp="1570969840182">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/proguard-rules.pro" timestamp="1570970151092">
+        <mark key="[" line="29" column="49" />
+        <mark key="]" line="39" column="1" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1587365859546">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1587365926804">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/work/flutter/first_flutter_app/flutter_app/lib/main.dart" />
+      <jump line="14" column="12" filename="$USER_HOME$/Documents/work/flutter/first_flutter_app/flutter_app/lib/main.dart" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="110" column="0" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="67" column="13" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
+      <jump line="46" column="39" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
+      <jump line="47" column="21" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
+      <jump line="85" column="17" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
+      <jump line="44" column="10" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
+      <jump line="18" column="20" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="39" column="29" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="40" column="40" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="50" column="41" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="68" column="17" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="89" column="27" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="78" column="21" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="42" column="58" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/_MyHomePageState.dart" />
+      <jump line="16" column="36" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
+      <jump line="36" column="29" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
+      <jump line="29" column="21" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/MyHomePage.dart" />
+      <jump line="29" column="5" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
+      <jump line="49" column="89" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/MyHomePage.dart" />
+      <jump line="9" column="0" filename="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.2.0+1/example/lib/main.dart" />
+      <jump line="59" column="4" filename="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.2.0+1/example/lib/main.dart" />
+      <jump line="41" column="0" filename="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-1.2.0+1/example/lib/main.dart" />
+      <jump line="67" column="3" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
+      <jump line="90" column="14" filename="$USER_HOME$/Documents/work/android/WinLoUpper-Android/.gitignore" />
+      <jump line="280" column="58" filename="$USER_HOME$/Documents/work/android/WinLoUpper-Android/app/src/main/kotlin/com/ryut2208/winloupper/activity/InformationModifyActivity.kt" />
+      <jump line="25" column="40" filename="$USER_HOME$/Documents/work/android/RoomTraining/app/src/main/res/layout/activity_main.xml" />
+      <jump line="10" column="59" filename="$USER_HOME$/Documents/work/android/RoomTraining/app/src/main/java/com/ryut2208/roomtraining/UserEntity.kt" />
+      <jump line="9" column="59" filename="$USER_HOME$/Documents/work/android/RoomTraining/app/src/main/java/com/ryut2208/roomtraining/UserEntity.kt" />
+      <jump line="8" column="26" filename="$USER_HOME$/Documents/work/android/RoomTraining/app/src/main/java/com/ryut2208/roomtraining/UserDao.kt" />
+      <jump line="27" column="17" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="215" column="50" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="459" column="36" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="460" column="20" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="84" column="8" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/MainActivity.kt" />
+      <jump line="19" column="128" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" />
+      <jump line="5" column="23" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="6" column="23" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="7" column="24" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="9" column="28" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="10" column="30" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
+      <jump line="20" column="46" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" />
+      <jump line="76" column="55" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
+      <jump line="79" column="10" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
+      <jump line="80" column="29" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
+      <jump line="89" column="17" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" />
+      <jump line="37" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>class</text>
+      </register>
+      <register name="*" type="4">
+        <text>plus(it.toString())</text>
+      </register>
+      <register name="-" type="4">
+        <text>plus(it.toString())</text>
+      </register>
+      <register name="/" type="4">
+        <text>source ~</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxmcmFnbWVudAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaGlkZGVuX2NvbW1hbmRfdmlldyIKICAgICAgICBhbmRyb2lkOm5hbWU9ImpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuSGlkZGVuQ29tbWFuZEZyYWdtZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiIC8+Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGZ1biBEaXNwbGF5Lk1vZGUudG9TdHJpbmcoKTogU3RyaW5nIHsKCiAgICB9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXh0ZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygiVkVSU0lPTi5TREtfSU5UIDwgTSIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9ucmVyZmRmYXNqawo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHNkZmpmc2Rha2Zqc2Rha2pmbGtqZHNsamEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5ub3Rlc1N0cmVhbSA9IG5vdGVzRnV0dXJlLmFzU3RyZWFtKCk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohlsearch</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>source ~</last-search>
+      <last-offset>.ideavimrc</last-offset>
+      <last-pattern>source ~</last-pattern>
+      <last-replace>UserEntity</last-replace>
+      <last-substitute>User</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="true" />
