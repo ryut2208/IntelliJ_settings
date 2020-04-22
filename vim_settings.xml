@@ -20,6 +20,13 @@
         <entry>?</entry>
         <entry encoding="base64">XDxtcXR0XD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxpb3RfbXF0dF9qd3RcPg==</entry>
+        <entry>eclipse</entry>
+        <entry>fileutils</entry>
+        <entry>apatch</entry>
+        <entry>println</entry>
+        <entry>println\(</entry>
+        <entry>println(</entry>
       </history-search>
       <history-cmd>
         <entry>~/.ideavimrc</entry>
@@ -34,6 +41,11 @@
         <entry>106,111s/\?//g</entry>
         <entry>106,111s/?//g</entry>
         <entry>nohlsearch</entry>
+        <entry>%s/println/log\.d/g</entry>
+        <entry>%s/println/Log\.d/g</entry>
+        <entry>%s/println\(/Log\.d\(TAG, /g</entry>
+        <entry>%s/println\(/Log\.d\(TAG,\ /g</entry>
+        <entry>%s/println(/Log\.d\(TAG,\ /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -85,27 +97,24 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" timestamp="1587281033389">
-        <mark key="'" line="41" column="17" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/build.gradle" timestamp="1587536049824">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/ConnectionConfiguration.kt" timestamp="1587536155559">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="9" column="1" />
       </file>
       <file name="/a.dummy" timestamp="1587528370157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587533910623">
-        <mark key="'" line="136" column="24" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="116" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/android/memo_app/lib/noteView.dart" timestamp="1577953236879">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="35" column="27" />
-        <mark key="^" line="35" column="27" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587536262018">
+        <mark key="'" line="14" column="29" />
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="15" />
+        <mark key="^" line="63" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_registration_license.xml" timestamp="1587366702443">
         <mark key="[" line="15" column="54" />
@@ -124,14 +133,13 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" timestamp="1575740434898">
-        <mark key="'" line="20" column="46" />
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="45" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/MqttRunner.kt" timestamp="1587535793960">
+        <mark key="'" line="268" column="0" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" timestamp="1587530146597">
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" timestamp="1587535042171">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -143,13 +151,15 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587533622890">
-        <mark key="[" line="6" column="75" />
-        <mark key="]" line="6" column="75" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587536087377">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="26" column="1" />
         <mark key="." line="6" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/MqttInterface.kt" timestamp="1587536115188">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587377967019">
         <mark key="'" line="102" column="71" />
@@ -157,12 +167,6 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
         <mark key="^" line="87" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/MainActivity.kt" timestamp="1575740301833">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587377527749">
         <mark key="[" line="29" column="44" />
@@ -175,12 +179,19 @@
         <mark key="]" line="67" column="10" />
         <mark key="." line="67" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1587373362640">
-        <mark key="[" line="32" column="25" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1587535828642">
+        <mark key="[" line="144" column="65" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1587533847602">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" timestamp="1587536346279">
+        <mark key="'" line="169" column="28" />
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="65" column="16" />
+        <mark key="^" line="65" column="16" />
+        <mark key="." line="65" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1587536147898">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -251,6 +262,14 @@
       <jump line="46" column="65" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
       <jump line="94" column="84" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
       <jump line="135" column="24" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="259" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/MqttRunner.kt" />
+      <jump line="37" column="28" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/build.gradle" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="14" column="29" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="16" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="61" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="163" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="165" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -258,57 +277,57 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
+      <register name="*" type="4">
+        <text>println</text>
       </register>
       <register name="-" type="4">
-        <text>, mqttBridgeHostname, mqttBridgePort)</text>
+        <text>println</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250ZXh0XD4=</text>
+        <text>println(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBDb25uZWN0aW9uQ29uZmlndXJhdGlvbigKICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nLAogICAgdmFsIHByb2plY3RJZDogU3RyaW5nLAogICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcsCiAgICB2YWwgcmVnaXN0cnlJZDogU3RyaW5nLAogICAgdmFsIGFsZ29yaXRobTogU3RyaW5nLAogICAgdmFsIHByaXZhdGVLZXlGaWxlOiBTdHJpbmcKKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnVG9waWMgPSBTdHJpbmcuZm9ybWF0KCIvZGV2aWNlcy8lcy9jb25maWciLCBkZXZpY2VJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuY29udGV4dCA9IGNvbnRleHQKICAgIH0K</text>
+        <text encoding="base64">aW50ZXJmYWNlIE1xdHRJbnRlcmZhY2Ugewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNvbnRleHQ6IENvbnRleHQ/ID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgIC8vIFtTVEFSVCBpb3RfbXF0dF9qd3RdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgIHZhciBtQ2FsbGJhY2s6IE1xdHRDYWxsYmFjaz8gPSBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>%s/println(/Log\.d\(TAG,\ /g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250ZXh0XD4=</last-search>
+      <last-search>println(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250ZXh0XD4=</last-pattern>
-      <last-replace />
-      <last-substitute>?</last-substitute>
+      <last-pattern>println(</last-pattern>
+      <last-replace encoding="base64">TG9nXC5kXChUQUcsXCA=</last-replace>
+      <last-substitute>println(</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
