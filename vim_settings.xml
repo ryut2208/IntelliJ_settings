@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>color</entry>
-        <entry>MATCH_COUNT</entry>
-        <entry>drawable</entry>
         <entry>fragmentmanager</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>User</entry>
@@ -17,7 +14,6 @@
         <entry>google</entry>
         <entry>source ~</entry>
         <entry>\?</entry>
-        <entry>?</entry>
         <entry encoding="base64">XDxtcXR0XD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxpb3RfbXF0dF9qd3RcPg==</entry>
@@ -27,6 +23,10 @@
         <entry>println</entry>
         <entry>println\(</entry>
         <entry>println(</entry>
+        <entry encoding="base64">XDxsYXN0UHVibGlzaEVycm9yXD4=</entry>
+        <entry encoding="base64">XDxsYXN0Q29ubmVjdGlvbkVycm9yXD4=</entry>
+        <entry>publish</entry>
+        <entry>?</entry>
       </history-search>
       <history-cmd>
         <entry>~/.ideavimrc</entry>
@@ -35,7 +35,6 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
         <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
-        <entry>vsp</entry>
         <entry>%s/User/UserEntity/g</entry>
         <entry>src ~/.ideavimrc</entry>
         <entry>106,111s/\?//g</entry>
@@ -46,6 +45,10 @@
         <entry>%s/println\(/Log\.d\(TAG, /g</entry>
         <entry>%s/println\(/Log\.d\(TAG,\ /g</entry>
         <entry>%s/println(/Log\.d\(TAG,\ /g</entry>
+        <entry>vsp MqttInterface</entry>
+        <entry>vsp</entry>
+        <entry>212,222s/?//g</entry>
+        <entry>12,22s/?//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,11 +149,6 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1587365859546">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587536087377">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="26" column="1" />
@@ -168,6 +166,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="87" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttInterface.kt" timestamp="1587537795627">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587377527749">
         <mark key="[" line="29" column="44" />
         <mark key="]" line="22" column="22" />
@@ -184,12 +188,12 @@
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" timestamp="1587536346279">
-        <mark key="'" line="169" column="28" />
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="65" column="16" />
-        <mark key="^" line="65" column="16" />
-        <mark key="." line="65" column="15" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" timestamp="1587537783556">
+        <mark key="'" line="211" column="17" />
+        <mark key="[" line="63" column="78" />
+        <mark key="]" line="63" column="78" />
+        <mark key="^" line="63" column="81" />
+        <mark key="." line="63" column="78" />
       </file>
       <file name="/fragment.java" timestamp="1587536147898">
         <mark key="[" line="0" column="0" />
@@ -269,7 +273,22 @@
       <jump line="16" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="61" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="163" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
-      <jump line="165" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="235" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="28" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="27" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="83" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="140" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="165" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="175" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="184" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="187" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="63" column="77" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="86" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="87" column="19" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="145" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="149" column="36" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="211" column="17" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
+      <jump line="10" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttInterface.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,13 +297,13 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>println</text>
+        <text>pub</text>
       </register>
       <register name="-" type="4">
-        <text>println</text>
+        <text>pub</text>
       </register>
       <register name="/" type="4">
-        <text>println(</text>
+        <text>?</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YSBjbGFzcyBDb25uZWN0aW9uQ29uZmlndXJhdGlvbigKICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nLAogICAgdmFsIHByb2plY3RJZDogU3RyaW5nLAogICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcsCiAgICB2YWwgcmVnaXN0cnlJZDogU3RyaW5nLAogICAgdmFsIGFsZ29yaXRobTogU3RyaW5nLAogICAgdmFsIHByaXZhdGVLZXlGaWxlOiBTdHJpbmcKKQo=</text>
@@ -317,17 +336,17 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/println(/Log\.d\(TAG,\ /g</text>
+        <text>12,22s/?//g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>println(</last-search>
+      <last-search>?</last-search>
       <last-offset />
-      <last-pattern>println(</last-pattern>
-      <last-replace encoding="base64">TG9nXC5kXChUQUcsXCA=</last-replace>
-      <last-substitute>println(</last-substitute>
+      <last-pattern>?</last-pattern>
+      <last-replace />
+      <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
