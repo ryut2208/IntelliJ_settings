@@ -28,10 +28,10 @@
         <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
         <entry>vsp</entry>
         <entry>%s/User/UserEntity/g</entry>
-        <entry>nohlsearch</entry>
         <entry>src ~/.ideavimrc</entry>
         <entry>106,111s/\?//g</entry>
         <entry>106,111s/?//g</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -293,7 +293,7 @@ val privateKeyFile: Stri</text>
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nID0gdHh0RGV2aWNlLnRleHQudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHByb2plY3RJZDogU3RyaW5nID0gVXNlckNvbmZpZy5HQ1BfUFJPSkVDVF9JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcgPSBVc2VyQ29uZmlnLkdDUF9DTE9VRF9SRUdJT04KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZWdpc3RyeUlkOiBTdHJpbmcgPSBVc2VyQ29uZmlnLkdDUF9SRUdJU1RSWV9JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGFsZ29yaXRobTogU3RyaW5nID0gVXNlckNvbmZpZy5HQ1BfQUxHT1JJVEhNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcHJpdmF0ZUtleUZpbGU6IFN0cmluZyA9IFVzZXJDb25maWcuR0NQX1BSSVZBVEVfS0VZX05BTUUK</text>
       </register>
       <register name=":" type="4">
-        <text>106,111s/?//g</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
@@ -305,7 +305,7 @@ val privateKeyFile: Stri</text>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
