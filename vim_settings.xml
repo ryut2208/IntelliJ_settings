@@ -19,6 +19,7 @@
         <entry>\?</entry>
         <entry>?</entry>
         <entry encoding="base64">XDxtcXR0XD4=</entry>
+        <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>~/.ideavimrc</entry>
@@ -93,12 +94,12 @@
       <file name="/a.dummy" timestamp="1587528370157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587529356108">
-        <mark key="'" line="272" column="10" />
-        <mark key="[" line="266" column="54" />
-        <mark key="]" line="266" column="15" />
-        <mark key="." line="266" column="14" />
-        <mark key="^" line="266" column="15" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587533910623">
+        <mark key="'" line="136" column="24" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="116" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/work/android/memo_app/lib/noteView.dart" timestamp="1577953236879">
         <mark key="[" line="2" column="0" />
@@ -142,10 +143,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587524095617">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587533622890">
+        <mark key="[" line="6" column="75" />
+        <mark key="]" line="6" column="75" />
+        <mark key="." line="6" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
         <mark key="'" line="0" column="0" />
@@ -179,7 +180,7 @@
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1587365926804">
+      <file name="/fragment.java" timestamp="1587533847602">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -245,6 +246,11 @@
       <jump line="113" column="44" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
       <jump line="272" column="10" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
       <jump line="10" column="16" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" />
+      <jump line="21" column="35" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="34" column="24" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="46" column="65" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="94" column="84" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
+      <jump line="135" column="24" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -253,43 +259,43 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>, mqttBridgeHostname, mqttBridgePort)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtcXR0XD4=</text>
+        <text encoding="base64">XDxjb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG9waWMgPSBTdHJpbmcuZm9ybWF0KCIvZGV2aWNlcy8lcy9ldmVudHMiLCBkZXZpY2VJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1xdHRTZXJ2ZXJBZGRyZXNzID0gU3RyaW5nLmZvcm1hdCgic3NsOi8vJXM6JXMiLCBtcXR0QnJpZGdlSG9zdG5hbWUsIG1xdHRCcmlkZ2VQb3J0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29uZmlnVG9waWMgPSBTdHJpbmcuZm9ybWF0KCIvZGV2aWNlcy8lcy9jb25maWciLCBkZXZpY2VJZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHRoaXMuY29udGV4dCA9IGNvbnRleHQKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNvbnRleHQ6IENvbnRleHQ/ID0gbnVsbAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBjbGllbnQhIS5wdWJsaXNoKHRvcGljLCBtZXNzYWdlKQogICAgICAgIH0gY2F0Y2ggKGU6IE1xdHRFeGNlcHRpb24pIHsKICAgICAgICAgICAgbGFzdFB1Ymxpc2hFcnJvciA9IGUudG9TdHJpbmcoKQogICAgICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdG9waWMgPSBTdHJpbmcuZm9ybWF0KCIvZGV2aWNlcy8lcy9ldmVudHMiLCBkZXZpY2VJZCkK</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGF5bG9hZCA9IGphdmEubGFuZy5TdHJpbmcuZm9ybWF0KAogICAgICAgICAgICAiJXMsJXMsJXMsJXMsJXMsJXMsJXMsJXMsJXMsJXMiLAogICAgICAgICAgICBkZXZpY2VJZCwKICAgICAgICAgICAgZHQudG9TdHJpbmcoKSwKICAgICAgICAgICAgbW9kZWwsCiAgICAgICAgICAgIGxhdCwKICAgICAgICAgICAgbG5nLAogICAgICAgICAgICBiYXR0TGV2ZWwudG9TdHJpbmcoKSwKICAgICAgICAgICAgYmF0dEhlYWx0aC50b1N0cmluZygpLAogICAgICAgICAgICBvc1ZlcnNpb24sCiAgICAgICAgICAgIHBhdGNoTGV2ZWwsCiAgICAgICAgICAgIHJlbGVhc2VWZXJzaW9uCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -298,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtcXR0XD4=</last-search>
+      <last-search encoding="base64">XDxjb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtcXR0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb250ZXh0XD4=</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
