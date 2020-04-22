@@ -16,6 +16,8 @@
         <entry encoding="base64">XDxMaW5rZWRMaXN0XD4=</entry>
         <entry>google</entry>
         <entry>source ~</entry>
+        <entry>\?</entry>
+        <entry>?</entry>
       </history-search>
       <history-cmd>
         <entry>~/.ideavimrc</entry>
@@ -28,6 +30,8 @@
         <entry>%s/User/UserEntity/g</entry>
         <entry>nohlsearch</entry>
         <entry>src ~/.ideavimrc</entry>
+        <entry>106,111s/\?//g</entry>
+        <entry>106,111s/?//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -73,8 +77,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" timestamp="1574526202210">
-        <mark key="'" line="112" column="8" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/UserConfig.kt" timestamp="1587523070887">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" timestamp="1587281033389">
         <mark key="'" line="41" column="17" />
@@ -82,11 +88,12 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/pubspec.yaml" timestamp="1571036245099">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="23" column="1" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587524239949">
+        <mark key="'" line="105" column="60" />
+        <mark key="[" line="114" column="15" />
+        <mark key="]" line="114" column="15" />
+        <mark key="." line="114" column="15" />
+        <mark key="^" line="111" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/work/android/memo_app/lib/noteView.dart" timestamp="1577953236879">
         <mark key="[" line="2" column="0" />
@@ -105,13 +112,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587377967019">
-        <mark key="'" line="102" column="71" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="87" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1587378100043">
         <mark key="[" line="36" column="20" />
         <mark key="]" line="36" column="28" />
@@ -125,18 +125,38 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/res/layout/activity_main.xml" timestamp="1575738384726">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="12" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" timestamp="1575740434898">
         <mark key="'" line="20" column="46" />
         <mark key="[" line="24" column="62" />
         <mark key="]" line="20" column="41" />
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" timestamp="1587523964832">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1587365859546">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTInterface.kt" timestamp="1587524095617">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587377967019">
+        <mark key="'" line="102" column="71" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="87" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/MainActivity.kt" timestamp="1575740301833">
         <mark key="'" line="0" column="0" />
@@ -150,35 +170,15 @@
         <mark key="." line="22" column="22" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/RecordView.dart" timestamp="1574526459245">
-        <mark key="[" line="118" column="6" />
-        <mark key="]" line="119" column="4" />
-        <mark key="^" line="119" column="4" />
-        <mark key="." line="119" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" timestamp="1587377895075">
         <mark key="[" line="67" column="10" />
         <mark key="]" line="67" column="10" />
         <mark key="." line="67" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/work/flutter/nthmatch/lib/FirebaseManager.dart" timestamp="1574525043811">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-        <mark key="^" line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1587365859546">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1587373362640">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" timestamp="1587365135678">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587365926804">
         <mark key="[" line="0" column="0" />
@@ -239,6 +239,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/.gitignore" />
       <jump line="37" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
       <jump line="103" column="71" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
+      <jump line="74" column="14" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" />
+      <jump line="105" column="60" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -246,59 +248,64 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluZm9ybWF0aW9uX3ZpZXcudmlzaWJpbGl0eSA9</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>source ~</text>
+        <text>?</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
+      <register name="0" type="4">
+        <text>ConnectionConfiguration</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGaXJlYmFzZUluc3RhbmNlSWQuZ2V0SW5zdGFuY2UoKS5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBpbnRlcmZhY2UgSGlkZGVuQ29tbWFuZENhbGxiYWNrIHsKICAgICAgICAvKiog6Zqg44GX44Kz44Oe44Oz44OJ44GM5a6M5oiQ44GX44Gf44Go44GN44Gu44Kz44O844Or44OQ44OD44KvICovCiAgICAgICAgZnVuIG9uQ29tcGxldGVDb21tYW5kKCkKICAgIH0K</text>
+        <text encoding="base64">ZGF0YSBjbGFzcyBDb25uZWN0aW9uQ29uZmlndXJhdGlvbigKICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nLAogICAgdmFsIHByb2plY3RJZDogU3RyaW5nLAogICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcsCiAgICB2YWwgcmVnaXN0cnlJZDogU3RyaW5nLAogICAgdmFsIGFsZ29yaXRobTogU3RyaW5nLAogICAgdmFsIHByaXZhdGVLZXlGaWxlOiBTdHJpbmcKKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoa2V5Q29kZSA9PSBLZXlFdmVudC5LRVlDT0RFX0RQQURfRE9XTiAmJiBhY3Rpb24gPT0gS2V5RXZlbnQuQUNUSU9OX1VQKSB7CiAgICAgICAgICAKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBDb25uZWN0aW9uQ29uZmlndXJhdGlvbigKICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nLAogICAgdmFsIHByb2plY3RJZDogU3RyaW5nLAogICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcsCiAgICB2YWwgcmVnaXN0cnlJZDogU3RyaW5nLAogICAgdmFsIGFsZ29yaXRobTogU3RyaW5nLAogICAgdmFsIHByaXZhdGVLZXlGaWxlOiBTdHJpbmcKKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBpbmZvcm1hdGlvbl92aWV3LnZpc2liaWxpdHkgPSBpZiAoaW5mb3JtYXRpb25fdmlldy5pc1Zpc2libGUpIHsKICAgICAgICAgICAgICAgIFZpZXcuSU5WSVNJQkxFCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBWaWV3LlZJU0lCTEUKICAgICAgICAgICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rpb25Db25maWd1cmF0aW9uLnB1dFN0cmluZygiTVFUVF9ERVZJQ0VfSUQiLCBkZXZpY2VJZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rpb25Db25maWd1cmF0aW9uLnB1dFN0cmluZygiTVFUVF9QUk9KRUNUX0lEIiwgcHJvamVjdElkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdGlvbkNvbmZpZ3VyYXRpb24ucHV0U3RyaW5nKCJNUVRUX0NMT1VEX1JFR0lPTiIsIGNsb3VkUmVnaW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29ubmVjdGlvbkNvbmZpZ3VyYXRpb24ucHV0U3RyaW5nKCJNUVRUX1JFR0lTVFJZX0lEIiwgcmVnaXN0cnlJZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbm5lY3Rpb25Db25maWd1cmF0aW9uLnB1dFN0cmluZygiTVFUVF9BTEdPUklUSE0iLCBhbGdvcml0aG0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uQ29uZmlndXJhdGlvbi5wdXRTdHJpbmcoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIk1RVFRfUFJJVkFURV9LRVlfTkFNRSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJpdmF0ZUtleUZpbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlzaWJsZSA9ICF0aGlzLmlzVmlzaWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vICBUZXN0IGNvbm5lY3Rpb24gdG8gTVFUVEdDUCBzZXJ2ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuaXNWaXNpYmxlKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHkubGV0IHsKICAgICAgICAgICAgICAgIGlmIChpdCBpcyBIaWRkZW5Db21tYW5kQ2FsbGJhY2spIHsKICAgICAgICAgICAgICAgICAgICBpdC5vbkNvbXBsZXRlQ29tbWFuZCgpCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIExvZ1V0aWxzLmUoVEFHLCAiY2FsbGJhY2sgaXMgdW5pbXBsZW1lbnRlZCIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="7" type="8">
+        <text>val deviceId : String = 
+val projectId: String = 
+val cloudRegion: String 
+val registryId: String =
+val algorithm: String = 
+val privateKeyFile: Stri</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1bmtub3duIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VJbnN0YW5jZUlkLmdldEluc3RhbmNlKCkuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBkZXZpY2VJZDogU3RyaW5nID0gdHh0RGV2aWNlLnRleHQudG9TdHJpbmcoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHByb2plY3RJZDogU3RyaW5nID0gVXNlckNvbmZpZy5HQ1BfUFJPSkVDVF9JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGNsb3VkUmVnaW9uOiBTdHJpbmcgPSBVc2VyQ29uZmlnLkdDUF9DTE9VRF9SRUdJT04KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCByZWdpc3RyeUlkOiBTdHJpbmcgPSBVc2VyQ29uZmlnLkdDUF9SRUdJU1RSWV9JRAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGFsZ29yaXRobTogU3RyaW5nID0gVXNlckNvbmZpZy5HQ1BfQUxHT1JJVEhNCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWwgcHJpdmF0ZUtleUZpbGU6IFN0cmluZyA9IFVzZXJDb25maWcuR0NQX1BSSVZBVEVfS0VZX05BTUUK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>106,111s/?//g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>source ~</last-search>
+      <last-search>?</last-search>
       <last-offset>.ideavimrc</last-offset>
-      <last-pattern>source ~</last-pattern>
-      <last-replace>UserEntity</last-replace>
-      <last-substitute>User</last-substitute>
+      <last-pattern>?</last-pattern>
+      <last-replace />
+      <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
