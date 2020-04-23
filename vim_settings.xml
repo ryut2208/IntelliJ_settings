@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>apatch</entry>
         <entry>println</entry>
         <entry>println\(</entry>
         <entry>println(</entry>
@@ -27,9 +26,9 @@
         <entry>oncreateview</entry>
         <entry>change</entry>
         <entry>queue</entry>
+        <entry>postdelayed</entry>
       </history-search>
       <history-cmd>
-        <entry>e ~/.ideavimrc</entry>
         <entry>vsp ~/.vimrc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
@@ -49,6 +48,7 @@
         <entry>nohlsearch</entry>
         <entry>sp</entry>
         <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -97,24 +97,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/UserConfig.kt" timestamp="1587539367582">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1587626249655">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="10" column="8" />
-        <mark key="^" line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587541104936">
-        <mark key="'" line="32" column="36" />
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="34" />
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1587628299919">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_registration_license.xml" timestamp="1587610325979">
         <mark key="[" line="5" column="27" />
@@ -122,20 +109,12 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/UserConfig.kt" timestamp="1587541266787">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/res/layout/activity_main.xml" timestamp="1587539526972">
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587626960737">
-        <mark key="[" line="50" column="7" />
-        <mark key="]" line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="50" column="9" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587629139408">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="50" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587624664723">
         <mark key="[" line="7" column="0" />
@@ -143,14 +122,18 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587624661457">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="36" column="112" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587630025325">
+        <mark key="[" line="67" column="27" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="24" />
+        <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587626846335">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587630280503">
         <mark key="'" line="148" column="39" />
-        <mark key="^" line="58" column="9" />
+        <mark key="[" line="587" column="44" />
+        <mark key="]" line="587" column="60" />
+        <mark key="^" line="587" column="60" />
+        <mark key="." line="587" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" timestamp="1587624692566">
         <mark key="[" line="10" column="9" />
@@ -158,10 +141,10 @@
         <mark key="^" line="11" column="41" />
         <mark key="." line="11" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" timestamp="1587622720079">
-        <mark key="'" line="82" column="28" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="201" column="20" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" timestamp="1587629694317">
+        <mark key="'" line="188" column="13" />
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="209" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1587622095109">
         <mark key="[" line="0" column="0" />
@@ -177,6 +160,11 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_video.xml" timestamp="1587624613715">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/scoreLib/ScoreUtil.dart" timestamp="1587628208636">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587622061675">
         <mark key="'" line="102" column="71" />
@@ -194,6 +182,9 @@
         <mark key="]" line="67" column="10" />
         <mark key="." line="67" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
+        <mark key="[" line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" timestamp="1587541598971">
         <mark key="'" line="25" column="18" />
         <mark key="[" line="206" column="28" />
@@ -203,9 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
-      <jump line="39" column="29" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
-      <jump line="40" column="40" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="50" column="41" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="68" column="17" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="89" column="27" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
@@ -303,6 +291,9 @@
       <jump line="53" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
       <jump line="82" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
       <jump line="148" column="39" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="492" column="10" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
+      <jump line="188" column="13" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,59 +301,60 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZ2lvbiBvdmVycmlkZQo=</text>
+      <register name="*" type="4">
+        <text>playerView</text>
       </register>
       <register name="-" type="4">
-        <text>package:dcoord/scoreLib/</text>
+        <text>playerView</text>
       </register>
       <register name="/" type="4">
-        <text>queue</text>
+        <text>postdelayed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZ2lvbiBvdmVycmlkZQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAvLyDoqq3jgb/ovrzjgpPjgaDnlLvlg4/jgpLooajnpLoKICAgICAgICBpbWFnZVZpZXcuc2V0SW1hZ2VEcmF3YWJsZShyZXNvdXJjZSk7CiAgICAgICAgcmV0dXJuIHRydWU7</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBmdW4gaW5pdGlhbGl6ZShhY3Rpdml0eTogQWN0aXZpdHkpIHsKICAgICAgICB2YWwgZGlzcGxheSA9IGFjdGl2aXR5LndpbmRvd01hbmFnZXIuZGVmYXVsdERpc3BsYXkKICAgICAgICBkaXNwbGF5LmdldFNpemUocG9pbnQpCiAgICAgICAgcmVxdWVzdE9wdGlvbnMgPSBSZXF1ZXN0T3B0aW9ucygpLmZpdENlbnRlcigpLm92ZXJyaWRlKHBvaW50LngsIHBvaW50LnkpCiAgICB9Cgo=</text>
+      <register name="1" type="8">
+        <text>norify
+norify</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGxvYWQoKSB7CiAgICAgICAgLy8g55S75YOP44Gu6Kqt44G/6L6844G/CiAgICAgICAgY29udGVudD8ubGV0IHsKICAgICAgICAgICAgR2xpZGUud2l0aCh0aGlzKQogICAgICAgICAgICAgICAgICAgIC5sb2FkKGl0LnBhdGgpCiAgICAgICAgICAgICAgICAgICAgLmxpc3RlbmVyKG9iamVjdCA6IFJlcXVlc3RMaXN0ZW5lcjxEcmF3YWJsZT4gewogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25Mb2FkRmFpbGVkKGU6IEdsaWRlRXhjZXB0aW9uPywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogQW55PywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YXJnZXQ6IFRhcmdldDxEcmF3YWJsZT4/LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzRmlyc3RSZXNvdXJjZTogQm9vbGVhbik6IEJvb2xlYW4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g55S75YOP44Gu44Ot44O844OJ5aSx5pWX5pmC44Gv5Y2z5bqn44Gr6KGo56S657WC5LqGCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dVdGlscy5lKFRBRywgIm9uTG9hZEZhaWxlZDogJHtpdC5uYW1lfSIpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBhY3Rpdml0eTogQWN0aXZpdHkgPSBnZXRBY3Rpdml0eSgpCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhY3Rpdml0eSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZSAhPSBudWxsKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZShhY3Rpdml0eSwgIkltYWdlIGxvYWQgZmFpbGVkLiAiICsgZS5tZXNzYWdlICsgIiBjb250ZW50OiIgKwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxheWluZ0NvbnRlbnQubmFtZSkKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZShhY3Rpdml0eSwgIkltYWdlIGxvYWQgZmFpbGVkLiBjb250ZW50OiIgKyBwbGF5aW5nQ29udGVudC5uYW1lKQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5vdGlmeUhhbmRsZXIucG9zdChub3RpZnlSdW5uYWJsZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25SZXNvdXJjZVJlYWR5KHJlc291cmNlOiBEcmF3YWJsZT8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw6IEFueT8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0OiBUYXJnZXQ8RHJhd2FibGU+PywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhU291cmNlOiBEYXRhU291cmNlPywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc0ZpcnN0UmVzb3VyY2U6IEJvb2xlYW4pOiBCb29sZWFuIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldEltYWdlRHJhd2FibGUocmVzb3VyY2UpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLmFwcGx5KG9wdGlvbnMpCiAgICAgICAgICAgICAgICAgICAgLnByZWxvYWQoKQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoZmllbGQubWltZVR5cGUpIHsKICAgICAgICAgICAgICAgIGlzIHN0YXJ0CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnlLvpnaLjgrXjgqTjgrrjga7lj5blvpcKLy8gICAgICAgIHZhbCBhY3Rpdml0eTogQWN0aXZpdHkgPQovLyAgICAgICAgdmFsIGRpc3BsYXkgPSBhY3Rpdml0eS53aW5kb3dNYW5hZ2VyLmRlZmF1bHREaXNwbGF5CiAgICAgICAgdmFsIHBvaW50ID0gUG9pbnQoKQovLyAgICAgICAgZGlzcGxheS5nZXRTaXplKHBvaW50KQovLwogICAgICAgIHZhbCBvcHRpb25zID0gUmVxdWVzdE9wdGlvbnMoKQogICAgICAgICAgICAgICAgLmZpdENlbnRlcigpCiAgICAgICAgICAgICAgICAub3ZlcnJpZGUocG9pbnQueCwgcG9pbnQueSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKGNvbnRleHQ6IENvbnRleHQpIDogc3VwZXIoY29udGV4dCwgbnVsbCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1hZ2VfcGxheWVyLmNvbnRlbnQgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g55S75YOP44Gu44Ot44O844OJ5aSx5pWX5pmC44Gv5Y2z5bqn44Gr6KGo56S657WC5LqGCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZV9wbGF5ZXIuaW5pdGlhbGl6ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZpdHkgPSBnZXRBY3Rpdml0eSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICAgICAgcGxheVF1ZXVlLmFkZChmaXJzdCkK</text>
+      </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>queue</last-search>
+      <last-search>postdelayed</last-search>
       <last-offset />
-      <last-pattern>queue</last-pattern>
+      <last-pattern>postdelayed</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
