@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>println</entry>
         <entry>println\(</entry>
         <entry>println(</entry>
         <entry encoding="base64">XDxsYXN0UHVibGlzaEVycm9yXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>change</entry>
         <entry>queue</entry>
         <entry>postdelayed</entry>
+        <entry>findviewbyid</entry>
       </history-search>
       <history-cmd>
         <entry>vsp ~/.vimrc</entry>
@@ -109,12 +109,12 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587629139408">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="50" column="32" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="39" />
-        <mark key="^" line="50" column="40" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587631899088">
+        <mark key="'" line="57" column="31" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="41" />
+        <mark key="." line="29" column="40" />
+        <mark key="^" line="29" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587624664723">
         <mark key="[" line="7" column="0" />
@@ -128,12 +128,12 @@
         <mark key="." line="67" column="24" />
         <mark key="^" line="67" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587630280503">
-        <mark key="'" line="148" column="39" />
-        <mark key="[" line="587" column="44" />
-        <mark key="]" line="587" column="60" />
-        <mark key="^" line="587" column="60" />
-        <mark key="." line="587" column="59" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587631178405">
+        <mark key="'" line="582" column="35" />
+        <mark key="[" line="588" column="104" />
+        <mark key="]" line="588" column="102" />
+        <mark key="^" line="588" column="102" />
+        <mark key="." line="588" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" timestamp="1587624692566">
         <mark key="[" line="10" column="9" />
@@ -194,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="41" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
-      <jump line="68" column="17" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="89" column="27" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="78" column="21" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="42" column="58" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
@@ -294,6 +292,8 @@
       <jump line="492" column="10" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
       <jump line="188" column="13" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
+      <jump line="582" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="51" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,44 +302,44 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>playerView</text>
+        <text>PlayQueue</text>
       </register>
       <register name="-" type="4">
-        <text>playerView</text>
+        <text>PlayQueue</text>
       </register>
       <register name="/" type="4">
-        <text>postdelayed</text>
+        <text>findviewbyid</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAvLyDoqq3jgb/ovrzjgpPjgaDnlLvlg4/jgpLooajnpLoKICAgICAgICBpbWFnZVZpZXcuc2V0SW1hZ2VEcmF3YWJsZShyZXNvdXJjZSk7CiAgICAgICAgcmV0dXJuIHRydWU7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAic2V0UGxheVF1ZXVlIikK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGxheWVyRnJhZ21lbnQgcGxheWVyRnJhZ21lbnQgPSBrawo=</text>
+      </register>
+      <register name="2" type="8">
         <text>norify
 norify</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGtrCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkID0gbnVsbAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbWFnZV9wbGF5ZXIuaW5pdGlhbGl6ZSgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgYWN0aXZpdHkgPSBnZXRBY3Rpdml0eSgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcGxheVF1ZXVlLmFkZChmaXJzdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -348,13 +348,13 @@ norify</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>postdelayed</last-search>
+      <last-search>findviewbyid</last-search>
       <last-offset />
-      <last-pattern>postdelayed</last-pattern>
+      <last-pattern>findviewbyid</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
