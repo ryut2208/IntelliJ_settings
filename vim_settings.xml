@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>User</entry>
-        <entry encoding="base64">XDxMaW5rZWRMaXN0XD4=</entry>
-        <entry>google</entry>
         <entry>source ~</entry>
         <entry>\?</entry>
         <entry encoding="base64">XDxtcXR0XD4=</entry>
@@ -27,6 +24,9 @@
         <entry>?</entry>
         <entry>no error</entry>
         <entry>ondestroy</entry>
+        <entry>zxing</entry>
+        <entry encoding="base64">XDx3aWR0aFw+</entry>
+        <entry>layout</entry>
       </history-search>
       <history-cmd>
         <entry>~/.ideavimrc</entry>
@@ -112,6 +112,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="9" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/QrCodeGenerator.kt" timestamp="1587609500273">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="/a.dummy" timestamp="1587528370157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -127,12 +132,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587377967019">
-        <mark key="'" line="102" column="71" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="87" column="28" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_registration_license.xml" timestamp="1587610325979">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/UserConfig.kt" timestamp="1587541266787">
         <mark key="[" line="5" column="40" />
@@ -142,12 +146,6 @@
       <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/res/layout/activity_main.xml" timestamp="1587539526972">
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1587378100043">
-        <mark key="[" line="36" column="20" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="27" />
-        <mark key="^" line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/MqttRunner.kt" timestamp="1587535793960">
         <mark key="'" line="268" column="0" />
@@ -161,6 +159,9 @@
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" timestamp="1587609484347">
+        <mark key="'" line="34" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" timestamp="1587539285484">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="22" column="0" />
@@ -168,13 +169,8 @@
         <mark key="^" line="30" column="28" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_verification.xml" timestamp="1587377527749">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="14" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" timestamp="1587377895075">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" timestamp="1587609549023">
+        <mark key="'" line="84" column="40" />
         <mark key="[" line="67" column="10" />
         <mark key="]" line="67" column="10" />
         <mark key="." line="67" column="10" />
@@ -204,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/work/flutter/first_flutter_app/flutter_app/lib/main.dart" />
-      <jump line="14" column="12" filename="$USER_HOME$/Documents/work/flutter/first_flutter_app/flutter_app/lib/main.dart" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="67" column="13" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
@@ -301,6 +295,11 @@
       <jump line="32" column="36" filename="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" />
       <jump line="25" column="18" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="73" column="23" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="29" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" />
+      <jump line="31" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" />
+      <jump line="33" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" />
+      <jump line="34" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" />
+      <jump line="84" column="40" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,14 +307,14 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbXF0dFJ1bm5lciAhPSBudWxsOwo=</text>
+      <register name="*" type="4">
+        <text>540dp</text>
       </register>
       <register name="-" type="4">
-        <text>java.lang.</text>
+        <text>540dp</text>
       </register>
       <register name="/" type="4">
-        <text>ondestroy</text>
+        <text>layout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHByaXZhdGUgdmFsIFRBRyA9IE1xdHRSdW5uZXI6OmNsYXNzLmphdmEuc2ltcGxlTmFtZQogICAgfQo=</text>
@@ -354,13 +353,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ondestroy</last-search>
+      <last-search>layout</last-search>
       <last-offset />
-      <last-pattern>ondestroy</last-pattern>
+      <last-pattern>layout</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
