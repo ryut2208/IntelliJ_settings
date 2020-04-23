@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fileutils</entry>
         <entry>apatch</entry>
         <entry>println</entry>
         <entry>println\(</entry>
@@ -27,6 +26,7 @@
         <entry>onresource</entry>
         <entry>oncreateview</entry>
         <entry>change</entry>
+        <entry>queue</entry>
       </history-search>
       <history-cmd>
         <entry>e ~/.ideavimrc</entry>
@@ -103,6 +103,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1587626249655">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MQTTGCP.kt" timestamp="1587541104936">
         <mark key="'" line="32" column="36" />
         <mark key="[" line="23" column="26" />
@@ -125,18 +131,11 @@
         <mark key="[" line="50" column="26" />
         <mark key="]" line="50" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587624766634">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="51" />
-        <mark key="^" line="25" column="58" />
-        <mark key="." line="31" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/sample_mqtt_gcp/app/src/main/java/com/example/cloudiotdemo/MainActivity.kt" timestamp="1587539285484">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="30" column="28" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587626960737">
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="10" />
+        <mark key="^" line="50" column="10" />
+        <mark key="." line="50" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587624664723">
         <mark key="[" line="7" column="0" />
@@ -149,8 +148,8 @@
         <mark key="]" line="36" column="112" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587614245321">
-        <mark key="'" line="440" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587626846335">
+        <mark key="'" line="148" column="39" />
         <mark key="^" line="58" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" timestamp="1587624692566">
@@ -204,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="10" filename="$USER_HOME$/Documents/work/flutter/winlo_upper/lib/main.dart" />
       <jump line="18" column="20" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="39" column="29" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
       <jump line="40" column="40" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/main.dart" />
@@ -304,6 +302,7 @@
       <jump line="85" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
       <jump line="53" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
       <jump line="82" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
+      <jump line="148" column="39" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,17 +310,17 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>INVISIBLE</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIC8vIHJlZ2lvbiBvdmVycmlkZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>INVISIBLE</text>
+        <text>package:dcoord/scoreLib/</text>
       </register>
       <register name="/" type="4">
-        <text>change</text>
+        <text>queue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWRlb19wbGF5ZXIudmlzaWJpbGl0eSA9IFZpZXcuSU5WSVNJQkxFCg==</text>
+        <text encoding="base64">ICAgIC8vIHJlZ2lvbiBvdmVycmlkZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBmdW4gaW5pdGlhbGl6ZShhY3Rpdml0eTogQWN0aXZpdHkpIHsKICAgICAgICB2YWwgZGlzcGxheSA9IGFjdGl2aXR5LndpbmRvd01hbmFnZXIuZGVmYXVsdERpc3BsYXkKICAgICAgICBkaXNwbGF5LmdldFNpemUocG9pbnQpCiAgICAgICAgcmVxdWVzdE9wdGlvbnMgPSBSZXF1ZXN0T3B0aW9ucygpLmZpdENlbnRlcigpLm92ZXJyaWRlKHBvaW50LngsIHBvaW50LnkpCiAgICB9Cgo=</text>
@@ -357,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>change</last-search>
+      <last-search>queue</last-search>
       <last-offset />
-      <last-pattern>change</last-pattern>
+      <last-pattern>queue</last-pattern>
       <last-replace />
       <last-substitute>?</last-substitute>
       <last-dir>1</last-dir>
