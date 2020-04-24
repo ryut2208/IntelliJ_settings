@@ -108,6 +108,9 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1587614100390">
         <mark key="'" line="27" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Content.kt" timestamp="1587716314892">
+        <mark key="[" line="102" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_video.xml" timestamp="1587624613715">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="8" column="15" />
@@ -162,12 +165,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587713818557">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587716387631">
         <mark key="'" line="91" column="37" />
-        <mark key="[" line="414" column="12" />
-        <mark key="]" line="414" column="19" />
-        <mark key="." line="414" column="18" />
-        <mark key="^" line="414" column="19" />
+        <mark key="[" line="707" column="41" />
+        <mark key="]" line="708" column="0" />
+        <mark key="." line="708" column="0" />
+        <mark key="^" line="708" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -290,11 +293,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>new Handler</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Handler</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>new handler</text>
@@ -303,31 +306,31 @@
         <text>onFinishPrepare</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gMy4xLjHooYznm64K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29udGVudC5pc0JsYW5rKCkpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9yLmZyb21BUkdCKDB4RkYsIDB4MDAsIDB4MDAsIDB4RkYpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocGxheWVyRnJhZ21lbnQuaXNQbGF5aW5nQmxhbmsoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuaXNQbGF5aW5nID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzUGxheWluZ0JsYW5rOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gMy4xLjHooYznm64K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1haW5hOk1haW5BeGlzQWxpZ25tZW50LmNlbnRlciwK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9yLmZyb21BUkdCKDB4RkYsIDB4MDAsIDB4MDAsIDB4RkYpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmdyZXlbODMwXSwKLy8gICAgICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsdWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoaWxkOiBJbWFnZS5hc3NldCgnaW1hZ2VzL2FkX2Jhbm5lci5wbmcnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -342,7 +345,7 @@
       <last-replace>mediaPlayer?</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
