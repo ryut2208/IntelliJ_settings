@@ -168,11 +168,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587698506855">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587702365553">
         <mark key="'" line="409" column="20" />
-        <mark key="[" line="446" column="32" />
-        <mark key="]" line="446" column="0" />
-        <mark key="." line="446" column="0" />
+        <mark key="[" line="417" column="49" />
+        <mark key="]" line="417" column="49" />
+        <mark key="." line="417" column="49" />
+        <mark key="^" line="453" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -295,44 +296,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJpc3BsYXlpbmc6ICIsIHBsYXllci5pc1BsYXlpbmcudG9TdHJpbmcoKSk7Cg==</text>
+      <register name="*" type="4">
+        <text>FinishPrepare</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>FinishPrepare</text>
       </register>
       <register name="/" type="4">
         <text>schedule update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAibGV0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAic3RhcnRTbGlkZVNob3c6b25GaW5pc2hQcmVwYXJlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJpc3BsYXlpbmc6ICIsIHBsYXllci5pc1BsYXlpbmcudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAic3RhcnRTbGlkZVNob3c6b25GaW5pc2hQbGF5YmFjayIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzUGxheWluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJpc3BsYXlpbmc6ICIsIHBsYXllci5pc1BsYXlpbmcudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuc2xpZGVzaG93LkJhc2VQbGF5ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzUGxheWluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuc2xpZGVzaG93LkltYWdlUGxheWVyCg==</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuc2xpZGVzaG93LkJhc2VQbGF5ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBtZWRpYVBsYXllciA9IE1lZGlhUGxheWVyKCkKLy8gICAgICAgICAgICBtZWRpYVBsYXllcj8ubGV0IHsK</text>
+        <text encoding="base64">aW1wb3J0IGpwLmNvLm5ld3Bob3JpYS53YnMudjUuZnJhZ21lbnQuc2xpZGVzaG93LkltYWdlUGxheWVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBtZWRpYVBsYXllciA9IE1lZGlhUGxheWVyKCkKLy8gICAgICAgICAgICBtZWRpYVBsYXllcj8ubGV0IHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAiYXN5bmMiKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBtZWRpYVBsYXllciA9IE1lZGlhUGxheWVyKCkKLy8gICAgICAgICAgICBtZWRpYVBsYXllcj8ubGV0IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBtZWRpYVBsYXllciA9IE1lZGlhUGxheWVyKCkKLy8gICAgICAgICAgICBtZWRpYVBsYXllcj8ubGV0IHsKICAgICAgICAgICAgTG9nLmQoVEFHLCAiYXN5bmMiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5vdGlmeUhhbmRsZXIgPSBIYW5kbGVyKCkKICAgIHByaXZhdGUgdmFsIG5vdGlmeVJ1bm5hYmxlID0gUnVubmFibGUgewogICAgICAgIC8vIOWGjeeUn+e1guS6hgogICAgICAgIExvZy5kKFRBRywgIm9uIGZpbmlzaCBwbGF5YmFjay4iKQogICAgICAgIGNhbGxiYWNrPy5vbkZpbmlzaFBsYXliYWNrKCkKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5vdGlmeUhhbmRsZXIgPSBIYW5kbGVyKCkKICAgIHByaXZhdGUgdmFsIG5vdGlmeVJ1bm5hYmxlID0gUnVubmFibGUgewogICAgICAgIC8vIOWGjeeUn+e1guS6hgogICAgICAgIExvZy5kKFRBRywgIm9uIGZpbmlzaCBwbGF5YmFjay4iKQogICAgICAgIGNhbGxiYWNrPy5vbkZpbmlzaFBsYXliYWNrKCkKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>23,36s/it/mediaPlayer?/g</text>
@@ -347,7 +348,7 @@
       <last-replace>mediaPlayer?</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
