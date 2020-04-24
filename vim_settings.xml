@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>no error</entry>
-        <entry>ondestroy</entry>
         <entry>zxing</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry>layout</entry>
@@ -27,6 +25,8 @@
         <entry>schedule update</entry>
         <entry>日付部</entry>
         <entry>ad_banner</entry>
+        <entry>handler</entry>
+        <entry>new handler</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
@@ -162,8 +162,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587713348872">
-        <mark key="." line="253" column="28" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587713818557">
+        <mark key="'" line="91" column="37" />
+        <mark key="[" line="414" column="12" />
+        <mark key="]" line="414" column="19" />
+        <mark key="." line="414" column="18" />
+        <mark key="^" line="414" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -179,20 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="17" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="215" column="50" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="459" column="36" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="460" column="20" filename="$USER_HOME$/Documents/work/np/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="84" column="8" filename="$USER_HOME$/Documents/work/flutter/nthmatch/lib/TopView.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/MainActivity.kt" />
-      <jump line="19" column="128" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" />
-      <jump line="5" column="23" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="6" column="23" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="7" column="24" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="8" column="28" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="9" column="28" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="10" column="30" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/main/java/com/ryut2208/hashauthentification/HashCalculator.kt" />
-      <jump line="20" column="46" filename="$USER_HOME$/Documents/work/android/HashAuthentification/app/src/test/java/com/ryut2208/hashauthentification/ExampleUnitTest.kt" />
       <jump line="76" column="55" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
       <jump line="79" column="10" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
       <jump line="80" column="29" filename="$USER_HOME$/Documents/work/android/memo_app/lib/main.dart" />
@@ -249,7 +239,6 @@
       <jump line="34" column="32" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.journeyapps/zxing-android-embedded/3.6.0/32f275c483fab0ce2b99b4c12b0c45cf0516a294/zxing-android-embedded-3.6.0-sources.jar!/com/journeyapps/barcodescanner/BarcodeEncoder.java" />
       <jump line="84" column="40" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" />
       <jump line="27" column="43" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
-      <jump line="440" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="39" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
       <jump line="85" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
       <jump line="53" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
@@ -279,6 +268,21 @@
       <jump line="498" column="0" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="625" column="34" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="619" column="35" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
+      <jump line="440" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="241" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="229" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="228" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="214" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="213" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="191" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="190" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="158" column="19" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="95" column="19" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="162" column="26" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="414" column="18" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="501" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="84" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="91" column="37" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,13 +291,13 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>onFinishPrepare</text>
+        <text>new Handler</text>
       </register>
       <register name="-" type="4">
-        <text>nextMedia</text>
+        <text>new Handler</text>
       </register>
       <register name="/" type="4">
-        <text>ad_banner</text>
+        <text>new handler</text>
       </register>
       <register name="0" type="4">
         <text>onFinishPrepare</text>
@@ -332,13 +336,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ad_banner</last-search>
+      <last-search>new handler</last-search>
       <last-offset />
-      <last-pattern>ad_banner</last-pattern>
+      <last-pattern>new handler</last-pattern>
       <last-replace>mediaPlayer?</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
