@@ -144,9 +144,9 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587698177683">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587713433329">
         <mark key="'" line="56" column="87" />
-        <mark key="[" line="57" column="35" />
+        <mark key="[" line="30" column="58" />
         <mark key="]" line="59" column="34" />
         <mark key="." line="59" column="33" />
         <mark key="^" line="59" column="34" />
@@ -156,18 +156,14 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587696872083">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587713424770">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587702365553">
-        <mark key="'" line="409" column="20" />
-        <mark key="[" line="417" column="49" />
-        <mark key="]" line="417" column="49" />
-        <mark key="." line="417" column="49" />
-        <mark key="^" line="453" column="57" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587713348872">
+        <mark key="." line="253" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -290,17 +286,17 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+      <register name="*" type="4">
+        <text>onFinishPrepare</text>
       </register>
       <register name="-" type="4">
-        <text>mainAxisAlignment</text>
+        <text>nextMedia</text>
       </register>
       <register name="/" type="4">
         <text>ad_banner</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+      <register name="0" type="4">
+        <text>onFinishPrepare</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
