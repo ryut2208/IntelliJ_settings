@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>zxing</entry>
         <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry>layout</entry>
         <entry encoding="base64">XDxUZXJtaW5hbENhdGVnb3J5QWRhcHRlclw+</entry>
@@ -27,6 +26,7 @@
         <entry>handler</entry>
         <entry>new handler</entry>
         <entry>player</entry>
+        <entry encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
@@ -47,8 +47,8 @@
         <entry>67,90s/it/mediaPlayer/g</entry>
         <entry>67,90s/it/mediaPlayer?/g</entry>
         <entry>23,36s/it/mediaPlayer?/g</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -159,21 +159,34 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587713424770">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="29" column="26" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587722204513">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="52" column="56" />
+        <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587717710313">
-        <mark key="'" line="483" column="35" />
-        <mark key="[" line="485" column="34" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
-        <mark key="^" line="574" column="17" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587721848008">
+        <mark key="'" line="695" column="20" />
+        <mark key="[" line="703" column="0" />
+        <mark key="]" line="703" column="0" />
+        <mark key="." line="700" column="132" />
+        <mark key="^" line="700" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/develop/flutter/play_sound/pubspec.yaml" timestamp="1587894811152">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" timestamp="1587895502184">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/MediaVideoPlayer.java" timestamp="1587637948679">
         <mark key="'" line="31" column="26" />
@@ -186,9 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
-      <jump line="235" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
-      <jump line="28" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="27" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="83" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="140" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
@@ -266,14 +276,9 @@
       <jump line="62" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="703" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="695" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="694" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="676" column="51" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="675" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="674" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="642" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="571" column="51" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="570" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="569" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="562" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="561" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -286,6 +291,14 @@
       <jump line="538" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="494" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="483" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="52" column="71" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
+      <jump line="570" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="571" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="576" column="55" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="675" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="676" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="695" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="75" column="4" filename="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -294,58 +307,58 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5bjg6njg7Pjgq/jgYvjgonlvqnluLDjgZfjgZ/jgajjgY3jgavjgZPjgZPjgaflho3nlJ/jgZfjgarjgYTjgojjgYbjgavjgZnjgovjgILmnIDliJ3jga7jgrPjg7Pjg4bjg7Pjg4Tjga7jgb8y5Zue5YaN55Sf44GV44KM44Gm44GX44G+44GGCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGZpbGVVcmkgPSAiaHR0cHM6Ly9maWxlLWV4YW1wbGVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8xMS9maWxlX2V4YW1wbGVfTVAzXzcwMEtCLm1wMyI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text encoding="base64">Rmx1dHRlclNvdW5kUGxheWVyIA==</text>
       </register>
       <register name="/" type="4">
-        <text>player</text>
+        <text encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text>onFinishPrepare</text>
+        <text encoding="base64">Rmx1dHRlclNvdW5kUGxheWVyIGZsdXR0ZXJTb3VuZFBsYXllciA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiDjg5bjg6njg7Pjgq/jgYvjgonlvqnluLDjgZfjgZ/jgajjgY3jgavjgZPjgZPjgaflho3nlJ/jgZfjgarjgYTjgojjgYbjgavjgZnjgovjgILmnIDliJ3jga7jgrPjg7Pjg4bjg7Pjg4Tjga7jgb8y5Zue5YaN55Sf44GV44KM44Gm44GX44G+44GGCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGZpbGVVcmkgPSAiaHR0cHM6Ly9maWxlLWV4YW1wbGVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8xMS9maWxlX2V4YW1wbGVfTVAzXzcwMEtCLm1wMyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICBGbHV0dGVyU291bmRQbGF5ZXIgZmx1dHRlclNvdW5kUGxheWVyID0gYXdhaXQgRmx1dHRlclNvdW5kUGxheWVyKCkKICAgICAgICAuaW5pdGlhbGl6ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY29udGVudC5pc0JsYW5rKCkpIHsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZXN1bHQgPSBhd2FpdCBmbHV0dGVyU291bmRQbGF5ZXIuc3RhcnRQbGF5ZXIKICAgICAgKAogICAgICBmaWxlVXJpLAogICAgICB3aGVuRmluaXNoZWQ6ICgpIHsKICAgICAgICBwcmludCgnSSBob3BlIHlvdSBlbmpveWVkIGxpc3RlbmluZyB0byB0aGlzIHNvbmcnKTsKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocGxheWVyRnJhZ21lbnQuaXNQbGF5aW5nQmxhbmsoKSkgewogICAgICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuaXNQbGF5aW5nID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICBGbHV0dGVyU291bmRQbGF5ZXIgZmx1dHRlclNvdW5kUGxheWVyID0gbmV3IEZsdXR0ZXJTb3VuZFBsYXllcigpLmluaXRpYWxpemUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGlzUGxheWluZ0JsYW5rOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZXN1bHQgPSBhd2FpdCBmbHV0dGVyU291bmRQbGF5ZXIuc3RhcnRQbGF5ZXIKICAgICAgKAogICAgICBmaWxlVXJpLAogICAgICB3aGVuRmluaXNoZWQ6ICgpIHsKICAgICAgICBwcmludCgnSSBob3BlIHlvdSBlbmpveWVkIGxpc3RlbmluZyB0byB0aGlzIHNvbmcnKTsKICAgICAgfSwKICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8gMy4xLjHooYznm64K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IENvbG9yLmZyb21BUkdCKDB4RkYsIDB4MDAsIDB4MDAsIDB4RkYpLAo=</text>
+        <text encoding="base64">ICAgIAogICAgcmVzdWx0LnRoZW4ocGF0aCkgewogICAgICBwcmludCgnc3RhcnRQbGF5ZXI6ICRwYXRoJyk7CgogICAgICBfcGxheWVyU3Vic2NyaXB0aW9uID0gZmx1dHRlclNvdW5kUGxheWVyLm9uUGxheWVyU3RhdGVDaGFuZ2VkLmxpc3RlbigoZSkgewogICAgICAgIGlmIChlICE9IG51bGwpIHsKICAgICAgICAgIERhdGVUaW1lIGRhdGUgPSBuZXcgRGF0ZVRpbWUuZnJvbU1pbGxpc2Vjb25kc1NpbmNlRXBvY2goCiAgICAgICAgICAgICAgZS5jdXJyZW50UG9zaXRpb24udG9JbnQoKSk7CiAgICAgICAgICBTdHJpbmcgdHh0ID0gRGF0ZUZvcm1hdCgnbW06c3M6U1MnLCAnZW5fVVMnKS5mb3JtYXQoZGF0ZSk7CiAgICAgICAgICB0aGlzLnNldFN0YXRlKCgpIHsKICAgICAgICAgICAgdGhpcy5faXNQbGF5aW5nID0gdHJ1ZTsKICAgICAgICAgICAgdGhpcy5fcGxheWVyVHh0ID0gdHh0LnN1YnN0cmluZygwLCA4KTsKICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfSk7CiAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZXh0QWxpZ246IFRleHRBbGlnbi5jZW50ZXIsCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC50aGVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>player</last-search>
+      <last-search encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>player</last-pattern>
+      <last-pattern encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</last-pattern>
       <last-replace>mediaPlayer?</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
