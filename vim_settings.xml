@@ -47,8 +47,8 @@
         <entry>w</entry>
         <entry>vsp</entry>
         <entry>x</entry>
-        <entry>nohlsearch</entry>
         <entry>tabo</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,18 +107,18 @@
       <file name="/a.dummy" timestamp="1587965942796">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587713433329">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" timestamp="1587975929292">
         <mark key="'" line="56" column="87" />
-        <mark key="[" line="30" column="58" />
+        <mark key="[" line="69" column="54" />
         <mark key="]" line="59" column="34" />
         <mark key="." line="59" column="33" />
         <mark key="^" line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587974850843">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="76" column="42" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587975917202">
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="62" />
+        <mark key="^" line="34" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587722204513">
         <mark key="[" line="54" column="0" />
@@ -297,47 +297,47 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>surfaceView.</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>handler\.post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLnNldENyYXNobHl0aWNzQ29sbGVjdGlvbkVuYWJsZWQoZmFsc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>fragment.view?.width?.toFloat() ?: return@setOnPreparedListener</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGFjdGl2aXR5ID0gd2Vha0FjdGl2aXR5LmdldCgpID86cmV0dXJuQHNldE9uUHJlcGFyZWRMaXN0ZW5lcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5YuV55S744K144Kk44K644KS5YWD44Gr44OT44Ol44O844K144Kk44K644KS6Kq/5pW0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5YuV55S744K144Kk44K644KS5YWD44Gr44OT44Ol44O844K144Kk44K644KS6Kq/5pW0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJuYWwuYnJlYWRjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>tabo</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
