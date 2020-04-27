@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aWR0aFw+</entry>
         <entry>layout</entry>
         <entry encoding="base64">XDxUZXJtaW5hbENhdGVnb3J5QWRhcHRlclw+</entry>
         <entry>onliadfailed</entry>
@@ -27,6 +26,7 @@
         <entry>new handler</entry>
         <entry>player</entry>
         <entry encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MATCH_COUNT/widget.matchCount/g</entry>
@@ -158,10 +158,9 @@
         <mark key="^" line="52" column="56" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587953104447">
-        <mark key="[" line="483" column="0" />
-        <mark key="]" line="483" column="0" />
-        <mark key="." line="483" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587955918250">
+        <mark key="'" line="85" column="34" />
+        <mark key="[" line="570" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -190,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
-      <jump line="83" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="140" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="165" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
       <jump line="175" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/mqtt/MqttRunner.kt" />
@@ -290,6 +287,8 @@
       <jump line="676" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="695" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="75" column="4" filename="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" />
+      <jump line="677" column="46" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="85" column="34" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,43 +297,43 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>equals(Content.Companion.getBlank());</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</text>
+        <text encoding="base64">XDxoYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Rmx1dHRlclNvdW5kUGxheWVyIGZsdXR0ZXJTb3VuZFBsYXllciA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW11aQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IGRlY29ydmlldwo=</text>
+        <text encoding="base64">ICAgICAgICBzeXN0ZW11aQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKiog44Oh44OH44Kj44Ki5YaN55Sf55SoZnJhZ21lbnTjga7jgr/jgrAgKi8KICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRlJBR01FTlRfVEFHID0gImZyYWdtZW50IjsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IGRlY29ydmlldwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGxheWVyRnJhZ21lbnQgcGxheWVyRnJhZ21lbnQgPSAoUGxheWVyRnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgICAgIC5maW5kRnJhZ21lbnRCeUlkKFIuaWQucGxheWVyX2ZyYWdtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAvKiog44Oh44OH44Kj44Ki5YaN55Sf55SoZnJhZ21lbnTjga7jgr/jgrAgKi8KICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRlJBR01FTlRfVEFHID0gImZyYWdtZW50IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGxheWVyRnJhZ21lbnQgcGxheWVyRnJhZ21lbnQgPSAoUGxheWVyRnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgICAgIC5maW5kRnJhZ21lbnRCeUlkKFIuaWQucGxheWVyX2ZyYWdtZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>vsp</text>
@@ -343,13 +342,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVyXD4=</last-pattern>
       <last-replace>mediaPlayer?</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
