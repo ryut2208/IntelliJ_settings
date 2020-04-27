@@ -114,11 +114,11 @@
         <mark key="." line="59" column="33" />
         <mark key="^" line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587974133985">
-        <mark key="[" line="75" column="55" />
-        <mark key="]" line="75" column="55" />
-        <mark key="." line="75" column="55" />
-        <mark key="^" line="75" column="45" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587974850843">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="76" column="42" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587722204513">
         <mark key="[" line="54" column="0" />
@@ -297,11 +297,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>Width</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Width</text>
+        <text>surfaceView.</text>
       </register>
       <register name="/" type="4">
         <text>handler\.post</text>
@@ -310,31 +310,31 @@
         <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLnNldENyYXNobHl0aWNzQ29sbGVjdGlvbkVuYWJsZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW50ZXJuYWwuYnJlYWRjCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuY3Jhc2goKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0Q3Jhc2hseXRpY3NDb2xsZWN0aW9uRW5hYmxlZCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlcklkKFNlcmlhbE51bWJlci5nZXQodGhpcykpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC51dGlsaXRpZXMuSW50QXJyYXkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5YuV55S744K144Kk44K644KS5YWD44Gr44OT44Ol44O844K144Kk44K644KS6Kq/5pW0Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW50ZXJuYWwuYnJlYWRjCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIG5ldyBIYW5kbGVyKCkucG9zdChuZXcgUnVubmFibGUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>tabo</text>
