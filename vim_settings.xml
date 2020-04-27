@@ -29,7 +29,6 @@
         <entry>handler\.post</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/User/UserEntity/g</entry>
         <entry>src ~/.ideavimrc</entry>
         <entry>106,111s/\?//g</entry>
         <entry>106,111s/?//g</entry>
@@ -49,6 +48,7 @@
         <entry>vsp</entry>
         <entry>x</entry>
         <entry>nohlsearch</entry>
+        <entry>tabo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,10 +114,11 @@
         <mark key="." line="59" column="33" />
         <mark key="^" line="59" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587696797003">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587974133985">
+        <mark key="[" line="75" column="55" />
+        <mark key="]" line="75" column="55" />
+        <mark key="." line="75" column="55" />
+        <mark key="^" line="75" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1587722204513">
         <mark key="[" line="54" column="0" />
@@ -297,10 +298,10 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>mFirebaseAnalytics.</text>
+        <text>Width</text>
       </register>
       <register name="-" type="4">
-        <text>mFirebaseAnalytics.</text>
+        <text>Width</text>
       </register>
       <register name="/" type="4">
         <text>handler\.post</text>
@@ -336,7 +337,7 @@
         <text encoding="base64">CiAgICAgICAgICAgIG5ldyBIYW5kbGVyKCkucG9zdChuZXcgUnVubmFibGUoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>tabo</text>
       </register>
     </registers>
   </component>
