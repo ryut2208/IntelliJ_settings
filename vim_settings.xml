@@ -43,12 +43,12 @@
         <entry>212,222s/?//g</entry>
         <entry>12,22s/?//g</entry>
         <entry>sp</entry>
-        <entry>vsp</entry>
         <entry>67,90s/it/mediaPlayer/g</entry>
         <entry>67,90s/it/mediaPlayer?/g</entry>
         <entry>23,36s/it/mediaPlayer?/g</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -105,8 +105,10 @@
       <file name="/Dummy.txt" timestamp="1587622095109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1587614100390">
-        <mark key="'" line="27" column="43" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainApplication.kt" timestamp="1587953339708">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_video.xml" timestamp="1587624613715">
         <mark key="[" line="8" column="5" />
@@ -125,12 +127,6 @@
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerCallback.kt" timestamp="1587635583979">
         <mark key="[" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_registration_license.xml" timestamp="1587610325979">
-        <mark key="[" line="5" column="27" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="4" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1587622061675">
         <mark key="'" line="102" column="71" />
@@ -161,6 +157,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="52" column="56" />
         <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587953104447">
+        <mark key="[" line="483" column="0" />
+        <mark key="]" line="483" column="0" />
+        <mark key="." line="483" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
@@ -296,8 +297,8 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>.</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -309,34 +310,34 @@
         <text encoding="base64">Rmx1dHRlclNvdW5kUGxheWVyIGZsdXR0ZXJTb3VuZFBsYXllciA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGxheWVyRnJhZ21lbnQgcGxheWVyRnJhZ21lbnQgPSAoUGxheWVyRnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgICAgIC5maW5kRnJhZ21lbnRCeUlkKFIuaWQucGxheWVyX2ZyYWdtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzeXN0ZW11aQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmlldyA9IGRlY29ydmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAvKiog44Oh44OH44Kj44Ki5YaN55Sf55SoZnJhZ21lbnTjga7jgr/jgrAgKi8KICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRlJBR01FTlRfVEFHID0gImZyYWdtZW50IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGxheWVyRnJhZ21lbnQgcGxheWVyRnJhZ21lbnQgPSAoUGxheWVyRnJhZ21lbnQpIGdldFN1cHBvcnRGcmFnbWVudE1hbmFnZXIoKQogICAgICAgICAgICAgICAgICAgIC5maW5kRnJhZ21lbnRCeUlkKFIuaWQucGxheWVyX2ZyYWdtZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lKGNvbnRleHQsICJDb250ZW50IGlzIG51bGwuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnRJZCA9IGNvbnRlbnQuZ2V0SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbnRlbnQgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGZpbGVVcmkgPSAiaHR0cHM6Ly9maWxlLWV4YW1wbGVzLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNy8xMS9maWxlX2V4YW1wbGVfTVAzXzcwMEtCLm1wMyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>vsp</text>
       </register>
     </registers>
   </component>
