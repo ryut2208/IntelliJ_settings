@@ -125,12 +125,12 @@
         <mark key="^" line="52" column="56" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587969006460">
-        <mark key="'" line="387" column="6" />
-        <mark key="[" line="396" column="21" />
-        <mark key="]" line="396" column="53" />
-        <mark key="." line="396" column="52" />
-        <mark key="^" line="396" column="53" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587970777044">
+        <mark key="'" line="179" column="24" />
+        <mark key="[" line="177" column="1" />
+        <mark key="]" line="177" column="0" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/develop/flutter/play_sound/pubspec.yaml" timestamp="1587894811152">
         <mark key="[" line="26" column="14" />
@@ -188,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="43" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="39" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
       <jump line="85" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ImagePlayer.java" />
       <jump line="53" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
@@ -288,6 +287,7 @@
       <jump line="412" column="4" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" />
       <jump line="387" column="6" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="179" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,44 +295,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>handlerでやる意味はあるのか</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>handlerでやる意味はあるのか</text>
+        <text>core.CrashlyticsCore;</text>
       </register>
       <register name="/" type="4">
         <text>handler\.post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB3ZWFrQWN0aXZpdHkgPSB3ZWFrUmVmZXJlbmNlLmdldCgpID86IHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLnNldENyYXNobHl0aWNzQ29sbGVjdGlvbkVuYWJsZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIG5ldyBIYW5kbGVyKCkucG9zdChuZXcgUnVubmFibGUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzaz8ubGV0IHsKICAgICAgICAgICAgICAgIHZhbCB3ZWFrQWN0aXZpdHkgPSB3ZWFrUmVmZXJlbmNlLmdldCgpID86IHJldHVybgogICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiZXhlY3V0ZSgpIikKICAgICAgICAgICAgICAgIHRhc2sgPSBQcmVwYXJlUmVwbGFjZVBsYXlsaXN0VGFzayh3ZWFrQWN0aXZpdHkpCiAgICAgICAgICAgICAgICBpdC5leGVjdXRlKCkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZXJuYWwuYnJlYWRjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVwYXJlUmVwbGFjZVBsYXlsaXN0VGFzayA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcy5nZXRJbnN0YW5jZSgpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHByaXZhdGUgSGFuZGxlciBoYW5kbGVyID0gbmV3IEhhbmRsZXIoKTsKICAgIC8vIHByaXZhdGUgUnVubmFibGUgcHJlcGFyZVRhc2tSdW5uYWJsZSA9IG5ldyBSdW5uYWJsZSgpIHsKICAgIC8vICAgICBAT3ZlcnJpZGUgcHVibGljIHZvaWQgcnVuKCkgewogICAgLy8gICAgICAgICBleGVjdXRlUHJlcGFyZVRhc2soKTsKICAgIC8vICAgICB9CiAgICAvLyB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UuY3Jhc2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJlcGFyZVJlcGxhY2VQbGF5bGlzdFRhc2sgcHJlcGFyZVJlcGxhY2VQbGF5bGlzdFRhc2sgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2Uuc2V0Q3Jhc2hseXRpY3NDb2xsZWN0aW9uRW5hYmxlZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VXNlcklkKFNlcmlhbE51bWJlci5nZXQodGhpcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gbG9jYWxTY2hlZHVsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIHByZXBhcmVSZXBsYWNlUGxheWxpc3RUYXNr44GMbnVsbOOBruWgtOWQiOOBq3ByZXBhcmVSZXBsYWNlUGxheWxpc3RUYXNr44KS5a6f6KGM44GZ44KLCiAgICAgKi8KICAgIHByaXZhdGUgdm9pZCBleGVjdXRlUHJlcGFyZVRhc2soKSB7CiAgICAgICAgaWYgKHByZXBhcmVSZXBsYWNlUGxheWxpc3RUYXNrID09IG51bGwpIHsKICAgICAgICAgICAgcHJlcGFyZVJlcGxhY2VQbGF5bGlzdFRhc2sgPSBuZXcgUHJlcGFyZVJlcGxhY2VQbGF5bGlzdFRhc2sodGhpcyk7CiAgICAgICAgICAgIHByZXBhcmVSZXBsYWNlUGxheWxpc3RUYXNrLmV4ZWN1dGUoKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIG5ldyBIYW5kbGVyKCkucG9zdChuZXcgUnVubmFibGUoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
