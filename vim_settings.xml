@@ -125,12 +125,12 @@
         <mark key="^" line="52" column="56" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587970777044">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1587973337232">
         <mark key="'" line="179" column="24" />
-        <mark key="[" line="177" column="1" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="177" column="0" />
+        <mark key="[" line="175" column="12" />
+        <mark key="]" line="175" column="64" />
+        <mark key="^" line="175" column="64" />
+        <mark key="." line="175" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/develop/flutter/play_sound/pubspec.yaml" timestamp="1587894811152">
         <mark key="[" line="26" column="14" />
@@ -179,6 +179,7 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/activity_main.xml" timestamp="1587630239857">
         <mark key="[" line="17" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1587972996136" />
       <file name="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" timestamp="1587895502184">
         <mark key="'" line="75" column="4" />
         <mark key="[" line="36" column="6" />
@@ -295,11 +296,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlyZWJhc2VDcmFzaGx5dGljcyBpbnN0YW5jZSA9IEZpcmViYXNlQ3Jhc2hseXRpY3MuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgQ3Jhc2hseXRpY3MoKQo=</text>
+      <register name="*" type="4">
+        <text>mFirebaseAnalytics.</text>
       </register>
       <register name="-" type="4">
-        <text>core.CrashlyticsCore;</text>
+        <text>mFirebaseAnalytics.</text>
       </register>
       <register name="/" type="4">
         <text>handler\.post</text>
