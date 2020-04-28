@@ -153,13 +153,6 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1588046584805">
         <mark key="'" line="62" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" timestamp="1588054076280">
-        <mark key="'" line="33" column="137" />
-        <mark key="[" line="33" column="129" />
-        <mark key="]" line="33" column="132" />
-        <mark key="^" line="33" column="132" />
-        <mark key="." line="33" column="131" />
-      </file>
       <file name="/fragment.kt" timestamp="1588045145309">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,8 +160,12 @@
         <mark key="[" line="43" column="11" />
         <mark key="]" line="43" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1588046630125">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1588055474431">
         <mark key="'" line="15" column="35" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="36" />
+        <mark key="^" line="64" column="36" />
+        <mark key="." line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/java/text/SimpleDateFormat.class" timestamp="1588053372271">
         <mark key="'" line="7" column="13" />
@@ -295,8 +292,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZSBkZD0K</text>
+      <register name="*" type="4">
+        <text>&quot;&quot;&quot;
+            modes: $informationText
+            シリアル番号: ${SerialNumber.getOriginalSerial(activity)}
+        &quot;&quot;&quot;.trimIndent()</text>
       </register>
       <register name="-" type="4">
         <text>start</text>
@@ -307,32 +307,35 @@
       <register name="0" type="4">
         <text>&quot;start is illegal format. expected:yyyy-MM-dd'T'HH:mm:sssZ found:$start&quot;</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>&quot;&quot;&quot;
+            modes: $informationText
+            シリアル番号: ${SerialNumber.getOriginalSerial(activity)}
+        &quot;&quot;&quot;.trimIndent()</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZSBkZD0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBldmVudC5nZXRTdGFydERhdGUoKQogICAgICAgICAgICB9Y2F0Y2ggKGU6RXhjZXB0aW9uKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMb2dnZXIuZShUQUcsZS5tZXNzYWdlKQogICAgICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2RmLnBhcnNlKHN0YXJ0KSEhCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gc2RmLnBhcnNlKHN0YXJ0KSA/OiB0aHJvdyBQYXJzZUV4Y2VwdGlvbigpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOkV4Y2VwdGlvbikgewogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqLwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogUtils/Logger/g</text>
