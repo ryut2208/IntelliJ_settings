@@ -47,8 +47,8 @@
         <entry>vsp</entry>
         <entry>x</entry>
         <entry>tabo</entry>
-        <entry>nohlsearch</entry>
         <entry>%s/LogUtils/Logger/g</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,12 +117,12 @@
         <mark key="." line="96" column="49" />
         <mark key="^" line="96" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1588044892596">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1588056399320">
         <mark key="'" line="670" column="24" />
-        <mark key="[" line="126" column="32" />
-        <mark key="]" line="684" column="32" />
-        <mark key="." line="684" column="31" />
-        <mark key="^" line="684" column="32" />
+        <mark key="[" line="555" column="73" />
+        <mark key="]" line="555" column="74" />
+        <mark key="." line="555" column="73" />
+        <mark key="^" line="555" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/BootReceiver.kt" timestamp="1588046549568">
         <mark key="'" line="15" column="8" />
@@ -180,8 +180,11 @@
         <mark key="^" line="151" column="42" />
         <mark key="." line="151" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" timestamp="1588046593275">
-        <mark key="'" line="71" column="12" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" timestamp="1588056218570">
+        <mark key="'" line="69" column="12" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -293,13 +296,10 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>&quot;&quot;&quot;
-            modes: $informationText
-            シリアル番号: ${SerialNumber.getOriginalSerial(activity)}
-        &quot;&quot;&quot;.trimIndent()</text>
+        <text>equals(Content.Companion.getBlank());</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>equals(Content.Companion.getBlank());</text>
       </register>
       <register name="/" type="4">
         <text>exception</text>
@@ -307,38 +307,38 @@
       <register name="0" type="4">
         <text>&quot;start is illegal format. expected:yyyy-MM-dd'T'HH:mm:sssZ found:$start&quot;</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoaXRlbSBpbiBmaWxlcykgewovLyAgICAgICAgICAgIExvZy5kKFRBRywgImdldEZpbGVMaXN0IG5hbWU6JHtpdGVtLm5hbWV9IikKLy8gICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="4">
         <text>&quot;&quot;&quot;
             modes: $informationText
             シリアル番号: ${SerialNumber.getOriginalSerial(activity)}
         &quot;&quot;&quot;.trimIndent()</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZSBkZD0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBldmVudC5nZXRTdGFydERhdGUoKQogICAgICAgICAgICB9Y2F0Y2ggKGU6RXhjZXB0aW9uKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMb2dnZXIuZShUQUcsZS5tZXNzYWdlKQogICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2RmLnBhcnNlKHN0YXJ0KSEhCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gc2RmLnBhcnNlKHN0YXJ0KSA/OiB0aHJvdyBQYXJzZUV4Y2VwdGlvbigpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOkV4Y2VwdGlvbikgewogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/LogUtils/Logger/g</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
@@ -350,7 +350,7 @@
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
