@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onresource</entry>
         <entry>oncreateview</entry>
         <entry>change</entry>
         <entry>queue</entry>
@@ -27,6 +26,7 @@
         <entry>handler.post</entry>
         <entry>handler\.post</entry>
         <entry>LogUtils</entry>
+        <entry>exception</entry>
       </history-search>
       <history-cmd>
         <entry>106,111s/\?//g</entry>
@@ -97,16 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" timestamp="1587968484410">
-        <mark key="'" line="31" column="31" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="24" column="30" />
-      </file>
-      <file name="/a.dummy" timestamp="1587965942796">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/Logger.kt" timestamp="1588045717314">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="17" />
@@ -120,12 +110,12 @@
         <mark key="." line="69" column="54" />
         <mark key="^" line="69" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1587980251506">
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1588053031545">
         <mark key="'" line="59" column="32" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="39" column="13" />
+        <mark key="[" line="96" column="49" />
+        <mark key="]" line="96" column="49" />
+        <mark key="." line="96" column="49" />
+        <mark key="^" line="96" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1588044892596">
         <mark key="'" line="670" column="24" />
@@ -139,6 +129,11 @@
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" timestamp="1588046620093">
         <mark key="'" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Schedule.kt" timestamp="1588054215256">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/LogUtils.kt" timestamp="1588041667010">
         <mark key="[" line="0" column="0" />
@@ -158,16 +153,25 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1588046584805">
         <mark key="'" line="62" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" timestamp="1588054076280">
+        <mark key="'" line="33" column="137" />
+        <mark key="[" line="33" column="129" />
+        <mark key="]" line="33" column="132" />
+        <mark key="^" line="33" column="132" />
+        <mark key="." line="33" column="131" />
+      </file>
       <file name="/fragment.kt" timestamp="1588045145309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainApplication.kt" timestamp="1587953339708">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/media/MediaPlayer.class" timestamp="1588052885645">
+        <mark key="[" line="43" column="11" />
+        <mark key="]" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" timestamp="1588046630125">
         <mark key="'" line="15" column="35" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/java/text/SimpleDateFormat.class" timestamp="1588053372271">
+        <mark key="'" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" timestamp="1588046560635">
         <mark key="'" line="33" column="8" />
@@ -184,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="515" column="22" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="486" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="56" column="87" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
       <jump line="132" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="408" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -284,6 +285,9 @@
       <jump line="71" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" />
       <jump line="8" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" />
       <jump line="15" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
+      <jump line="7" column="13" filename="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/java/text/SimpleDateFormat.class" />
+      <jump line="27" column="67" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
+      <jump line="32" column="137" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,44 +295,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>, false</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZSBkZD0K</text>
       </register>
       <register name="-" type="4">
-        <text>, false</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>LogUtils</text>
+        <text>exception</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKdm1PdmVybG9hZHMK</text>
+      <register name="0" type="4">
+        <text>&quot;start is illegal format. expected:yyyy-MM-dd'T'HH:mm:sssZ found:$start&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0YXJ0RGF0ZSBkZD0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiaGFuZGxlci5wb3N0KCkgcmVzZXRIYW5kbGVyKCkiKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRyeSB7CiAgICAgICAgICAgICAgICBldmVudC5nZXRTdGFydERhdGUoKQogICAgICAgICAgICB9Y2F0Y2ggKGU6RXhjZXB0aW9uKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMb2dnZXIuZShUQUcsZS5tZXNzYWdlKQogICAgICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsICJzdGFydFNsaWRlU2hvdzpvbkZldGNoTG9jYWxTY2hlZHVsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2RmLnBhcnNlKHN0YXJ0KSEhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiaGFuZGxlci5wb3N0KCkgb25GZXRjaExvY2FsU2NoZWR1bGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJoYW5kbGVyLnBvc3QoKSBvbkFjdGl2aXR5UmVzdWx0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiaGFuZGxlci5wb3N0KCkgb25DcmVhdGUiKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gc2RmLnBhcnNlKHN0YXJ0KSA/OiB0aHJvdyBQYXJzZUV4Y2VwdGlvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoVEFHLCAiaGFuZGxlci5wb3N0KCkgcnVubmFibGUoKSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChlOkV4Y2VwdGlvbikgewogICAgICAgICAgICB0aHJvdyBlCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZyYWdtZW50ID0gd2Vha0ZyYWdtZW50LmdldCgpIGFzIFBsYXllckZyYWdtZW50ID86IHJldHVybgo=</text>
+        <text encoding="base64">LyoqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/LogUtils/Logger/g</text>
@@ -337,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>LogUtils</last-search>
+      <last-search>exception</last-search>
       <last-offset />
-      <last-pattern>LogUtils</last-pattern>
+      <last-pattern>exception</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
       <last-dir>1</last-dir>
