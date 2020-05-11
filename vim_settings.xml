@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>106,111s/\?//g</entry>
         <entry>106,111s/?//g</entry>
         <entry>%s/println/log\.d/g</entry>
         <entry>%s/println/Log\.d/g</entry>
@@ -47,8 +46,9 @@
         <entry>x</entry>
         <entry>tabo</entry>
         <entry>%s/LogUtils/Logger/g</entry>
-        <entry>nohlsearch</entry>
         <entry>vsp</entry>
+        <entry>q</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,12 +100,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1589177871969">
-        <mark key="'" line="211" column="8" />
-        <mark key="^" line="2" column="28" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1589181789220">
+        <mark key="'" line="213" column="8" />
+        <mark key="[" line="126" column="39" />
+        <mark key="]" line="126" column="61" />
+        <mark key="^" line="126" column="61" />
+        <mark key="." line="126" column="60" />
       </file>
-      <file name="/fragment.kt" timestamp="1588045145309">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/test/java/jp/co/newphoria/wbs/v5/ExampleUnitTest.kt" timestamp="1589181906959">
+        <mark key="[" line="93" column="61" />
+        <mark key="]" line="93" column="48" />
+        <mark key="." line="93" column="48" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/media/MediaPlayer.class" timestamp="1588052885645">
         <mark key="[" line="43" column="11" />
@@ -122,11 +127,10 @@
         <mark key="[" line="539" column="28" />
         <mark key="]" line="539" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/Logger.kt" timestamp="1588045717314">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="17" />
-        <mark key="^" line="24" column="17" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/Logger.kt" timestamp="1589180497807">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/ActivateData.kt" timestamp="1588064857285">
         <mark key="[" line="12" column="0" />
@@ -156,9 +160,6 @@
         <mark key="]" line="207" column="31" />
         <mark key="." line="207" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/BootReceiver.kt" timestamp="1588046549568">
-        <mark key="'" line="15" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" timestamp="1588065035952">
         <mark key="'" line="155" column="28" />
         <mark key="[" line="79" column="88" />
@@ -185,6 +186,15 @@
         <mark key="]" line="5" column="22" />
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1589180899434">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="105" column="47" />
+      </file>
+      <file name="/fragment.java" timestamp="1589181874775">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -296,46 +306,46 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>, this</text>
+        <text encoding="base64">IGJvZHkuZ2V0U3RyaW5nKCJkYXRhIik7</text>
       </register>
       <register name="-" type="4">
-        <text>, this</text>
+        <text encoding="base64">IGJvZHkuZ2V0U3RyaW5nKCJkYXRhIik7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBpVXRpbC5nZXRJbnN0YW5jZSgpLnNldFRva2VuKHNwLmdldFN0cmluZyhDb25zdGFudHMuUFJFRkVSRU5DRV9UT0tFTiwgbnVsbCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTdHJpbmcgZGF0YVN0cmluZyA9IGJvZHkuZ2V0U3RyaW5nKCJkYXRhIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJvblBhdXNlIiwgdGhpcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZChUQUcsICJvblJlc3VtZSIsIHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGF0YSA9IHJlc3BvbnNlWyJhY3RpdmF0aW9uRGF0YSJdIGFzPyBBY3RpdmF0ZURhdGEK</text>
       </register>
-      <register name="3" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhY3RpdmF0ZURhdGEK</text>
       </register>
-      <register name="4" type="4">
-        <text>sp.getString(Constants.PREFERENCE_TOKEN, null)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLmpzb246MS4wLjAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBpR2V0VXRpbC4K</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLmpzb246Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAnb3JnLmpzb246JwogICAgdGVzdEltcGxlbWVudGF0aW9uICdvcmcuanNvbjonCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaWNlbnNlUmVnaXN0ZXJEYXRhIGxpY2Vuc2VSZWdpc3RlckRhdGEgPSBuZXcgTGljZW5zZVJlZ2lzdGVyRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuaSh0YWcsIG1lc3NhZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaWNlbnNlUmVnaXN0ZXJEYXRhIGxpY2Vuc2VSZWdpc3RlckRhdGEgPSBuZXcgTGljZW5zZVJlZ2lzdGVyRGF0YSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0cnkgewogICAgICAgIC8vICAgICBPa0h0dHBDbGllbnQgY2xpZW50ID0gT2tIdHRwU2luZ2xldG9uLmdldEluc3RhbmNlKCk7CiAgICAgICAgLy8gICAgIFJlc3BvbnNlIHJlc3BvbnNlID0gY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpOwogICAgICAgIC8vICAgICBpZiAocmVzcG9uc2UuYm9keSgpICE9IG51bGwpIHsKICAgICAgICAvLyAgICAgICAgIFN0cmluZyByZXNwb25zZU1lc3NhZ2UgPSByZXNwb25zZS5ib2R5KCkuc3RyaW5nKCk7CiAgICAgICAgLy8gICAgICAgICBpZiAocmVzcG9uc2UuaXNTdWNjZXNzZnVsKCkpIHsKICAgICAgICAvLyAgICAgICAgICAgICBMb2dnZXIuZChUQUcsIHJlc3BvbnNlTWVzc2FnZSk7CiAgICAgICAgLy8gICAgICAgICAgICAgbGljZW5zZVJlZ2lzdGVyRGF0YS5zZXRSZWdpc3RlcmVkTGljZW5zZSh0cnVlKTsKICAgICAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgLy8gICAgICAgICAgICAgSlNPTk9iamVjdCBib2R5U3RyID0gbmV3IEpTT05PYmplY3QocmVzcG9uc2VNZXNzYWdlKTsKICAgICAgICAvLyAgICAgICAgICAgICBsaWNlbnNlUmVnaXN0ZXJEYXRhLnNldE1lc3NhZ2UoYm9keVN0ci5nZXRTdHJpbmcoIm1lc3NhZ2UiKSk7CiAgICAgICAgLy8gICAgICAgICAgICAgbGljZW5zZVJlZ2lzdGVyRGF0YS5zZXREZXNjcmlwdGlvbihib2R5U3RyLmdldFN0cmluZygiZGVzY3JpcHRpb24iKSk7CiAgICAgICAgLy8gICAgICAgICAgICAgdGhpcy5lcnJvck1lc3NhZ2UgPSBib2R5U3RyLmdldFN0cmluZygibWVzc2FnZSIpOwogICAgICAgIC8vICAgICAgICAgICAgIExvZ2dlci5lKFRBRywgdGhpcy5lcnJvck1lc3NhZ2UgKyBib2R5U3RyLmdldFN0cmluZygiZGVzY3JpcHRpb24iKSk7CiAgICAgICAgLy8gICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICBsaWNlbnNlUmVnaXN0ZXJEYXRhLnNldFJlc3BvbnNlQ29kZShyZXNwb25zZS5jb2RlKCkpOwogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gfSBjYXRjaCAoVW5rbm93bkhvc3RFeGNlcHRpb24gZSkgewogICAgICAgIC8vICAgICBMb2dnZXIuZShUQUcsCiAgICAgICAgLy8gICAgICAgICAgICAgIkZhaWxlZCBwb3N0VGVybWluYWxMaWNlbnNlUmVnaXN0ZXIuIFVua25vd25Ib3N0RXhjZXB0aW9uLiBob3N0OiIgKyB1cmxTdHJpbmcpOwogICAgICAgIC8vICAgICB0aHJvdyBuZXcgVW5rbm93bkhvc3RFeGNlcHRpb24oKTsKICAgICAgICAvLyB9IGNhdGNoIChJT0V4Y2VwdGlvbiB8IEpTT05FeGNlcHRpb24gZSkgewogICAgICAgIC8vICAgICBMb2cuZShUQUcsIGUuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCkpOwogICAgICAgIC8vICAgICB0aHJvdyBlOwogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZSh0YWcsIG1lc3NhZ2UpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>vsp</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
