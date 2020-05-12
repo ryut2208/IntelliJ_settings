@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>日付部</entry>
-        <entry>ad_banner</entry>
-        <entry>new handler</entry>
-        <entry>player</entry>
         <entry encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</entry>
         <entry>handler</entry>
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
@@ -26,6 +22,10 @@
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry>DEBUG</entry>
         <entry>openfile</entry>
+        <entry>popinfo</entry>
+        <entry>omotenashi</entry>
+        <entry>ble</entry>
+        <entry>ucode</entry>
         <entry>filepath</entry>
       </history-search>
       <history-cmd>
@@ -45,10 +45,10 @@
         <entry>tabo</entry>
         <entry>%s/LogUtils/Logger/g</entry>
         <entry>vsp</entry>
-        <entry>q</entry>
         <entry>110,118s/3.1.0/espresso_version/g</entry>
         <entry>110,118s/3.1.0/$espresso_version/g</entry>
         <entry>nohlsearch</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,18 +122,17 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589248525664">
-        <mark key="'" line="120" column="29" />
-        <mark key="[" line="291" column="50" />
-        <mark key="]" line="291" column="64" />
-        <mark key="." line="291" column="63" />
-        <mark key="^" line="291" column="64" />
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589250643132">
+        <mark key="'" line="198" column="68" />
+        <mark key="[" line="330" column="0" />
+        <mark key="]" line="330" column="0" />
+        <mark key="." line="330" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589246244696">
-        <mark key="'" line="24" column="41" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589249986175">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589246213556">
         <mark key="'" line="327" column="12" />
@@ -203,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="217" column="42" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="218" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="245" column="50" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="246" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -269,7 +266,6 @@
       <jump line="24" column="41" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" />
       <jump line="158" column="17" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="185" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
-      <jump line="197" column="31" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="251" column="20" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="257" column="56" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="258" column="31" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
@@ -303,6 +299,9 @@
       <jump line="214" column="36" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="281" column="24" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="120" column="29" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="40" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" />
+      <jump line="50" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" />
+      <jump line="197" column="68" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,8 +309,8 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>file.getCanonicalPath()</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>file.getCanonicalPath()</text>
@@ -323,34 +322,34 @@
         <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBkKFN0cmluZyB0YWcsIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgICAgIGlmIChERUJVRykgewogICAgICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZy5kKHRhZywgbWVzc2FnZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIGU7ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImNvbmZpZyI6IHsKICAgICAgICAiQmFja2dyb3VuZCI6ICIxIgogICAgICB9LAogICAgICAibmFtZSI6ICJpQmVhY29uU2VydmljZSIKICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKERFQlVHKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIk9tb3RlbmFzaGlHdWlkZVNESyIKICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJjb25maWciOiB7CiAgICAgICAgICAgICAgICAiQXBwbGljYXRpb25JRCI6ICJhdmF2c2FmdmZ2cyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIm5hbWUiOiAiUG9wSW5mbyIKICAgICAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChERUJVRykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIGU7ago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChERUJVRykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKERFQlVHKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoREVCVUcpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChERUJVRykgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
