@@ -122,10 +122,10 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589250643132">
-        <mark key="'" line="198" column="68" />
-        <mark key="[" line="330" column="0" />
-        <mark key="]" line="330" column="0" />
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589252255144">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="306" column="20" />
+        <mark key="]" line="306" column="29" />
         <mark key="." line="330" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589249986175">
@@ -202,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="245" column="50" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="246" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="415" column="58" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -302,6 +301,7 @@
       <jump line="40" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" />
       <jump line="50" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" />
       <jump line="197" column="68" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="330" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +309,8 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>extractZip</text>
       </register>
       <register name="-" type="4">
         <text>file.getCanonicalPath()</text>
@@ -318,8 +318,8 @@
       <register name="/" type="4">
         <text>filepath</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBkKFN0cmluZyB0YWcsIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgICAgIGlmIChERUJVRykgewogICAgICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZy5kKHRhZywgbWVzc2FnZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>extractZip</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
