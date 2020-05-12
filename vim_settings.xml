@@ -122,11 +122,11 @@
         <mark key="]" line="306" column="29" />
         <mark key="." line="330" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589262705160">
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589264040166">
         <mark key="'" line="48" column="32" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589262681739">
         <mark key="'" line="327" column="12" />
@@ -301,7 +301,7 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAgICAgICAgICAgICAibmFtZSI6ICJHb29nbGVNYXBzIgo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIKICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>file.getCanonicalPath()</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIm5hbWUiOiAgICAgICAgICAgICAibmFtZSI6ICJHb29nbGVNYXBzIgo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIKICAgIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgIm5hbWUiOiAgICAgICAgICAgICAibmFtZSI6ICJHb29nbGVNYXBzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImNvbmZpZyI6IHsKICAgICAgICAiQmFja2dyb3VuZCI6ICIxIgogICAgICB9LAogICAgICAibmFtZSI6ICJpQmVhY29uU2VydmljZSIKICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIk9tb3RlbmFzaGlHdWlkZVNESyIKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImNvbmZpZyI6IHsKICAgICAgICAiQmFja2dyb3VuZCI6ICIxIgogICAgICB9LAogICAgICAibmFtZSI6ICJpQmVhY29uU2VydmljZSIKICAgIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJjb25maWciOiB7CiAgICAgICAgICAgICAgICAiQXBwbGljYXRpb25JRCI6ICJhdmF2c2FmdmZ2cyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIm5hbWUiOiAiUG9wSW5mbyIKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJuYW1lIjogIk9tb3RlbmFzaGlHdWlkZVNESyIKICAgICAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIGU7ago=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJjb25maWciOiB7CiAgICAgICAgICAgICAgICAiQXBwbGljYXRpb25JRCI6ICJhdmF2c2FmdmZ2cyIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIm5hbWUiOiAiUG9wSW5mbyIKICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIGU7ago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKERFQlVHKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
