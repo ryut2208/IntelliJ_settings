@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>findviewbyid</entry>
-        <entry encoding="base64">XDxzdXJmYWNlSG9sZGVyXD4=</entry>
-        <entry>it</entry>
-        <entry encoding="base64">XDxpc1BsYXlpbmdcPg==</entry>
-        <entry>schedule update</entry>
         <entry>日付部</entry>
         <entry>ad_banner</entry>
         <entry>new handler</entry>
@@ -27,6 +22,11 @@
         <entry>3.1.0</entry>
         <entry>livepass</entry>
         <entry encoding="base64">XDx6ZVw+</entry>
+        <entry>ze.getName()</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
+        <entry>DEBUG</entry>
+        <entry>openfile</entry>
+        <entry>filepath</entry>
       </history-search>
       <history-cmd>
         <entry>%s/println/Log\.d/g</entry>
@@ -122,8 +122,12 @@
         <mark key="." line="82" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589246488874">
-        <mark key="'" line="256" column="26" />
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589248525664">
+        <mark key="'" line="120" column="29" />
+        <mark key="[" line="291" column="50" />
+        <mark key="]" line="291" column="64" />
+        <mark key="." line="291" column="63" />
+        <mark key="^" line="291" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589246244696">
         <mark key="'" line="24" column="41" />
@@ -199,35 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="703" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="694" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="674" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="642" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="569" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="562" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="561" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="560" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="557" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="553" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="552" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="550" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="539" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="538" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="494" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="483" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="52" column="71" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
-      <jump line="570" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="571" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="576" column="55" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="675" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="676" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="695" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="75" column="4" filename="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" />
-      <jump line="677" column="46" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="70" column="26" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="159" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="193" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="217" column="42" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="218" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -299,6 +274,35 @@
       <jump line="257" column="56" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="258" column="31" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="306" column="26" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="146" column="17" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="166" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="176" column="31" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="220" column="56" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="221" column="31" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="256" column="30" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="268" column="30" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="261" column="15" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="262" column="41" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="264" column="47" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="265" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="225" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="231" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="255" column="87" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="269" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="286" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="304" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="318" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="319" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="325" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="321" column="32" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="214" column="36" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="281" column="24" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
+      <jump line="120" column="29" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,50 +310,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+      <register name="*" type="4">
+        <text>file.getCanonicalPath()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>file.getCanonicalPath()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx6ZVw+</text>
+        <text>filepath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRDb25maWcuREVCVUcpIHsKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBkKFN0cmluZyB0YWcsIFN0cmluZyBtZXNzYWdlKSB7CiAgICAgICAgICAgIGlmIChERUJVRykgewogICAgICAgICAgICAgICAgYW5kcm9pZC51dGlsLkxvZy5kKHRhZywgbWVzc2FnZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgIGU7ago=</text>
       </register>
       <register name="2" type="2">
-        <text>{
-          &quot;name&quot;: &quot;Livepass&quot;,
-          &quot;config&quot;: {
-            &quot;API_KEY&quot;: &quot;&quot;,
-            &quot;APP_SECRET&quot;: &quot;&quot;
-          }
-        }</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvKiog5ouh5by15a2QOiDkuIDmmYLjg5XjgqHjgqTjg6sgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEVYVF9URU1QID0gIi50ZW1wIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKERFQlVHKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZ2lvbiBpbnRlbnQgZXh0cmEKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElOVEVOVF9FWFRSQV9UT0tFTiA9ICJpbnRlbnQuZXh0cmEudG9rZW4iOwogICAgLyoqIOODqeOCpOOCu+ODs+OCueeZu+mMsuOBruODrOOCueODneODs+OCuSAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgSU5URU5UX0VYVFJBX0xJQ0VOU0VfUkVHSVNURVJfREFUQSA9CiAgICAgICAgICAgICJpbnRlbnQuZXh0cmEubGljZW5zZV9yZWdpc3Rlcl9kYXRhIjsKICAgIC8qKiDnlLvpnaLlkJHjgY3jgpLkv53lrZjjgZnjgovjgZ/jgoHjga5JbnRlbnQgS2V5ICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBJTlRFTlRfRVhUUkFfT1JJRU5UQVRJT04gPSAiaW50ZW50LmV4dHJhLm9yaWVudGF0aW9uIjsKICAgIC8qKiDkvb/nlKjlj6/og73jgrnjg4jjg6zjg7zjgrjmg4XloLHjga7kv53lrZggKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElOVEVOVF9FWFRSQV9SRU1BSU5JTkdfU1RPUkFHRSA9ICJpbnRlbnQuZXh0cmEucmVtYWluaW5nX3N0b3JhZ2UiOwogICAgLyoqIOS9v+eUqOa4iOOBv+OCueODiOODrOODvOOCuOaDheWgseOBruS/neWtmCAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgSU5URU5UX0VYVFJBX1VTRURfU1RPUkFHRSA9ICJpbnRlbnQuZXh0cmEudXNlZF9zdG9yYWdlIjsKICAgIC8qKiDjg6njgqTjgrvjg7Pjgrnnlarlj7fjgpLlhbHmnInjgZnjgosgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIElOVEVOVF9FWFRSQV9MSUNFTlNFX05VTUJFUiA9ICJpbnRlbnQuZXh0cmEubGljZW5zZV9udW1iZXIiOwogICAgLyoqIOerr+acq+OBruODi+ODg+OCr+ODjeODvOODoOOCkuWFseaciSAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgSU5URU5UX0VYVFJBX1RFUk1JTkFMX05BTUUgPSAiaW50ZW50LmV4dHJhLnRlcm1pbmFsX25hbWUiOwogICAgLy8gZW5kcmVnaW9uIGludGVudCBleHRyYQoKICAgIC8qKiDjg4fjg5Xjgqnjg6vjg4jjga7jg53jg7zjg6rjg7PjgrDmmYLplpMoc2VjKSAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBpbnQgREVGQVVMVF9QT0xMSU5HX1NFQyA9IDYwOwoKICAgIC8vICByZWdpb24gcHJvZHVjdEZsYXZvcnMKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZMQVZPUl9ISUtBUklfQk9YID0gImhpa2FyaUJveCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBGTEFWT1JfVEFCTEVUID0gInRhYmxldCI7CiAgICAvLyBlbmRyZWdpb24gcHJvZHVjdEZsYXZvcnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChERUJVRykgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKiog5qyh5Zue5pu05paw6ZaT6ZqUICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQQVJBTV9QT0xMSU5HX1RJTUUgPSAicG9sbGluZ1RpbWUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiDliJ3lm57otbfli5XjgYsgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRUZFUkVOQ0VfSVNfRklSU1RfVElNRSA9ICJwcmVmZXJlbmNlLmlzX2ZpcnN0X3RpbWUiOwogICAgLyoqIOWIqeeUqOimj+e0hOOBq+WQjOaEj+OBl+OBn+OBiyAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJFRkVSRU5DRV9JU19BR1JFRUQgPSAicHJlZmVyZW5jZS5pc19hZ3JlZWQiOwogICAgLyoqIOWIqeeUqOimj+e0hOOBruODkOODvOOCuOODp+ODsyAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUFJFRkVSRU5DRV9URVJNX1ZFUlNJT04gPSAicHJlZmVyZW5jZS50ZXJtX3ZlcnNpb24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChERUJVRykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKiDjg6njgqTjgrvjg7PjgrnjgpLjgpLkv53lrZjjgZnjgotLZXkgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRUZFUkVOQ0VfTElDRU5TRSA9ICJwcmVmZXJlbmNlLmxpY2Vuc2UiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJlZ2lvbiDjg5fjg6zjgqTjg6Tjg7zplqLkv4IKICAgIC8qKiDjgqLjgq/jgrfjg6fjg7PvvJrjgrXjgqTjg43jg7zjgrjmm7TmlrDlrozkuoYgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBMQVlFUl9TSUdOQUdFX1VQREFURV9GSU5JU0hFRCA9ICJwbGF5ZXIuc2lnbmFnZS51cGRhdGVfZmluaXNoZWQiOwogICAgLyoqIOOCouOCr+OCt+ODp+ODs++8muOCteOCpOODjeODvOOCuOabtOaWsOmWi+Wni+imgeaxgiAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUExBWUVSX1JFUVVFU1RfU0lHTkFHRV9VUERBVEVfU1RBUlQgPQogICAgICAgICAgICAicGxheWVyLnNlcnZpY2UucmVxdWVzdF9zaWduYWdlX3VwZGF0ZV9zdGFydCI7CiAgICAvLyBlbmRyZWdpb24g44OX44Os44Kk44Ok44O86Zai5L+CCgogICAgLy8gcmVnaW9uIGxvY2FsQnJvYWRjYXN0CiAgICAvKiog56uv5pyr55m76Yyy44GM57WC5LqG44GX44GfICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBCUk9BRENBU1RfRklOSVNIX0FDVElWQVRJT04gPSAiYnJvYWRjYXN0LmZpbmlzaF9hY3RpdmF0aW9uIjsKICAgIC8qKiDjg6njgqTjgrvjg7PjgrnnmbvpjLLjgr/jgrnjgq/jgYzntYLkuobjgZfjgZ8gKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEJST0FEQ0FTVF9GSU5JU0hfTElDRU5TRV9SRUdJU1RSQVRJT04gPQogICAgICAgICAgICAiYnJvYWRjYXN0LmZpbmlzaF9saWNlbnNlX3JlZ2lzdHJhdGlvbiI7CiAgICAvLyBlbmRyZWdpb24gbG9jYWxCcm9hZGNhc3QKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoREVCVUcpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -358,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx6ZVw+</last-search>
+      <last-search>filepath</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx6ZVw+</last-pattern>
+      <last-pattern>filepath</last-pattern>
       <last-replace>$espresso_version</last-replace>
       <last-substitute>3.1.0</last-substitute>
       <last-dir>1</last-dir>
