@@ -40,7 +40,6 @@
         <entry>67,90s/it/mediaPlayer/g</entry>
         <entry>67,90s/it/mediaPlayer?/g</entry>
         <entry>23,36s/it/mediaPlayer?/g</entry>
-        <entry>w</entry>
         <entry>x</entry>
         <entry>tabo</entry>
         <entry>%s/LogUtils/Logger/g</entry>
@@ -49,6 +48,7 @@
         <entry>110,118s/3.1.0/$espresso_version/g</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,10 +128,12 @@
         <mark key="]" line="24" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589262681739">
-        <mark key="'" line="327" column="12" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="32" />
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589360903500">
+        <mark key="'" line="92" column="8" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" timestamp="1589271143970">
         <mark key="'" line="11" column="0" />
@@ -194,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="415" column="58" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="416" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="443" column="49" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="444" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -294,6 +295,7 @@
       <jump line="330" column="0" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" />
+      <jump line="92" column="8" filename="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,11 +303,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIKICAgIH0sCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">LCAicHJvZCIg</text>
       </register>
       <register name="-" type="4">
-        <text>file.getCanonicalPath()</text>
+        <text encoding="base64">LCAicHJvZCIg</text>
       </register>
       <register name="/" type="4">
         <text>filepath</text>
@@ -341,7 +343,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
