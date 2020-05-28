@@ -171,11 +171,11 @@
         <mark key="." line="329" column="23" />
         <mark key="^" line="329" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590645126838">
-        <mark key="[" line="1387" column="79" />
-        <mark key="]" line="1388" column="64" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590645842315">
+        <mark key="[" line="1259" column="0" />
+        <mark key="]" line="1260" column="0" />
         <mark key="^" line="1388" column="64" />
-        <mark key="." line="1388" column="63" />
+        <mark key="." line="1260" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/js/rakutenPointCardSDKSample.js" timestamp="1590643704172" />
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
@@ -307,7 +307,7 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CQkJCQkJCS8vYWxlcnREaWFsb2dCdWlsZGVyLnNldENhbmNlbGFibGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -319,31 +319,31 @@
         <text encoding="base64">CQkJCQkJCSAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCS8vYWxlcnREaWFsb2dCdWlsZGVyLnNldENhbmNlbGFibGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgkJCQkJLyoKCQkJCQlpZihfc3lzLm9zVmVyPjEwKXsKCQkJCQkJaWYoQ29uZi5BUFBDICYmIF9hcHBDIT1udWxsKXsKCQkJCQkJCXRyeXsKCQkJCQkJCQlpZihfYXBwQy5pc0N1dGluVmlldygpKXsKCQkJCQkJCQkJX2FwcEMuY2FsbEN1dGluRmluaXNoKCk7CgkJCQkJCQkJCXJldHVybiB0cnVlOwoJCQkJCQkJCX0KCQkJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7fQoJCQkJCQl9CgkJCQkJfQoJCQkJCSovCgo=</text>
+        <text encoding="base64">CQkJCQkJCS8vYWxlcnREaWFsb2dCdWlsZGVyLnNldENhbmNlbGFibGUoZmFsc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJCQkJLyoKCQkJCQlpZihfc3lzLm9zVmVyPjEwKXsKCQkJCQkJaWYoQ29uZi5BUFBDICYmIF9hcHBDIT1udWxsKXsKCQkJCQkJCXRyeXsKCQkJCQkJCQlpZihfYXBwQy5pc0N1dGluVmlldygpKXsKCQkJCQkJCQkJX2FwcEMuY2FsbEN1dGluRmluaXNoKCk7CgkJCQkJCQkJCXJldHVybiB0cnVlOwoJCQkJCQkJCX0KCQkJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7fQoJCQkJCQl9CgkJCQkJfQoJCQkJCSovCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkvL2RlYnVnCgkJCQkJLy9maW5pc2goKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvL2RlYnVnCgkJCQkJLy9maW5pc2goKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvL1N0cmluZyBzY3JpcHQgPSAiamF2YXNjcmlwdDphcHBsaWNhbi5rZXlib2FyZC5fd2F0Y2hLZXlEb3duQ2FsbGJhY2soIityb290T2JqZWN0LnRvU3RyaW5nKCkrIik7IjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgkJCS8vCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkvL1N0cmluZyBzY3JpcHQgPSAiamF2YXNjcmlwdDphcHBsaWNhbi5rZXlib2FyZC5fd2F0Y2hLZXlEb3duQ2FsbGJhY2soIityb290T2JqZWN0LnRvU3RyaW5nKCkrIik7IjsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgkJCS8vCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
