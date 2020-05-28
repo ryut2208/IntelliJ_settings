@@ -116,11 +116,12 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" timestamp="1589188842154">
         <mark key="[" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589252255144">
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589821356522">
         <mark key="'" line="330" column="0" />
-        <mark key="[" line="306" column="20" />
-        <mark key="]" line="306" column="29" />
-        <mark key="." line="330" column="0" />
+        <mark key="[" line="328" column="24" />
+        <mark key="]" line="328" column="45" />
+        <mark key="." line="329" column="23" />
+        <mark key="^" line="329" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589264707433">
         <mark key="'" line="48" column="32" />
@@ -128,11 +129,11 @@
         <mark key="]" line="24" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589360903500">
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589820918710">
         <mark key="'" line="92" column="8" />
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="25" />
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
         <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" timestamp="1589271143970">
@@ -304,7 +305,7 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">LCAicHJvZCIg</text>
+        <text encoding="base64">cGF0aCB0cmF2ZXJzYWwgZXJyb3I6IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCAicHJvZCIg</text>
@@ -312,8 +313,8 @@
       <register name="/" type="4">
         <text>filepath</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGF0aCB0cmF2ZXJzYWwgZXJyb3I6IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgIm5hbWUiOiAiR29vZ2xlTWFwcyIKICAgIH0sCg==</text>
