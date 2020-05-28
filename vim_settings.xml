@@ -133,11 +133,11 @@
       <file name="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" timestamp="1589271143970">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590655332601">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590656418437">
         <mark key="'" line="2026" column="8" />
-        <mark key="[" line="2686" column="0" />
-        <mark key="]" line="2686" column="0" />
-        <mark key="." line="2686" column="0" />
+        <mark key="[" line="2711" column="0" />
+        <mark key="]" line="2711" column="0" />
+        <mark key="." line="2711" column="0" />
         <mark key="^" line="2686" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1589188789941">
@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590653221613">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590655997857">
         <mark key="'" line="653" column="8" />
         <mark key="[" line="3874" column="0" />
         <mark key="]" line="3874" column="61" />
@@ -308,11 +308,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkJCV93ZWJWaWV3LnJlbG9hZCgpOwo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">CQkJCQkJCQlfd2ViVmlldy5yZWxvYWQoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">CQkJCQkJCQlfd2ViVmlldy5yZWxvYWQoKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2ViVmlld1w+</text>
