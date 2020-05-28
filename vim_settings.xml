@@ -138,20 +138,20 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590644039700" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590647253529" />
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1588056399320">
         <mark key="'" line="670" column="24" />
         <mark key="[" line="207" column="31" />
         <mark key="]" line="207" column="31" />
         <mark key="." line="207" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590634029353">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="51" />
-        <mark key="." line="46" column="51" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590647821887">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
         <mark key="^" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590634252289">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590647820224">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
@@ -171,7 +171,7 @@
         <mark key="." line="329" column="23" />
         <mark key="^" line="329" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590645842315">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590647697551">
         <mark key="[" line="1259" column="0" />
         <mark key="]" line="1260" column="0" />
         <mark key="^" line="1388" column="64" />
@@ -306,8 +306,8 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
+      <register name="*" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
