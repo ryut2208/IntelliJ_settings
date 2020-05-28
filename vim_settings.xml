@@ -138,7 +138,12 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590647253529" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590648758457">
+        <mark key="[" line="3874" column="0" />
+        <mark key="]" line="3874" column="61" />
+        <mark key="^" line="3864" column="65" />
+        <mark key="." line="3874" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1588056399320">
         <mark key="'" line="670" column="24" />
         <mark key="[" line="207" column="31" />
@@ -306,8 +311,8 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>false</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQkJCUxvZy5kKFdlYkFjdGl2aXR5LmNsYXNzLmdldFNpbXBsZU5hbWUoKSwgc2NyaXB0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -316,7 +321,7 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCSAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">CQkJCUxvZy5kKFdlYkFjdGl2aXR5LmNsYXNzLmdldFNpbXBsZU5hbWUoKSwgc2NyaXB0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
