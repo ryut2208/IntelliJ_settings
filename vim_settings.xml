@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590648758457">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590649719072">
         <mark key="[" line="3874" column="0" />
         <mark key="]" line="3874" column="61" />
         <mark key="^" line="3864" column="65" />
@@ -156,7 +156,7 @@
         <mark key="." line="10" column="47" />
         <mark key="^" line="37" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590647820224">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590649570587">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
@@ -176,23 +176,17 @@
         <mark key="." line="329" column="23" />
         <mark key="^" line="329" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590647697551">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590650041211">
         <mark key="[" line="1259" column="0" />
         <mark key="]" line="1260" column="0" />
         <mark key="^" line="1388" column="64" />
-        <mark key="." line="1260" column="0" />
+        <mark key="." line="2693" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/js/rakutenPointCardSDKSample.js" timestamp="1590643704172" />
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="57" />
         <mark key="." line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" timestamp="1588056218570">
-        <mark key="'" line="69" column="12" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/index.html" timestamp="1590643866010" />
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1589188591809">
@@ -201,6 +195,9 @@
         <mark key="]" line="110" column="5" />
         <mark key="." line="110" column="5" />
         <mark key="^" line="105" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1590649765914">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
