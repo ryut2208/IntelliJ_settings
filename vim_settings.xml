@@ -135,13 +135,6 @@
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" timestamp="1588053031545">
-        <mark key="'" line="59" column="32" />
-        <mark key="[" line="96" column="49" />
-        <mark key="]" line="96" column="49" />
-        <mark key="." line="96" column="49" />
-        <mark key="^" line="96" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
@@ -156,11 +149,17 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590632923224">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="50" />
-        <mark key="^" line="46" column="43" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590634029353">
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="51" />
+        <mark key="." line="46" column="51" />
+        <mark key="^" line="37" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590634252289">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1588059064798">
         <mark key="'" line="248" column="59" />
@@ -315,10 +314,10 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>jp.co.newphoria.wbs.v5</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>jp.co.newphoria.wbs.v5</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
