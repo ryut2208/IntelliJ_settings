@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry>queue</entry>
         <entry>postdelayed</entry>
         <entry>findviewbyid</entry>
         <entry encoding="base64">XDxzdXJmYWNlSG9sZGVyXD4=</entry>
@@ -27,6 +25,8 @@
         <entry>LogUtils</entry>
         <entry>exception</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>webview_</entry>
+        <entry encoding="base64">XDxfd2ViVmlld1w+</entry>
       </history-search>
       <history-cmd>
         <entry>106,111s/\?//g</entry>
@@ -100,8 +100,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1588059064798">
+        <mark key="'" line="248" column="59" />
+        <mark key="[" line="247" column="40" />
+        <mark key="]" line="247" column="40" />
+        <mark key="." line="247" column="59" />
+        <mark key="^" line="109" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" timestamp="1589188842154">
         <mark key="[" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589821356522">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="328" column="24" />
+        <mark key="]" line="328" column="45" />
+        <mark key="." line="329" column="23" />
+        <mark key="^" line="329" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/build_config.json" timestamp="1589264707433">
         <mark key="'" line="48" column="32" />
@@ -118,6 +132,13 @@
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/MyApplication/app/src/main/java/com/ryut2208/myapplication/MainActivity.kt" timestamp="1589271143970">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590655332601">
+        <mark key="'" line="2026" column="8" />
+        <mark key="[" line="2686" column="0" />
+        <mark key="]" line="2686" column="0" />
+        <mark key="." line="2686" column="0" />
+        <mark key="^" line="2686" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/SerialNumber.kt" timestamp="1589188789941">
         <mark key="[" line="73" column="15" />
@@ -138,7 +159,8 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590651935744">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590653221613">
+        <mark key="'" line="653" column="8" />
         <mark key="[" line="3874" column="0" />
         <mark key="]" line="3874" column="61" />
         <mark key="^" line="3864" column="65" />
@@ -149,6 +171,18 @@
         <mark key="[" line="207" column="31" />
         <mark key="]" line="207" column="31" />
         <mark key="." line="207" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="57" />
+        <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1589188591809">
+        <mark key="'" line="110" column="30" />
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="110" column="5" />
+        <mark key="." line="110" column="5" />
+        <mark key="^" line="105" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590647821887">
         <mark key="[" line="10" column="47" />
@@ -162,100 +196,11 @@
         <mark key="." line="12" column="41" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" timestamp="1588059064798">
-        <mark key="'" line="248" column="59" />
-        <mark key="[" line="247" column="40" />
-        <mark key="]" line="247" column="40" />
-        <mark key="." line="247" column="59" />
-        <mark key="^" line="109" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589821356522">
-        <mark key="'" line="330" column="0" />
-        <mark key="[" line="328" column="24" />
-        <mark key="]" line="328" column="45" />
-        <mark key="." line="329" column="23" />
-        <mark key="^" line="329" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590652049363">
-        <mark key="'" line="2664" column="45" />
-        <mark key="[" line="2699" column="0" />
-        <mark key="]" line="2699" column="96" />
-        <mark key="^" line="2671" column="92" />
-        <mark key="." line="2699" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/js/rakutenPointCardSDKSample.js" timestamp="1590643704172" />
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="57" />
-        <mark key="." line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/index.html" timestamp="1590643866010" />
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/build.gradle" timestamp="1589188591809">
-        <mark key="'" line="110" column="30" />
-        <mark key="[" line="110" column="4" />
-        <mark key="]" line="110" column="5" />
-        <mark key="." line="110" column="5" />
-        <mark key="^" line="105" column="4" />
-      </file>
       <file name="/fragment.java" timestamp="1590649765914">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="498" column="0" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
-      <jump line="625" column="34" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
-      <jump line="619" column="35" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
-      <jump line="440" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="241" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="229" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="228" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="214" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="213" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="190" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="158" column="19" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="95" column="19" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="162" column="26" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="414" column="18" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="501" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="84" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="91" column="37" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="574" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="57" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="62" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="703" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="694" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="674" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="642" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="569" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="562" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="561" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="560" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="557" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="553" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="552" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="550" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="539" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="538" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="494" column="16" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="483" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="52" column="71" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" />
-      <jump line="570" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="571" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="576" column="55" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="675" column="27" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="676" column="21" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="695" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="75" column="4" filename="$USER_HOME$/Documents/develop/flutter/play_sound/lib/main.dart" />
-      <jump line="677" column="46" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="70" column="26" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="192" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="159" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="193" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="217" column="42" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="218" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="245" column="50" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="246" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="415" column="58" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="416" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="443" column="49" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="444" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -302,6 +247,60 @@
       <jump line="248" column="59" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="65" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/app99/MyApplication.java" />
       <jump line="2664" column="45" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="653" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" />
+      <jump line="12455" column="50" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="12363" column="29" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5174" column="49" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5173" column="69" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5172" column="59" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5126" column="16" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1014" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2750" column="11" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2685" column="28" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2681" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2566" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2561" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2560" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2257" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2243" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2231" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="494" column="0" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="233" column="22" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="646" column="15" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="655" column="15" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="796" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="799" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="812" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="813" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="829" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="845" column="27" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="848" column="28" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="856" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="857" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="888" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="889" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="895" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="896" column="14" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="903" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="904" column="14" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="905" column="34" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="908" column="36" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="938" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="939" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="940" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="942" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="943" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="944" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="954" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="955" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="961" column="34" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="989" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1018" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1049" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1129" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1134" column="16" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2026" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,43 +309,43 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CQkJCQkJCQlMb2cuZChXZWJBY3Rpdml0eS5jbGFzcy5nZXRTaW1wbGVOYW1lKCksIF93ZWJWaWV3LmdldFVybCgpKTsK</text>
+        <text encoding="base64">CQkJCQkJCV93ZWJWaWV3LnJlbG9hZCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxfd2ViVmlld1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQlMb2cuZChXZWJBY3Rpdml0eS5jbGFzcy5nZXRTaW1wbGVOYW1lKCksIF93ZWJWaWV3LmdldFVybCgpKTsK</text>
+        <text encoding="base64">CQkJCQkJCV93ZWJWaWV3LnJlbG9hZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
+        <text encoding="base64">CQkJCQkJCV93ZWJWaWV3LnJlbG9hZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCS8vYWxlcnREaWFsb2dCdWlsZGVyLnNldENhbmNlbGFibGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">CgkJCQl2aWV3LnJlbG9hZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgkJCQkJLyoKCQkJCQlpZihfc3lzLm9zVmVyPjEwKXsKCQkJCQkJaWYoQ29uZi5BUFBDICYmIF9hcHBDIT1udWxsKXsKCQkJCQkJCXRyeXsKCQkJCQkJCQlpZihfYXBwQy5pc0N1dGluVmlldygpKXsKCQkJCQkJCQkJX2FwcEMuY2FsbEN1dGluRmluaXNoKCk7CgkJCQkJCQkJCXJldHVybiB0cnVlOwoJCQkJCQkJCX0KCQkJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7fQoJCQkJCQl9CgkJCQkJfQoJCQkJCSovCgo=</text>
+        <text encoding="base64">CQkJCS8vZGVidWcKCQkJCS8vZmluaXNoKCk7CgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJCQkvKgoJCQkJaWYoX3N5cy5vc1Zlcj4xMCl7CgkJCQkJaWYoQ29uZi5BUFBDICYmIF9hcHBDIT1udWxsKXsKCQkJCQkJdHJ5ewoJCQkJCQkJaWYoX2FwcEMuaXNDdXRpblZpZXcoKSl7CgkJCQkJCQkJX2FwcEMuY2FsbEN1dGluRmluaXNoKCk7CgkJCQkJCQkJcmV0dXJuIHRydWU7CgkJCQkJCQl9CgkJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7fQoJCQkJCX0KCQkJCX0KCQkJCSovCgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkvL2RlYnVnCgkJCQkJLy9maW5pc2goKTsKCg==</text>
+        <text encoding="base64">CQkJCS8qCgkJCQkvL+WklumDqOmAo+aQugoJCQkJaWYodXJsLmluZGV4T2YoImxhdW5jaF9icm93c2VyPXllcyIpPj0wIHx8CgkJCQkJCS8vdXJsLmluZGV4T2YoImh0dHA6Ly9tYXBzLmdvb2dsZS5jb20iKT49MCB8fAoJCQkJCQkvL3VybC5pbmRleE9mKCJ5b3V0dWJlIik+PTAgfHwKCQkJCQkJdXJsLnN0YXJ0c1dpdGgoImdlbzoiKSB8fAoJCQkJCQl1cmwuc3RhcnRzV2l0aCgibWFya2V0OiIpIHx8CgkJCQkJCXVybC5zdGFydHNXaXRoKCJtYWlsdG86IikgfHwKCQkJCQkJdXJsLnN0YXJ0c1dpdGgoInRlbDoiKQoJCQkJCQkpewoKCgkJICAgICAgICAgICAgaWYgKHVybC5pbmRleE9mKCJsYXVuY2hfYnJvd3Nlcj15ZXMiKT49MCl7CgkJICAgICAgICAgICAgICAgIC8v44OR44Op44Oh44O844K/44KS6Zmk5Y6744GZ44KLCgkJICAgICAgICAgICAgICAgIGlmICh1cmwuaW5kZXhPZigibGF1bmNoX2Jyb3dzZXI9eWVzJiIpPj0wKXsKCQkgICAgICAgICAgICAgICAgICAgIHVybCA9IHVybC5yZXBsYWNlKCJsYXVuY2hfYnJvd3Nlcj15ZXMmIiwgIiIpOyAvL1t1cmwgc3RyaW5nQnlSZXBsYWNpbmdPY2N1cnJlbmNlc09mU3RyaW5nOiBAImxhdW5jaF9icm93c2VyPXllcyYiIHdpdGhTdHJpbmc6IEAiIl07CgkJICAgICAgICAgICAgICAgIH1lbHNlewoJCSAgICAgICAgICAgICAgICAJdXJsID0gdXJsLnJlcGxhY2UoImxhdW5jaF9icm93c2VyPXllcyIsICIiKTsvL3VybCA9IFt1cmwgc3RyaW5nQnlSZXBsYWNpbmdPY2N1cnJlbmNlc09mU3RyaW5nOiBAImxhdW5jaF9icm93c2VyPXllcyIgd2l0aFN0cmluZzogQCIiXTsKCQkgICAgICAgICAgICAgICAgfQoKCQkgICAgICAgICAgICAgICAgLy9pbnQgaGF0ZW5hID0gW0NvbW1vbkxpYiBsYXN0SW5kZXhPZjp1cmwgYzpAIj8iXTsKCQkgICAgICAgICAgICAgICAgaWYgKHVybC5lbmRzV2l0aCgiPyIpKSB7CgkJICAgICAgICAgICAgICAgICAgICAvL2xvZyhAImhhdGVuYSBlbmQgISEhIik7CgkJICAgICAgICAgICAgICAgICAgICB1cmwgPSB1cmwuc3Vic3RyaW5nKDAsIHVybC5sZW5ndGgoKS0xKTsKCQkgICAgICAgICAgICAgICAgfQoJCSAgICAgICAgICAgIH0KCgkJCQkJdHJ5ewoJCQkJCV9pc09wZW5BY3Rpdml0eSA9IHRydWU7CgkJCQkJQ29tbW9uTGliLm9wZW5Ccm93c2VyKF9zZWxmLCB1cmwpOwoJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7CgkJCQkJCV9pc09wZW5BY3Rpdml0eSA9IGZhbHNlOwoJCQkJCQlDb21tb25MaWIuc2hvd0RpYWxvZyhfc2VsZiwgIuOCqOODqeODvCIsICLmjIflrprjga7jgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7PjgpLotbfli5XjgafjgY3jgb7jgZvjgpPjgafjgZfjgZ9cbiIrdXJsKTsKCQkJCQl9CgoJCQkJCXJldHVybih0cnVlKTsKCQkJCX0KCgoJCQkJaWYoKHVybC5pbmRleE9mKCJsYXVuY2hfd2Vidmlldz15ZXMiKT49MCB8fCB1cmwuaW5kZXhPZigibGF1bmNoX3dlYnZpZXc9eWVzX3dpdGhvdXRfdG9vbGJhciIpPj0wKSAmJiAhX2lzTGF1bmNoV2ViVmlldyl7CgkJCQkJX3N5cy5wYXJlbnRXZWJWaWV3ID0gX3NlbGY7CgoJCQkJCUludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KF9zZWxmLCBXZWJBY3Rpdml0eS5jbGFzcyk7CgkJCQkJaW50ZW50LnB1dEV4dHJhKCJsYXVuY2hXZWJWaWV3VXJsIiwgdXJsKTsKCQkJCQlpZih1cmwuaW5kZXhPZigibGF1bmNoX3dlYnZpZXc9eWVzX3dpdGhvdXRfdG9vbGJhciIpPj0wKXsKCQkJCQkJaW50ZW50LnB1dEV4dHJhKCJ0b29sYmFyIiwgIm5vIik7CgkJCQkJfWVsc2V7CgkJCQkJCWludGVudC5wdXRFeHRyYSgidG9vbGJhciIsICJ5ZXMiKTsKCQkJCQl9CgoJCQkJCXN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCX0KCgkJCQlpZih1cmwuaW5kZXhPZigiY2xvc2Vfd2Vidmlldz15ZXMiKT49MCl7CgkJCQkJaWYoX2lzTGF1bmNoV2ViVmlldyl7CgoKCQkJCQkJc3RvcEFsbFNlbnNvcigpOwoJCQkJCQlmaW5pc2goKTsKCQkJCQkJaWYoX3N5cy5wYXJlbnRXZWJWaWV3IT1udWxsKXsKCQkJCQkJCXRyeXsKCQkJCQkJCQlfc3lzLnBhcmVudFdlYlZpZXcuY2xvc2VTdWJXZWJWaWV3TGlzdGVuZXIoKTsKCQkJCQkJCQlfc3lzLnBhcmVudFdlYlZpZXcgPSBudWxsOwoJCQkJCQkJfWNhdGNoKEV4Y2VwdGlvbiBlKXt9CgkJCQkJCX0KCgoJCQkJCX0KCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCX0KCgoJCQkJaWYodXJsLmluZGV4T2YoImxhdW5jaF90YWI9Iik+PTAgJiYgIV9pc0xhdW5jaFdlYlZpZXcpewoJCQkJCWludCB0bXBQb3MgPSAtMTsKCQkJCQlTdHJpbmcgdG1wTnVtID0gbnVsbDsKCQkJCQlpbnQgaW50TnVtID0gLTE7CgkJCQkJdHJ5ewoJCQkJCQl0bXBQb3MgPSB1cmwuaW5kZXhPZigibGF1bmNoX3RhYj0iKTsKCQkJCQkJdG1wTnVtID0gdXJsLnN1YnN0cmluZyh0bXBQb3MrMTEpOwoJCQkJCQkvL19zeXMubG9nKCI+Pj4+Pj4+Iit0bXBOdW0pOwoKCQkJCQkJaWYodG1wTnVtLmluZGV4T2YoIiYiKT49MCl7CgkJCQkJCQl0bXBQb3MgPSB0bXBOdW0uaW5kZXhPZigiJiIpOwoJCQkJCQkJdG1wTnVtID0gdG1wTnVtLnN1YnN0cmluZygwLCB0bXBQb3MpOwoJCQkJCQl9CgkJCQkJCS8vX3N5cy5sb2coIj4+Pj4+Pj4iK3RtcE51bSk7CgoJCQkJCQlpbnROdW0gPSBJbnRlZ2VyLnBhcnNlSW50KHRtcE51bSk7CgoJICAgICAgICAgICAgICAgICAgIGlmIChpbnROdW0+MCAmJiBpbnROdW08OTkpIHsKCSAgICAgICAgICAgICAgICAgICAgICAgIC8vW19zeXMubWFpbiBvcGVuVGFiOmludE51bSB1cmw6dXJsXTsKCSAgICAgICAgICAgICAgICAJICAgX3N5cy5tYWluLm9wZW5UYWIoaW50TnVtLCB1cmwpOwoJICAgICAgICAgICAgICAgICAgIH0KCQkJCQl9Y2F0Y2goRXhjZXB0aW9uIGUpe30KCgoKCgkJCQkJcmV0dXJuIHRydWU7CgkJCQl9CgkJCQkqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8qCgkJCQkvL+WklumDqOmAo+aQugoJCQkJaWYodXJsLmluZGV4T2YoImxhdW5jaF9icm93c2VyPXllcyIpPj0wIHx8CgkJCQkJCS8vdXJsLmluZGV4T2YoImh0dHA6Ly9tYXBzLmdvb2dsZS5jb20iKT49MCB8fAoJCQkJCQkvL3VybC5pbmRleE9mKCJ5b3V0dWJlIik+PTAgfHwKCQkJCQkJdXJsLnN0YXJ0c1dpdGgoImdlbzoiKSB8fAoJCQkJCQl1cmwuc3RhcnRzV2l0aCgibWFya2V0OiIpIHx8CgkJCQkJCXVybC5zdGFydHNXaXRoKCJtYWlsdG86IikgfHwKCQkJCQkJdXJsLnN0YXJ0c1dpdGgoInRlbDoiKQoJCQkJCQkpewoKCgkJICAgICAgICAgICAgaWYgKHVybC5pbmRleE9mKCJsYXVuY2hfYnJvd3Nlcj15ZXMiKT49MCl7CgkJICAgICAgICAgICAgICAgIC8v44OR44Op44Oh44O844K/44KS6Zmk5Y6744GZ44KLCgkJICAgICAgICAgICAgICAgIGlmICh1cmwuaW5kZXhPZigibGF1bmNoX2Jyb3dzZXI9eWVzJiIpPj0wKXsKCQkgICAgICAgICAgICAgICAgICAgIHVybCA9IHVybC5yZXBsYWNlKCJsYXVuY2hfYnJvd3Nlcj15ZXMmIiwgIiIpOyAvL1t1cmwgc3RyaW5nQnlSZXBsYWNpbmdPY2N1cnJlbmNlc09mU3RyaW5nOiBAImxhdW5jaF9icm93c2VyPXllcyYiIHdpdGhTdHJpbmc6IEAiIl07CgkJICAgICAgICAgICAgICAgIH1lbHNlewoJCSAgICAgICAgICAgICAgICAJdXJsID0gdXJsLnJlcGxhY2UoImxhdW5jaF9icm93c2VyPXllcyIsICIiKTsvL3VybCA9IFt1cmwgc3RyaW5nQnlSZXBsYWNpbmdPY2N1cnJlbmNlc09mU3RyaW5nOiBAImxhdW5jaF9icm93c2VyPXllcyIgd2l0aFN0cmluZzogQCIiXTsKCQkgICAgICAgICAgICAgICAgfQoKCQkgICAgICAgICAgICAgICAgLy9pbnQgaGF0ZW5hID0gW0NvbW1vbkxpYiBsYXN0SW5kZXhPZjp1cmwgYzpAIj8iXTsKCQkgICAgICAgICAgICAgICAgaWYgKHVybC5lbmRzV2l0aCgiPyIpKSB7CgkJICAgICAgICAgICAgICAgICAgICAvL2xvZyhAImhhdGVuYSBlbmQgISEhIik7CgkJICAgICAgICAgICAgICAgICAgICB1cmwgPSB1cmwuc3Vic3RyaW5nKDAsIHVybC5sZW5ndGgoKS0xKTsKCQkgICAgICAgICAgICAgICAgfQoJCSAgICAgICAgICAgIH0KCgkJCQkJdHJ5ewoJCQkJCV9pc09wZW5BY3Rpdml0eSA9IHRydWU7CgkJCQkJQ29tbW9uTGliLm9wZW5Ccm93c2VyKF9zZWxmLCB1cmwpOwoJCQkJCX1jYXRjaChFeGNlcHRpb24gZSl7CgkJCQkJCV9pc09wZW5BY3Rpdml0eSA9IGZhbHNlOwoJCQkJCQlDb21tb25MaWIuc2hvd0RpYWxvZyhfc2VsZiwgIuOCqOODqeODvCIsICLmjIflrprjga7jgqLjg5fjg6rjgrHjg7zjgrfjg6fjg7PjgpLotbfli5XjgafjgY3jgb7jgZvjgpPjgafjgZfjgZ9cbiIrdXJsKTsKCQkJCQl9CgoJCQkJCXJldHVybih0cnVlKTsKCQkJCX0KCgoJCQkJaWYoKHVybC5pbmRleE9mKCJsYXVuY2hfd2Vidmlldz15ZXMiKT49MCB8fCB1cmwuaW5kZXhPZigibGF1bmNoX3dlYnZpZXc9eWVzX3dpdGhvdXRfdG9vbGJhciIpPj0wKSAmJiAhX2lzTGF1bmNoV2ViVmlldyl7CgkJCQkJX3N5cy5wYXJlbnRXZWJWaWV3ID0gX3NlbGY7CgoJCQkJCUludGVudCBpbnRlbnQgPSBuZXcgSW50ZW50KF9zZWxmLCBXZWJBY3Rpdml0eS5jbGFzcyk7CgkJCQkJaW50ZW50LnB1dEV4dHJhKCJsYXVuY2hXZWJWaWV3VXJsIiwgdXJsKTsKCQkJCQlpZih1cmwuaW5kZXhPZigibGF1bmNoX3dlYnZpZXc9eWVzX3dpdGhvdXRfdG9vbGJhciIpPj0wKXsKCQkJCQkJaW50ZW50LnB1dEV4dHJhKCJ0b29sYmFyIiwgIm5vIik7CgkJCQkJfWVsc2V7CgkJCQkJCWludGVudC5wdXRFeHRyYSgidG9vbGJhciIsICJ5ZXMiKTsKCQkJCQl9CgoJCQkJCXN0YXJ0QWN0aXZpdHkoaW50ZW50KTsKCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCX0KCgkJCQlpZih1cmwuaW5kZXhPZigiY2xvc2Vfd2Vidmlldz15ZXMiKT49MCl7CgkJCQkJaWYoX2lzTGF1bmNoV2ViVmlldyl7CgoKCQkJCQkJc3RvcEFsbFNlbnNvcigpOwoJCQkJCQlmaW5pc2goKTsKCQkJCQkJaWYoX3N5cy5wYXJlbnRXZWJWaWV3IT1udWxsKXsKCQkJCQkJCXRyeXsKCQkJCQkJCQlfc3lzLnBhcmVudFdlYlZpZXcuY2xvc2VTdWJXZWJWaWV3TGlzdGVuZXIoKTsKCQkJCQkJCQlfc3lzLnBhcmVudFdlYlZpZXcgPSBudWxsOwoJCQkJCQkJfWNhdGNoKEV4Y2VwdGlvbiBlKXt9CgkJCQkJCX0KCgoJCQkJCX0KCQkJCQlyZXR1cm4gdHJ1ZTsKCQkJCX0KCgoJCQkJaWYodXJsLmluZGV4T2YoImxhdW5jaF90YWI9Iik+PTAgJiYgIV9pc0xhdW5jaFdlYlZpZXcpewoJCQkJCWludCB0bXBQb3MgPSAtMTsKCQkJCQlTdHJpbmcgdG1wTnVtID0gbnVsbDsKCQkJCQlpbnQgaW50TnVtID0gLTE7CgkJCQkJdHJ5ewoJCQkJCQl0bXBQb3MgPSB1cmwuaW5kZXhPZigibGF1bmNoX3RhYj0iKTsKCQkJCQkJdG1wTnVtID0gdXJsLnN1YnN0cmluZyh0bXBQb3MrMTEpOwoJCQkJCQkvL19zeXMubG9nKCI+Pj4+Pj4+Iit0bXBOdW0pOwoKCQkJCQkJaWYodG1wTnVtLmluZGV4T2YoIiYiKT49MCl7CgkJCQkJCQl0bXBQb3MgPSB0bXBOdW0uaW5kZXhPZigiJiIpOwoJCQkJCQkJdG1wTnVtID0gdG1wTnVtLnN1YnN0cmluZygwLCB0bXBQb3MpOwoJCQkJCQl9CgkJCQkJCS8vX3N5cy5sb2coIj4+Pj4+Pj4iK3RtcE51bSk7CgoJCQkJCQlpbnROdW0gPSBJbnRlZ2VyLnBhcnNlSW50KHRtcE51bSk7CgoJICAgICAgICAgICAgICAgICAgIGlmIChpbnROdW0+MCAmJiBpbnROdW08OTkpIHsKCSAgICAgICAgICAgICAgICAgICAgICAgIC8vW19zeXMubWFpbiBvcGVuVGFiOmludE51bSB1cmw6dXJsXTsKCSAgICAgICAgICAgICAgICAJICAgX3N5cy5tYWluLm9wZW5UYWIoaW50TnVtLCB1cmwpOwoJICAgICAgICAgICAgICAgICAgIH0KCQkJCQl9Y2F0Y2goRXhjZXB0aW9uIGUpe30KCgoKCgkJCQkJcmV0dXJuIHRydWU7CgkJCQl9CgkJCQkqLwoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkvL1N0cmluZyBzY3JpcHQgPSAiamF2YXNjcmlwdDphcHBsaWNhbi5rZXlib2FyZC5fd2F0Y2hLZXlEb3duQ2FsbGJhY2soIityb290T2JqZWN0LnRvU3RyaW5nKCkrIik7IjsK</text>
+        <text encoding="base64">CgkvKgoJRnJhbWVMYXlvdXQgX2FkTGF5b3V0OwoJcHJpdmF0ZSB2b2lkIGluaXRBZExheW91dCgpewoJCWludCBoID0gX2FkTGF5b3V0LmdldEhlaWdodCgpOwoJCV9zeXMubG9nKCI+Pj4gaGVpZ2h0IDogIitoKTsKCQlpbnQgYWRfaCA9IF9zeXMucjJ2KGgpOwoKCQkvL19iYXNlTGF5b3V0LmFkZFZpZXcoX2FkTGF5b3V0LCBuZXcgRnJhbWVMYXlvdXQuTGF5b3V0UGFyYW1zKF9zeXMuRlAsIF9zeXMuV0MpKTsKCQlfYmFzZUxheW91dC51cGRhdGVWaWV3TGF5b3V0KF9hZExheW91dCwgX3N5cy5jcmVhdGVQYXJhbSgwLCBfc3lzLmJhc2VILV90YWJCYXJILWFkX2gsIF9zeXMuYmFzZVcsIGFkX2gpKTsKCX0KCSovCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJCS8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCQkvKgoJCS8vYXBwYyBkZXYKCgkJX2FkTGF5b3V0ID0gbmV3IEZyYW1lTGF5b3V0KHRoaXMpOwoJCS8vLCBuZXcgTGluZWFyTGF5b3V0LkxheW91dFBhcmFtcyhfc3lzLkZQLCBfc3lzLldDKQoKCQlBcHBDIG1BcHBDID0gbmV3IEFwcEModGhpcyk7CgkJQXBwQ1NpbXBsZVZpZXcgc2ltcGxlVmlldyA9IG1BcHBDLmxvYWRTaW1wbGVWaWV3KCk7CgkJX2FkTGF5b3V0LmFkZFZpZXcoc2ltcGxlVmlldyk7CgoJCS8vX3N5cy5sb2coIj4+PiBoZWlnaHQgOiAiK3NpbXBsZVZpZXcuZ2V0SGVpZ2h0KCkpOwoKCQlfYmFzZUxheW91dC5hZGRWaWV3KF9hZExheW91dCwgbmV3IEZyYW1lTGF5b3V0LkxheW91dFBhcmFtcyhfc3lzLkZQLCBfc3lzLldDKSk7CgoJCVRpbWVyIHRpbWVyID0gbmV3IFRpbWVyKHRydWUpOwoJCVRpbWVyVGFzayB0YXNrID0gbmV3IFRpbWVyVGFzaygpIHsKCQkJQE92ZXJyaWRlCgkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKCQkJCV9oYW5kbGVyLnBvc3QobmV3IFJ1bm5hYmxlKCkgewoJCQkJCUBPdmVycmlkZQoJCQkJCXB1YmxpYyB2b2lkIHJ1bigpIHsKCQkJCQkJaW5pdEFkTGF5b3V0KCk7CgkJCQkJfQoJCQkJfSk7CgkJCX0KCQl9OwoJCXRpbWVyLnNjaGVkdWxlKHRhc2ssIDUwMDApOwoJCSovCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
@@ -355,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxfd2ViVmlld1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfd2ViVmlld1w+</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
       <last-dir>1</last-dir>
