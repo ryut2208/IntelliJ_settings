@@ -138,7 +138,7 @@
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/ImagePlayer.kt" timestamp="1589188901078">
         <mark key="[" line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590649719072">
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590651935744">
         <mark key="[" line="3874" column="0" />
         <mark key="]" line="3874" column="61" />
         <mark key="^" line="3864" column="65" />
@@ -176,11 +176,12 @@
         <mark key="." line="329" column="23" />
         <mark key="^" line="329" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590650041211">
-        <mark key="[" line="1259" column="0" />
-        <mark key="]" line="1260" column="0" />
-        <mark key="^" line="1388" column="64" />
-        <mark key="." line="2693" column="87" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590652049363">
+        <mark key="'" line="2664" column="45" />
+        <mark key="[" line="2699" column="0" />
+        <mark key="]" line="2699" column="96" />
+        <mark key="^" line="2671" column="92" />
+        <mark key="." line="2699" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/assets/contents/web/js/rakutenPointCardSDKSample.js" timestamp="1590643704172" />
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
@@ -201,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="111" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="498" column="0" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="625" column="34" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="619" column="35" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
@@ -301,6 +301,7 @@
       <jump line="183" column="47" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="248" column="59" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="65" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/app99/MyApplication.java" />
+      <jump line="2664" column="45" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +310,7 @@
         <text>class</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CQkJCUxvZy5kKFdlYkFjdGl2aXR5LmNsYXNzLmdldFNpbXBsZU5hbWUoKSwgc2NyaXB0KTsK</text>
+        <text encoding="base64">CQkJCQkJCQlMb2cuZChXZWJBY3Rpdml0eS5jbGFzcy5nZXRTaW1wbGVOYW1lKCksIF93ZWJWaWV3LmdldFVybCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -318,7 +319,7 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCUxvZy5kKFdlYkFjdGl2aXR5LmNsYXNzLmdldFNpbXBsZU5hbWUoKSwgc2NyaXB0KTsK</text>
+        <text encoding="base64">CQkJCQkJCQlMb2cuZChXZWJBY3Rpdml0eS5jbGFzcy5nZXRTaW1wbGVOYW1lKCksIF93ZWJWaWV3LmdldFVybCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkvL19zeXMubG9nKCJjbGFzc05hbWU6IitjbGFzc05hbWUpOwoJCQkJCS8vX3N5cy5sb2coIm1ldGhvZDoiK21ldGhvZCk7CgkJCQkJLy9pZihvcHRpb25zIT1udWxsKXsgX3N5cy5sb2coIm9wdGlvbnM6IitvcHRpb25zLnRvU3RyaW5nKCkpOyB9Cgo=</text>
