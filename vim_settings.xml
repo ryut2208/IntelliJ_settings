@@ -43,12 +43,12 @@
         <entry>67,90s/it/mediaPlayer/g</entry>
         <entry>67,90s/it/mediaPlayer?/g</entry>
         <entry>23,36s/it/mediaPlayer?/g</entry>
-        <entry>w</entry>
         <entry>x</entry>
         <entry>tabo</entry>
         <entry>%s/LogUtils/Logger/g</entry>
         <entry>vsp</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -337,7 +337,7 @@
         <text encoding="base64">CQkJCS8vZGVidWcKCQkJCS8vZmluaXNoKCk7CgoK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
