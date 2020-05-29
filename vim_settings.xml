@@ -119,7 +119,13 @@
         <mark key="]" line="24" column="6" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590739104009" />
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
+        <mark key="'" line="772" column="37" />
+        <mark key="[" line="99" column="21" />
+        <mark key="]" line="99" column="21" />
+        <mark key="^" line="781" column="40" />
+        <mark key="." line="99" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589820918710">
         <mark key="'" line="92" column="8" />
         <mark key="[" line="9" column="55" />
@@ -190,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="191" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="412" column="4" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" />
@@ -290,6 +295,7 @@
       <jump line="161" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
       <jump line="0" column="48" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="772" column="37" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,16 +304,16 @@
         <text>class</text>
       </register>
       <register name="*" type="4">
-        <text>surface_type</text>
+        <text>average_speed_frame</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>average_speed_frame</text>
       </register>
       <register name="/" type="4">
         <text>ondes</text>
       </register>
-      <register name="0" type="4">
-        <text>surface_type</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YXIgU3BlZWRCZ05hbWUgPSAnYXZlcmFnZV9zcGVlZF9mcmFtZS5wbmcnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8uCg==</text>
