@@ -1,30 +1,369 @@
 <application>
   <component name="VimEditorSettings">
-    <editor />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzdXJmYWNlSG9sZGVyXD4=</entry>
+        <entry>it</entry>
+        <entry encoding="base64">XDxpc1BsYXlpbmdcPg==</entry>
+        <entry>schedule update</entry>
+        <entry>日付部</entry>
+        <entry>ad_banner</entry>
+        <entry>new handler</entry>
+        <entry>player</entry>
+        <entry encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</entry>
+        <entry>handler</entry>
+        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
+        <entry>handler.post</entry>
+        <entry>handler\.post</entry>
+        <entry>LogUtils</entry>
+        <entry>exception</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry>webview_</entry>
+        <entry encoding="base64">XDxfd2ViVmlld1w+</entry>
+        <entry>changevideo</entry>
+        <entry>ondes</entry>
+      </history-search>
+      <history-cmd>
+        <entry>106,111s/\?//g</entry>
+        <entry>106,111s/?//g</entry>
+        <entry>%s/println/log\.d/g</entry>
+        <entry>%s/println/Log\.d/g</entry>
+        <entry>%s/println\(/Log\.d\(TAG, /g</entry>
+        <entry>%s/println\(/Log\.d\(TAG,\ /g</entry>
+        <entry>%s/println(/Log\.d\(TAG,\ /g</entry>
+        <entry>vsp MqttInterface</entry>
+        <entry>212,222s/?//g</entry>
+        <entry>12,22s/?//g</entry>
+        <entry>sp</entry>
+        <entry>67,90s/it/mediaPlayer/g</entry>
+        <entry>67,90s/it/mediaPlayer?/g</entry>
+        <entry>23,36s/it/mediaPlayer?/g</entry>
+        <entry>x</entry>
+        <entry>%s/LogUtils/Logger/g</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
+        <entry>tabo</entry>
+        <entry>nohlsearch</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/" timestamp="1591758284894">
+      <file name="/Dummy.txt" timestamp="1590672371086">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base/src/main/java/com/applican/app/tasks/ZipExtractTask.java" timestamp="1589821356522">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="328" column="24" />
+        <mark key="]" line="328" column="45" />
+        <mark key="." line="329" column="23" />
+        <mark key="^" line="329" column="24" />
+      </file>
+      <file name="/fragment.kt" timestamp="1590731267853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
+        <mark key="'" line="772" column="37" />
+        <mark key="[" line="99" column="21" />
+        <mark key="]" line="99" column="21" />
+        <mark key="^" line="781" column="40" />
+        <mark key="." line="99" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/activity/MainActivity.kt" timestamp="1591753415802" />
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
+        <mark key="'" line="764" column="12" />
+        <mark key="[" line="1112" column="0" />
+        <mark key="]" line="1112" column="80" />
+        <mark key="." line="1112" column="0" />
+        <mark key="^" line="764" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
+        <mark key="[" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/fragment/WebZipManageFragment.kt" timestamp="1591753369093">
+        <mark key="[" line="89" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopScore.dart" timestamp="1590743401329">
+        <mark key="[" line="835" column="33" />
+        <mark key="]" line="835" column="33" />
+        <mark key="." line="835" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/app99/MyApplication.java" timestamp="1590633070116">
+        <mark key="'" line="65" column="24" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/pubspec.yaml" timestamp="1590743207836">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590655997857">
+        <mark key="'" line="657" column="8" />
+        <mark key="[" line="3875" column="0" />
+        <mark key="]" line="3875" column="61" />
+        <mark key="." line="3875" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
+        <mark key="[" line="709" column="45" />
+        <mark key="]" line="709" column="57" />
+        <mark key="^" line="709" column="57" />
+        <mark key="." line="709" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/google-services.json" timestamp="1590633106886">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="57" />
+        <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopMovieList.dart" timestamp="1590744486185">
+        <mark key="[" line="402" column="34" />
+        <mark key="]" line="402" column="35" />
+        <mark key="." line="402" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590647821887">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="38" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590649570587">
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="/fragment.java" timestamp="1590672510678">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="191" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="412" column="4" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="30" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" />
+      <jump line="387" column="6" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="179" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="4" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" />
+      <jump line="69" column="60" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
+      <jump line="43" column="81" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
+      <jump line="63" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
+      <jump line="686" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="53" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="671" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
+      <jump line="152" column="86" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
+      <jump line="165" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
+      <jump line="156" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
+      <jump line="15" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/BootReceiver.kt" />
+      <jump line="33" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" />
+      <jump line="31" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiGetUtil.kt" />
+      <jump line="62" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
+      <jump line="71" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" />
+      <jump line="8" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" />
+      <jump line="15" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
+      <jump line="7" column="13" filename="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/java/text/SimpleDateFormat.class" />
+      <jump line="27" column="67" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
+      <jump line="32" column="137" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
+      <jump line="175" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
+      <jump line="183" column="47" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
+      <jump line="248" column="59" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
+      <jump line="65" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/app99/MyApplication.java" />
+      <jump line="2664" column="45" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="653" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" />
+      <jump line="12455" column="50" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="12363" column="29" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5174" column="49" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5173" column="69" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5172" column="59" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="5126" column="16" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1014" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2750" column="11" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2685" column="28" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2681" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2566" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2561" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2560" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2257" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2243" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2231" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="494" column="0" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="233" column="22" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="646" column="15" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="655" column="15" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="796" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="799" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="812" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="813" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="829" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="845" column="27" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="848" column="28" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="856" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="857" column="24" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="888" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="889" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="895" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="896" column="14" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="903" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="904" column="14" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="905" column="34" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="908" column="36" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="938" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="939" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="940" column="10" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="942" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="943" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="944" column="30" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="954" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="955" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="961" column="34" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="989" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1018" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1049" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1129" column="20" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="1134" column="16" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2026" column="8" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="2688" column="32" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="13379" column="33" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="13395" column="4" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="123" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="131" column="14" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="135" column="14" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="139" column="15" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="154" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="170" column="83" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="764" column="12" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
+      <jump line="136" column="54" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="161" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="0" column="48" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="160" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
+      <jump line="772" column="37" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>class</text>
+      </register>
+      <register name="*" type="4">
+        <text>'average_speed_frame.png',</text>
+      </register>
+      <register name="-" type="4">
+        <text>'average_speed_frame.png',</text>
+      </register>
+      <register name="/" type="4">
+        <text>ondes</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICB2YXIgU3BlZWRCZ05hbWUgPSAnYXZlcmFnZV9zcGVlZF9mcmFtZS5wbmcnOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8uCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllci4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8qKiDjg4/jg7Pjg4njg6kgICovCiAgICBwcml2YXRlIHZhbCBoYW5kbGVyID0gSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpLCB0aGlzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvKiog44OP44Oz44OJ44Op5Yem55CGOiDlho3nlJ8gICovCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgV0hBVF9QTEFZID0gMAogICAgICAgIC8qKiDjg4/jg7Pjg4njg6nlh6bnkIY6IOWBnOatoiAgKi8KICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBXSEFUX1NUT1AgPSAxCiAgICAgICAgLyoqIOODj+ODs+ODieODqeWHpueQhjog6ZaL5aeLICAqLwogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFdIQVRfU1RBUlQgPSAyCiAgICAgICAgLyoqIOODj+ODs+ODieODqeWHpueQhjog5LiA5pmC5YGc5q2iICAqLwogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFdIQVRfUEFVU0UgPSAzCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gaGFuZGxlTWVzc2FnZShtc2c6IE1lc3NhZ2UpOiBCb29sZWFuIHsKICAgICAgICB3aGVuIChtc2cud2hhdCkgewogICAgICAgICAgICBXSEFUX1BMQVkgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBXSEFUX1NUT1AgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBXSEFUX1BBVVNFIC0+IHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgV0hBVF9TVEFSVCAtPiB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8ubGV0IHsKICAgICAgICAgICAgICAgICAgICBpdC5zdG9wKCkKICAgICAgICAgICAgICAgICAgICBpdC5yZWxlYXNlKCkKICAgICAgICAgICAgICAgICAgICBleG9QbGF5ZXIgPSBudWxsCiAgICAgICAgICAgICAgICAgICAgTG9nVXRpbHMuZChUQUcsICJoYW5kbGVNZXNzYWdlOiBTVE9QIC0gcmVsZWFzZSAke2NvbnRlbnQ/LnBhdGh9IikKICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">a2tra2tra2tra2tra2tra2tra2tra2tra2tra2trCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyLnNlbmRFbXB0eU1lc3NhZ2UoV0hBVF9QQVVTRSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8ubGV0IHsKICAgICAgICAgICAgICAgICAgICBpZiAoaXQucGxheVdoZW5SZWFkeSkgewogICAgICAgICAgICAgICAgICAgICAgICBpdC5wbGF5V2hlblJlYWR5ID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbHMuZChUQUcsICJoYW5kbGVNZXNzYWdlOiBQQVVTRSAtIHBhdXNlICR7Y29udGVudD8ucGF0aH0iKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohlsearch</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <last-search>ondes</last-search>
+      <last-offset />
+      <last-pattern>ondes</last-pattern>
+      <last-replace>Logger</last-replace>
+      <last-substitute>LogUtils</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
+      <idea-join enabled="true" />
+      <idea-put enabled="true" />
     </notifications>
   </component>
 </application>
