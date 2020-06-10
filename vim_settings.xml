@@ -5,6 +5,15 @@
   <component name="VimKeySettings">
     <shortcut-conflicts />
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/" timestamp="1591758284894">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
