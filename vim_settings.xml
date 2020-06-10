@@ -120,12 +120,8 @@
         <mark key="^" line="781" column="40" />
         <mark key="." line="99" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/baseapp-android-prototype/base_app_manifest.json" timestamp="1589820918710">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/activity/MainActivity.kt" timestamp="1591753415802">
+        <mark key="[" line="122" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
         <mark key="'" line="764" column="12" />
@@ -133,6 +129,12 @@
         <mark key="]" line="1112" column="80" />
         <mark key="." line="1112" column="0" />
         <mark key="^" line="764" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
+        <mark key="[" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/fragment/WebZipManageFragment.kt" timestamp="1591753369093">
+        <mark key="[" line="89" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
         <mark key="'" line="148" column="0" />
