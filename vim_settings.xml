@@ -120,12 +120,12 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591774390023">
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591779753199">
         <mark key="'" line="35" column="18" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="64" />
-        <mark key="." line="276" column="0" />
-        <mark key="^" line="276" column="18" />
+        <mark key="[" line="256" column="16" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="255" column="37" />
+        <mark key="^" line="252" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -133,7 +133,7 @@
         <mark key="^" line="709" column="57" />
         <mark key="." line="709" column="56" />
       </file>
-      <file name="/LLDB" timestamp="1591774399339">
+      <file name="/LLDB" timestamp="1591780260695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
@@ -169,7 +169,7 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591771076067">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591780073290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1590672510678">
@@ -181,11 +181,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/view/FriendListCell.swift" timestamp="1591769942821">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/view/FriendListCell.swift" timestamp="1591780344557">
+        <mark key="[" line="30" column="50" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -296,11 +296,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGVWaWV3LmRlc2VsZWN0Um93KGF0OiBpbmRleFBhdGgsIGFuaW1hdGVkOiB0cnVlKQo=</text>
+      <register name="*" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>tableView.contentOffse</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>viewdidload</text>
@@ -309,33 +309,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFibGVWaWV3LmRlc2VsZWN0Um93KGF0OiBpbmRleFBhdGgsIGFuaW1hdGVkOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWNvbi5pbWFnZSA9IHVzZXI/Lmljb25JbWFnZQogICAgICAgICAgICByb29tX25hbWUudGV4dCA9ICJcKHVzZXIubmlja25hbWUp44Gu44Or44O844OgIgogICAgICAgICAgICBzdGF0dXMudGV4dCA9IHVzZXI/LnN0YXR1cy5yYXdWYWx1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaXNMYXN0Q2VsbCA9IHJvdyA9PSB1c2Vycy5jb3VudCAtIDEKICAgICAgICBpZiBpc0xhc3RDZWxsIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44K544OG44O844K/44K55aSJ5pu044Gu44Od44OD44OX44Kq44O844OQ44O844KS6KGo56S644GV44Gb44KLCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VyID0gdXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXQgewogICAgICAgICAgICByZXR1cm4gdXNlcgogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>if let frame = tableView.accessibilityAttributedValue(at: indexPath)?.frame {
-
-            } else</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXQodXNlcikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBvZmZzZXQgPSB0YWJsZVZpZXcuY29udGVudE9mZnNldAogICAgICAgICAgICAgICAgbGV0IHBvaW50ID0gQ0dQb2ludCh4OiBmcmFtZS5vcmlnaW4ueCwgeTogZnJhbWUub3JpZ2luLnkgLSBvZmZzZXQueSkKICAgICAgICAgICAgICAgIGxldCBuZXdGcmFtZSA9IENHUmVjdChvcmlnaW46IHBvaW50LCBzaXplOiBmcmFtZS5zaXplKQogICAgICAgICAgICAgICAgZGlkU2VsZWN0U2VsZkNlbGwoc2hvd1JlY3Q6IG5ld0ZyYW1lLCBjb2xsZWN0aW9uVmlldzogY29sbGVjdGlvblZpZXcsIGNlbGxJbmRleFBhdGg6IGluZGV4UGF0aCk=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VyID0gdXNlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwuaWNvbi5pbWFnZSA9IHVzZXIuaWNvbkltYWdlCiAgICAgICAgICAgICAgICBjZWxsLnJvb21fbmFtZT8udGV4dCA9ICJcKHVzZXIubmlja25hbWUp44Gu44Or44O844OgIgogICAgICAgICAgICAgICAgY2VsbC5zdGF0dXMudGV4dCA9IHVzZXIuc3RhdHVzLnJhd1ZhbHVlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gY2VsbOOCkuOCv+ODg+ODl+OBl+OBnwogICAgICAgIGZ1bmMgY29sbGVjdGlvblZpZXcoXyBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldywgZGlkU2VsZWN0SXRlbUF0IGluZGV4UGF0aDogSW5kZXhQYXRoKSB7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwuaWNvbi5pbWFnZSA9IG93bi5pY29uSW1hZ2UKICAgICAgICAgICAgICAgIGNlbGwucm9vbV9uYW1lPy50ZXh0ID0gIlwob3duLm5pY2tuYW1lKeOBruODq+ODvOODoCIKICAgICAgICAgICAgICAgIGNlbGwuc3RhdHVzLnRleHQgPSBvd24uc3RhdHVzLnJhd1ZhbHVl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB1c2VyOlVzZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
