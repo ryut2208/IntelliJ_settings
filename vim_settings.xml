@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>it</entry>
         <entry encoding="base64">XDxpc1BsYXlpbmdcPg==</entry>
         <entry>schedule update</entry>
         <entry>日付部</entry>
@@ -27,6 +26,7 @@
         <entry>changevideo</entry>
         <entry>ondes</entry>
         <entry encoding="base64">XDx1c2Vyc1w+</entry>
+        <entry>viewdidload</entry>
       </history-search>
       <history-cmd>
         <entry>106,111s/\?//g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/LogUtils/Logger/g</entry>
         <entry>vsp</entry>
         <entry>w</entry>
-        <entry>nohlsearch</entry>
         <entry>tabo</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -100,12 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590672371086">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1590731267853">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
         <mark key="'" line="772" column="37" />
         <mark key="[" line="99" column="21" />
@@ -113,27 +107,8 @@
         <mark key="^" line="781" column="40" />
         <mark key="." line="99" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
-        <mark key="'" line="764" column="12" />
-        <mark key="[" line="1112" column="0" />
-        <mark key="]" line="1112" column="80" />
-        <mark key="." line="1112" column="0" />
-        <mark key="^" line="764" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
-        <mark key="[" line="11" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/fragment/WebZipManageFragment.kt" timestamp="1591753369093">
         <mark key="[" line="89" column="26" />
-      </file>
-      <file name="/" timestamp="1591758284894">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopScore.dart" timestamp="1590743401329">
         <mark key="[" line="835" column="33" />
@@ -145,18 +120,12 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591762921469">
-        <mark key="'" line="251" column="66" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="253" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590655997857">
-        <mark key="'" line="657" column="8" />
-        <mark key="[" line="3875" column="0" />
-        <mark key="]" line="3875" column="61" />
-        <mark key="." line="3875" column="0" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591771056405">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="253" column="8" />
+        <mark key="]" line="254" column="35" />
+        <mark key="." line="254" column="34" />
+        <mark key="^" line="254" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -164,7 +133,7 @@
         <mark key="^" line="709" column="57" />
         <mark key="." line="709" column="56" />
       </file>
-      <file name="/LLDB" timestamp="1591762932211">
+      <file name="/LLDB" timestamp="1591770977641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
@@ -178,23 +147,48 @@
         <mark key="]" line="402" column="35" />
         <mark key="." line="402" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590649570587">
-        <mark key="^" line="11" column="34" />
+      <file name="/fragment.kt" timestamp="1590731267853">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
+        <mark key="'" line="764" column="12" />
+        <mark key="[" line="1112" column="0" />
+        <mark key="]" line="1112" column="80" />
+        <mark key="." line="1112" column="0" />
+        <mark key="^" line="764" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
+        <mark key="[" line="11" column="47" />
+      </file>
+      <file name="/" timestamp="1591758284894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591770924185">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1590672510678">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591761056402">
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591770941540">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/view/FriendListCell.swift" timestamp="1591769942821">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="4" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="30" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" />
-      <jump line="387" column="6" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="179" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="4" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" />
       <jump line="69" column="60" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
@@ -292,6 +286,9 @@
       <jump line="160" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
       <jump line="772" column="37" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
       <jump line="248" column="66" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
+      <jump line="205" column="8" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
+      <jump line="40" column="14" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
+      <jump line="35" column="18" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,59 +296,59 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="*" type="4">
+        <text>FriendListCell()</text>
       </register>
       <register name="-" type="4">
-        <text>users[indexPath.row].nickname</text>
+        <text>FriendListCell()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2Vyc1w+</text>
+        <text>viewdidload</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsLnRleHRMYWJlbD8udGV4dCA9ICJcKHVzZXJzW2luZGV4UGF0aC5yb3ddLm5pY2tuYW1lKeOBruODq+ODvOODoCIK</text>
+      <register name="0" type="4">
+        <text>FriendListCell</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY2VsbDogRnJpZW5kTGlzdENlbGwgPSBpZiByZXVzYWJsZUNlbGwgIT0gbmlsIHsKICAgICAgICAgICAgcmV0dXJuIHJldXNhYmxlQ2VsbCBhcyEgRnJpZW5kTGlzdENlbGwKICAgICAgICB9IGVsc2UgewogICAgICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZyaWVuZExpc3RDZWxsKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY2VsbCA9IFVJVGFibGVWaWV3Q2VsbChzdHlsZTogVUlUYWJsZVZpZXdDZWxsLkNlbGxTdHlsZS5kZWZhdWx0LCByZXVzZUlkZW50aWZpZXI6ICJjZWxsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmYXRhbEVycm9yKCJ0YWJsZVZpZXcoXzp0aXRsZUZvckhlYWRlckluU2VjdGlvbjopIGhhcyBub3QgYmVlbiBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ZXh0ZW5zaW9uIFZpZXdDb250cm9sbGVyOiBVSUNvbGxlY3Rpb25WaWV3RGVsZWdhdGUsIFVJQ29sbGVjdGlvblZpZXdEYXRhU291cmNlIHsKCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8I2NvZGUjPgo=</text>
+        <text encoding="base64">ICAgIGZ1bmMgY29sbGVjdGlvblZpZXcoXyBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldywgbnVtYmVyT2ZJdGVtc0luU2VjdGlvbiBzZWN0aW9uOiBJbnQpIC0+IEludCB7CiAgICAgICAgcmV0dXJuIHVzZXJzLmNvdW50CiAgICB9CiAgICAKICAgIC8vLyDjgrvjg6vjga7mj4/nlLsKICAgIGZ1bmMgY29sbGVjdGlvblZpZXcoXyBjb2xsZWN0aW9uVmlldzogVUlDb2xsZWN0aW9uVmlldywKICAgICAgICAgICAgICAgICAgICAgICAgY2VsbEZvckl0ZW1BdCBpbmRleFBhdGg6IEluZGV4UGF0aCkgLT4gVUlDb2xsZWN0aW9uVmlld0NlbGwgewogICAgICAgIGxldCBjZWxsSWRlbnRpZmllciA9ICJjZWxsIgogICAgICAgIGxldCBjZWxsID0gY29sbGVjdGlvblZpZXcuZGVxdWV1ZVJldXNhYmxlQ2VsbCgKICAgICAgICAgICAgd2l0aFJldXNlSWRlbnRpZmllcjogY2VsbElkZW50aWZpZXIsCiAgICAgICAgICAgIGZvcjogaW5kZXhQYXRoCiAgICAgICAgKSBhcyEgRnJpZW5kTGlzdENlbGwKICAgICAgICBsZXQgcm93ID0gaW5kZXhQYXRoLnJvdwogICAgICAgIC8vIFRPRE86IOS4jeimgeOBq+OBquOBo+OBn+OCiea2iOOBmQogICAgICAgIGNlbGwubmlja25hbWUudGV4dCA9IHVzZXJzW3Jvd10ubmlja25hbWUKICAgICAgICBjZWxsLm5pY2tuYW1lLmlzSGlkZGVuID0gdHJ1ZQogICAgICAgIGNlbGwuaWNvbi5pbWFnZSA9IHVzZXJzW3Jvd10uaWNvbkltYWdlCiAgICAgICAgY2VsbC5zdGF0dXMudGV4dCA9IHVzZXJzW3Jvd10uc3RhdHVzLnJhd1ZhbHVlCiAgICAgICAgY2VsbC5zdGF0dXMuaXNIaWRkZW4gPSB0cnVlCiAgICAgICAgY2VsbC5yb29tX25hbWUudGV4dCA9ICJcKG93bi5uaWNrbmFtZSnjgahcKHVzZXJzW3Jvd10ubmlja25hbWUp44Gu6YOo5bGLIgogICAgICAgIC8vIFRPRE86IOODleOCqeODs+ODiOOCteOCpOOCuuOCkuWLleeahOOBq+WkieabtOOBmeOCiwogICAgICAgIAogICAgICAgIGxldCBpc0xhc3RDZWxsID0gcm93ID09IHVzZXJzLmNvdW50IC0gMQogICAgICAgIC8vIOOCu+ODq+OCkuinkuS4uOOBq+OBmeOCiwogICAgICAgIGNlbGwubGF5ZXIuY29ybmVyUmFkaXVzID0gNQogICAgICAgIGNlbGwuY2xpcHNUb0JvdW5kcyA9IHRydWUKICAgICAgICAvLyDjgqLjgqTjgrPjg7PjgavmnqDjgpLku5jjgZHjgosKICAgICAgICBjZWxsLmljb24ubGF5ZXIuYm9yZGVyV2lkdGggPSAzCiAgICAgICAgaWYgaXNMYXN0Q2VsbCB7CiAgICAgICAgICAgIGNlbGwuaWNvbi5sYXllci5ib3JkZXJDb2xvciA9IFVJQ29sb3IucmVkLmNnQ29sb3IKICAgICAgICAgICAgY2VsbC5sYXllci5ib3JkZXJXaWR0aCA9IDMKICAgICAgICAgICAgY2VsbC5sYXllci5ib3JkZXJDb2xvciA9IFVJQ29sb3IucmVkLmNnQ29sb3IKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBjZWxsLmljb24ubGF5ZXIuYm9yZGVyQ29sb3IgPSBVSUNvbG9yLmN5YW4uY2dDb2xvcgogICAgICAgICAgICBjZWxsLmxheWVyLmJvcmRlcldpZHRoID0gMAogICAgICAgIH0KICAgICAgICAKICAgICAgICBjZWxsLmljb24ucmVzZXRSYWRpdXMoKQogICAgICAgIHJldHVybiBjZWxsCiAgICB9CiAgICAKICAgIC8vLyBjZWxs44KS44K/44OD44OX44GX44GfCiAgICBmdW5jIGNvbGxlY3Rpb25WaWV3KF8gY29sbGVjdGlvblZpZXc6IFVJQ29sbGVjdGlvblZpZXcsIGRpZFNlbGVjdEl0ZW1BdCBpbmRleFBhdGg6IEluZGV4UGF0aCkgewogICAgICAgIGxldCByb3cgPSBpbmRleFBhdGgucm93CiAgICAgICAgbGV0IHNlbGVjdGVkVXNlciA9IHVzZXJzW3Jvd10KICAgICAgICBMb2cuZChtZXNzYWdlOiAib2Zmc2V0OlwoY29sbGVjdGlvblZpZXcuY29udGVudE9mZnNldCkiKQogICAgICAgIAogICAgICAgIGxldCBpc0xhc3RDZWxsID0gcm93ID09IHVzZXJzLmNvdW50IC0gMQogICAgICAgIGlmIGlzTGFzdENlbGwgewogICAgICAgICAgICAvLyDjgrnjg4bjg7zjgr/jgrnlpInmm7Tjga7jg53jg4Pjg5fjgqrjg7zjg5Djg7zjgpLooajnpLrjgZXjgZvjgosKICAgICAgICAgICAgaWYgbGV0IGZyYW1lID0gY29sbGVjdGlvblZpZXcubGF5b3V0QXR0cmlidXRlc0Zvckl0ZW0oYXQ6IGluZGV4UGF0aCk/LmZyYW1lIHsKICAgICAgICAgICAgICAgIGxldCBvZmZzZXQgPSBjb2xsZWN0aW9uVmlldy5jb250ZW50T2Zmc2V0CiAgICAgICAgICAgICAgICBsZXQgcG9pbnQgPSBDR1BvaW50KHg6IGZyYW1lLm9yaWdpbi54LCB5OiBmcmFtZS5vcmlnaW4ueSAtIG9mZnNldC55KQogICAgICAgICAgICAgICAgbGV0IG5ld0ZyYW1lID0gQ0dSZWN0KG9yaWdpbjogcG9pbnQsIHNpemU6IGZyYW1lLnNpemUpCiAgICAgICAgICAgICAgICBkaWRTZWxlY3RTZWxmQ2VsbChzaG93UmVjdDogbmV3RnJhbWUsIGNvbGxlY3Rpb25WaWV3OiBjb2xsZWN0aW9uVmlldywgY2VsbEluZGV4UGF0aDogaW5kZXhQYXRoKQogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIGlmIHNlbGVjdGVkVXNlci5pZCA9PSAiZGFtbXkiIHsKICAgICAgICAgICAgLy8g5L2V44KC44GX44Gq44GECiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLy8g44OI44O844Kv44Or44O844Og44Gr6YG356e744GZ44KLCiAgICAgICAgICAgIGxldCBub3RpZmljYXRpb25DZW50ZXIgPSBVTlVzZXJOb3RpZmljYXRpb25DZW50ZXIuY3VycmVudCgpCiAgICAgICAgICAgIG5vdGlmaWNhdGlvbkNlbnRlci5nZXREZWxpdmVyZWROb3RpZmljYXRpb25zKGNvbXBsZXRpb25IYW5kbGVyOiB7IG5vdGlmaWNhdGlvbnMgaW4KICAgICAgICAgICAgICAgIGxldCBub3RpZmljYXRpb24gPSBub3RpZmljYXRpb25zLmxhc3QKICAgICAgICAgICAgICAgIGxldCBsYXVuY2hTdGF0ZSA9IFByZXNlbnRlcihub3RpZmljYXRpb246IG5vdGlmaWNhdGlvbikuZGVjaWRlTGF1bmNoVmlld0NvbnRyb2xsZXIoKQogICAgICAgICAgICAgICAgRGlzcGF0Y2hRdWV1ZS5tYWluLmFzeW5jIHsKICAgICAgICAgICAgICAgICAgICBsZXQgc2VuZGVyOiBbU3RyaW5nOiBBbnldID0gWyJvd24iOiBzZWxmLm93biwgInRhcmdldCI6IHNlbGVjdGVkVXNlciwgIm9wdGlvbiI6IGxhdW5jaFN0YXRlXQogICAgICAgICAgICAgICAgICAgIHNlbGYucGVyZm9ybVNlZ3VlKHdpdGhJZGVudGlmaWVyOiBDb25zdGFudHMuVEFMS19ST09NLCBzZW5kZXI6IHNlbmRlcikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkKICAgICAgICAgICAgY29sbGVjdGlvblZpZXcuZGVzZWxlY3RJdGVtKGF0OiBpbmRleFBhdGgsIGFuaW1hdGVkOiB0cnVlKQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8I2NvZGUjPgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYXRhbEVycm9yKCJudW1iZXJPZlNlY3Rpb25zKGluOikgaGFzIG5vdCBiZWVuIGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuYyB0YWJsZVZpZXcoXyB0YWJsZVZpZXc6IFVJVGFibGVWaWV3LCBzZWN0aW9uRm9yU2VjdGlvbkluZGV4VGl0bGUgdGl0bGU6IFN0cmluZywgYXQgaW5kZXg6IEludCkgLT4gSW50IHsKICAgICAgICBmYXRhbEVycm9yKCJ0YWJsZVZpZXcoXzpzZWN0aW9uRm9yU2VjdGlvbkluZGV4VGl0bGU6YXQ6KSBoYXMgbm90IGJlZW4gaW1wbGVtZW50ZWQiKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>tabo</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2Vyc1w+</last-search>
+      <last-search>viewdidload</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2Vyc1w+</last-pattern>
+      <last-pattern>viewdidload</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
