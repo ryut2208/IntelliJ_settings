@@ -120,12 +120,12 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591779753199">
-        <mark key="'" line="35" column="18" />
-        <mark key="[" line="256" column="16" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="255" column="37" />
-        <mark key="^" line="252" column="15" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591782955029">
+        <mark key="'" line="253" column="18" />
+        <mark key="[" line="145" column="26" />
+        <mark key="]" line="145" column="18" />
+        <mark key="." line="145" column="18" />
+        <mark key="^" line="109" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -133,7 +133,7 @@
         <mark key="^" line="709" column="57" />
         <mark key="." line="709" column="56" />
       </file>
-      <file name="/LLDB" timestamp="1591780260695">
+      <file name="/LLDB" timestamp="1591784498713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
@@ -160,7 +160,7 @@
       <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
         <mark key="[" line="11" column="47" />
       </file>
-      <file name="/" timestamp="1591758284894">
+      <file name="/" timestamp="1591782029632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
@@ -169,11 +169,13 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591780073290">
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1590672510678">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1591784483986">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591770941540">
         <mark key="[" line="9" column="24" />
@@ -189,11 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="4" column="33" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_player.xml" />
-      <jump line="69" column="60" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/PlayerFragment.kt" />
-      <jump line="89" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
-      <jump line="43" column="81" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
       <jump line="63" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
       <jump line="686" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="53" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -289,6 +286,11 @@
       <jump line="205" column="8" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
       <jump line="40" column="14" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
       <jump line="35" column="18" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
+      <jump line="253" column="18" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
+      <jump line="393" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="362" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="392" column="4" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="395" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,11 +298,11 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>?</text>
+      <register name="*" type="2">
+        <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>viewdidload</text>
@@ -309,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGFibGVWaWV3LmRlc2VsZWN0Um93KGF0OiBpbmRleFBhdGgsIGFuaW1hdGVkOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbi5pbWFnZSA9IHVzZXI/Lmljb25JbWFnZQogICAgICAgICAgICByb29tX25hbWUudGV4dCA9ICJcKHVzZXIubmlja25hbWUp44Gu44Or44O844OgIgogICAgICAgICAgICBzdGF0dXMudGV4dCA9IHVzZXI/LnN0YXR1cy5yYXdWYWx1ZQo=</text>
+        <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VyID0gdXNlcgo=</text>
+        <text encoding="base64">Ly8vIOOCueODhuODvOOCv+OCueabtOaWsOeUu+mdouOBruODh+ODquOCsuODvOODiApleHRlbnNpb24gVGFsa1Jvb21WaWV3Q29udHJvbGxlcjogU3RhdHVzVXBkYXRlVmlld0NvbnRyb2xsZXJEZWxlZ2F0ZSB7CiAgICAvLy8gT0vjg5zjgr/jg7PjgpLmirzjgZfjgZ/mmYLjga7lh6bnkIYKICAgIGZ1bmMgb25DbGlja09rQnV0dG9uKHN0YXR1czogVXNlclN0YXR1cykgewogICAgICAgIExvZy5kKCkKICAgICAgICBvd24uc3RhdHVzID0gc3RhdHVzCiAgICAgICAgTW95YUNhbGxlci5zaGFyZWQudXBkYXRlVXNlclN0YXR1cyh1c2VySWQ6IG93bi5pZCwgc3RhdHVzOiBVc2VyU3RhdHVzLnRvT25lQmFzZUluZGV4KHN0YXR1cykpCiAgICAgICAgbXV0ZVZpZXc/LnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiAobXV0ZVZpZXc/Lm93bkF2YXRhcikhLCBpbWFnZXM6IHN0YXR1cy5nZXRBdmF0YXJJbWFnZXMoKSkKICAgICAgICBvd24uc2VuZFRhbGtFZmZlY3QoZWZmZWN0OiBUYWxrRWZmZWN0KHR5cGU6IC5DSEFOR0VfU1RBVFVTLCBudW1iZXI6IFVzZXJTdGF0dXMudG9PbmVCYXNlSW5kZXgoc3RhdHVzKSkpCiAgICAgICAgaXNGcm9tRmxvcmlkYSA9IHRydWUKICAgICAgICAvLyDjg5/jg6Xjg7zjg4jjgavjgZnjgosKICAgICAgICBvd24uaXNNdXRlID0gdHJ1ZQogICAgICAgIG11dGVWaWV3Py5tdXRlKCkKICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQgewogICAgICAgICAgICByZXR1cm4gdXNlcgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5oub5b6F44OQ44OK44O844KS6KGo56S6Ci8vICAgICAgICAgICAgc2hvd0ludml0ZUJhbm5lcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodXNlcikgewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNoYXRSb29tLnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiBjaGF0Um9vbS5hdmF0YXIsIGltYWdlczogdGFyZ2V0LnN0YXR1cy5nZXRUYXJnZXRBdmF0YXJJbWFnZXMoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51c2VyID0gdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDnm7jmiYvjga7jgqLjg5Djgr/jg7zjgpLooajnpLoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwuaWNvbi5pbWFnZSA9IHVzZXIuaWNvbkltYWdlCiAgICAgICAgICAgICAgICBjZWxsLnJvb21fbmFtZT8udGV4dCA9ICJcKHVzZXIubmlja25hbWUp44Gu44Or44O844OgIgogICAgICAgICAgICAgICAgY2VsbC5zdGF0dXMudGV4dCA9IHVzZXIuc3RhdHVzLnJhd1ZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbGwuaWNvbi5pbWFnZSA9IG93bi5pY29uSW1hZ2UKICAgICAgICAgICAgICAgIGNlbGwucm9vbV9uYW1lPy50ZXh0ID0gIlwob3duLm5pY2tuYW1lKeOBruODq+ODvOODoCIKICAgICAgICAgICAgICAgIGNlbGwuc3RhdHVzLnRleHQgPSBvd24uc3RhdHVzLnJhd1ZhbHVl</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VyOlVzZXIK</text>
+        <text encoding="base64">Ly8gICAgICAgIGluaXRUb29sYm94KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -42,6 +42,9 @@
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="120" />
   </codeStyleSettings>
+  <codeStyleSettings language="Swift">
+    <option name="RIGHT_MARGIN" value="120" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
@@ -129,7 +132,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
