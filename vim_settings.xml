@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdXJmYWNlSG9sZGVyXD4=</entry>
         <entry>it</entry>
         <entry encoding="base64">XDxpc1BsYXlpbmdcPg==</entry>
         <entry>schedule update</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxfd2ViVmlld1w+</entry>
         <entry>changevideo</entry>
         <entry>ondes</entry>
+        <entry encoding="base64">XDx1c2Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>106,111s/\?//g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/LogUtils/Logger/g</entry>
         <entry>vsp</entry>
         <entry>w</entry>
-        <entry>tabo</entry>
         <entry>nohlsearch</entry>
+        <entry>tabo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -145,6 +145,13 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591762921469">
+        <mark key="'" line="251" column="66" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+        <mark key="^" line="253" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/MainActivity.java" timestamp="1590655997857">
         <mark key="'" line="657" column="8" />
         <mark key="[" line="3875" column="0" />
@@ -157,7 +164,7 @@
         <mark key="^" line="709" column="57" />
         <mark key="." line="709" column="56" />
       </file>
-      <file name="/LLDB" timestamp="1591760133961">
+      <file name="/LLDB" timestamp="1591762761114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
@@ -171,21 +178,20 @@
         <mark key="]" line="402" column="35" />
         <mark key="." line="402" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/common/Conf.java" timestamp="1590647821887">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="38" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/res/values/settings.xml" timestamp="1590649570587">
         <mark key="^" line="11" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1590672510678">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591761056402">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="412" column="4" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/PrepareTaskManager.kt" />
       <jump line="387" column="6" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -285,6 +291,7 @@
       <jump line="0" column="48" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" />
       <jump line="772" column="37" filename="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" />
+      <jump line="248" column="66" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,59 +299,59 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>'average_speed_frame.png',</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'average_speed_frame.png',</text>
+        <text>users[indexPath.row].nickname</text>
       </register>
       <register name="/" type="4">
-        <text>ondes</text>
+        <text encoding="base64">XDx1c2Vyc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgU3BlZWRCZ05hbWUgPSAnYXZlcmFnZV9zcGVlZF9mcmFtZS5wbmcnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjZWxsLnRleHRMYWJlbD8udGV4dCA9ICJcKHVzZXJzW2luZGV4UGF0aC5yb3ddLm5pY2tuYW1lKeOBruODq+ODvOODoCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8uCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKiDjg4/jg7Pjg4njg6kgICovCiAgICBwcml2YXRlIHZhbCBoYW5kbGVyID0gSGFuZGxlcihMb29wZXIuZ2V0TWFpbkxvb3BlcigpLCB0aGlzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKiog44OP44Oz44OJ44Op5Yem55CGOiDlho3nlJ8gICovCiAgICAgICAgcHJpdmF0ZSBjb25zdCB2YWwgV0hBVF9QTEFZID0gMAogICAgICAgIC8qKiDjg4/jg7Pjg4njg6nlh6bnkIY6IOWBnOatoiAgKi8KICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBXSEFUX1NUT1AgPSAxCiAgICAgICAgLyoqIOODj+ODs+ODieODqeWHpueQhjog6ZaL5aeLICAqLwogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFdIQVRfU1RBUlQgPSAyCiAgICAgICAgLyoqIOODj+ODs+ODieODqeWHpueQhjog5LiA5pmC5YGc5q2iICAqLwogICAgICAgIHByaXZhdGUgY29uc3QgdmFsIFdIQVRfUEFVU0UgPSAzCgo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY2VsbCA9IFVJVGFibGVWaWV3Q2VsbChzdHlsZTogVUlUYWJsZVZpZXdDZWxsLkNlbGxTdHlsZS5kZWZhdWx0LCByZXVzZUlkZW50aWZpZXI6ICJjZWxsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gaGFuZGxlTWVzc2FnZShtc2c6IE1lc3NhZ2UpOiBCb29sZWFuIHsKICAgICAgICB3aGVuIChtc2cud2hhdCkgewogICAgICAgICAgICBXSEFUX1BMQVkgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBXSEFUX1NUT1AgLT4gewoKICAgICAgICAgICAgfQogICAgICAgICAgICBXSEFUX1BBVVNFIC0+IHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgV0hBVF9TVEFSVCAtPiB7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWUKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBmYXRhbEVycm9yKCJ0YWJsZVZpZXcoXzp0aXRsZUZvckhlYWRlckluU2VjdGlvbjopIGhhcyBub3QgYmVlbiBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8ubGV0IHsKICAgICAgICAgICAgICAgICAgICBpdC5zdG9wKCkKICAgICAgICAgICAgICAgICAgICBpdC5yZWxlYXNlKCkKICAgICAgICAgICAgICAgICAgICBleG9QbGF5ZXIgPSBudWxsCiAgICAgICAgICAgICAgICAgICAgTG9nVXRpbHMuZChUQUcsICJoYW5kbGVNZXNzYWdlOiBTVE9QIC0gcmVsZWFzZSAke2NvbnRlbnQ/LnBhdGh9IikKICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICA8I2NvZGUjPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2tra2tra2tra2tra2tra2tra2tra2tra2tra2trCg==</text>
+        <text encoding="base64">ICAgICAgICA8I2NvZGUjPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVyLnNlbmRFbXB0eU1lc3NhZ2UoV0hBVF9QQVVTRSkK</text>
+        <text encoding="base64">ICAgICAgICBmYXRhbEVycm9yKCJudW1iZXJPZlNlY3Rpb25zKGluOikgaGFzIG5vdCBiZWVuIGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4b1BsYXllcj8ubGV0IHsKICAgICAgICAgICAgICAgICAgICBpZiAoaXQucGxheVdoZW5SZWFkeSkgewogICAgICAgICAgICAgICAgICAgICAgICBpdC5wbGF5V2hlblJlYWR5ID0gZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgTG9nVXRpbHMuZChUQUcsICJoYW5kbGVNZXNzYWdlOiBQQVVTRSAtIHBhdXNlICR7Y29udGVudD8ucGF0aH0iKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuYyB0YWJsZVZpZXcoXyB0YWJsZVZpZXc6IFVJVGFibGVWaWV3LCBzZWN0aW9uRm9yU2VjdGlvbkluZGV4VGl0bGUgdGl0bGU6IFN0cmluZywgYXQgaW5kZXg6IEludCkgLT4gSW50IHsKICAgICAgICBmYXRhbEVycm9yKCJ0YWJsZVZpZXcoXzpzZWN0aW9uRm9yU2VjdGlvbkluZGV4VGl0bGU6YXQ6KSBoYXMgbm90IGJlZW4gaW1wbGVtZW50ZWQiKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>tabo</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ondes</last-search>
+      <last-search encoding="base64">XDx1c2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern>ondes</last-pattern>
+      <last-pattern encoding="base64">XDx1c2Vyc1w+</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
