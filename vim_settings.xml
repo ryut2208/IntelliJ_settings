@@ -103,12 +103,12 @@
       <file name="/fragment.kt" timestamp="1590731267853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" timestamp="1592976936392">
-        <mark key="'" line="110" column="31" />
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="142" column="56" />
-        <mark key="^" line="142" column="56" />
-        <mark key="." line="142" column="55" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" timestamp="1592978049909">
+        <mark key="'" line="102" column="12" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="115" column="78" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
         <mark key="'" line="772" column="37" />
@@ -152,14 +152,15 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1591784483986">
-        <mark key="[" line="271" column="0" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1592977931909">
+        <mark key="[" line="261" column="41" />
         <mark key="]" line="271" column="0" />
         <mark key="." line="271" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/RoomDelegate.swift" timestamp="1592976768116">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="23" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/RoomDelegate.swift" timestamp="1592977977423">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -195,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="686" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="53" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="671" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="152" column="86" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
@@ -295,6 +295,7 @@
       <jump line="392" column="4" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="395" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="110" column="31" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" />
+      <jump line="102" column="12" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,44 +303,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>onReceiveStream</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb29tRGVsZWdhdGU/Lm9uUmVjZWl2ZVN0cmVhbShzdHJlYW06IHN0cmVhbU9iaiwgc2VsZi5pc093bmVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>talkEffect</text>
+        <text encoding="base64">PCNUIyNpc093bmVyOiBCb29sIyNTd2lmdC5Cb29sIz4=</text>
       </register>
       <register name="/" type="4">
         <text>viewdidload</text>
       </register>
-      <register name="0" type="4">
-        <text>onReceiveStream</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb29tRGVsZWdhdGU/Lm9uUmVjZWl2ZVN0cmVhbShzdHJlYW06IHN0cmVhbU9iaiwgaXNPd25lcjpzZWxmLmlzT3duZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb29tRGVsZWdhdGU/Lm9uUmVjZWl2ZVN0cmVhbShzdHJlYW06IHN0cmVhbU9iaiwgc2VsZi5pc093bmVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8vIOOCueODhuODvOOCv+OCueabtOaWsOeUu+mdouOBruODh+ODquOCsuODvOODiApleHRlbnNpb24gVGFsa1Jvb21WaWV3Q29udHJvbGxlcjogU3RhdHVzVXBkYXRlVmlld0NvbnRyb2xsZXJEZWxlZ2F0ZSB7CiAgICAvLy8gT0vjg5zjgr/jg7PjgpLmirzjgZfjgZ/mmYLjga7lh6bnkIYKICAgIGZ1bmMgb25DbGlja09rQnV0dG9uKHN0YXR1czogVXNlclN0YXR1cykgewogICAgICAgIExvZy5kKCkKICAgICAgICBvd24uc3RhdHVzID0gc3RhdHVzCiAgICAgICAgTW95YUNhbGxlci5zaGFyZWQudXBkYXRlVXNlclN0YXR1cyh1c2VySWQ6IG93bi5pZCwgc3RhdHVzOiBVc2VyU3RhdHVzLnRvT25lQmFzZUluZGV4KHN0YXR1cykpCiAgICAgICAgbXV0ZVZpZXc/LnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiAobXV0ZVZpZXc/Lm93bkF2YXRhcikhLCBpbWFnZXM6IHN0YXR1cy5nZXRBdmF0YXJJbWFnZXMoKSkKICAgICAgICBvd24uc2VuZFRhbGtFZmZlY3QoZWZmZWN0OiBUYWxrRWZmZWN0KHR5cGU6IC5DSEFOR0VfU1RBVFVTLCBudW1iZXI6IFVzZXJTdGF0dXMudG9PbmVCYXNlSW5kZXgoc3RhdHVzKSkpCiAgICAgICAgaXNGcm9tRmxvcmlkYSA9IHRydWUKICAgICAgICAvLyDjg5/jg6Xjg7zjg4jjgavjgZnjgosKICAgICAgICBvd24uaXNNdXRlID0gdHJ1ZQogICAgICAgIG11dGVWaWV3Py5tdXRlKCkKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oub5b6F44OQ44OK44O844KS6KGo56S6Ci8vICAgICAgICAgICAgc2hvd0ludml0ZUJhbm5lcigpCg==</text>
+        <text encoding="base64">Ly8vIOOCueODhuODvOOCv+OCueabtOaWsOeUu+mdouOBruODh+ODquOCsuODvOODiApleHRlbnNpb24gVGFsa1Jvb21WaWV3Q29udHJvbGxlcjogU3RhdHVzVXBkYXRlVmlld0NvbnRyb2xsZXJEZWxlZ2F0ZSB7CiAgICAvLy8gT0vjg5zjgr/jg7PjgpLmirzjgZfjgZ/mmYLjga7lh6bnkIYKICAgIGZ1bmMgb25DbGlja09rQnV0dG9uKHN0YXR1czogVXNlclN0YXR1cykgewogICAgICAgIExvZy5kKCkKICAgICAgICBvd24uc3RhdHVzID0gc3RhdHVzCiAgICAgICAgTW95YUNhbGxlci5zaGFyZWQudXBkYXRlVXNlclN0YXR1cyh1c2VySWQ6IG93bi5pZCwgc3RhdHVzOiBVc2VyU3RhdHVzLnRvT25lQmFzZUluZGV4KHN0YXR1cykpCiAgICAgICAgbXV0ZVZpZXc/LnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiAobXV0ZVZpZXc/Lm93bkF2YXRhcikhLCBpbWFnZXM6IHN0YXR1cy5nZXRBdmF0YXJJbWFnZXMoKSkKICAgICAgICBvd24uc2VuZFRhbGtFZmZlY3QoZWZmZWN0OiBUYWxrRWZmZWN0KHR5cGU6IC5DSEFOR0VfU1RBVFVTLCBudW1iZXI6IFVzZXJTdGF0dXMudG9PbmVCYXNlSW5kZXgoc3RhdHVzKSkpCiAgICAgICAgaXNGcm9tRmxvcmlkYSA9IHRydWUKICAgICAgICAvLyDjg5/jg6Xjg7zjg4jjgavjgZnjgosKICAgICAgICBvd24uaXNNdXRlID0gdHJ1ZQogICAgICAgIG11dGVWaWV3Py5tdXRlKCkKICAgIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNoYXRSb29tLnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiBjaGF0Um9vbS5hdmF0YXIsIGltYWdlczogdGFyZ2V0LnN0YXR1cy5nZXRUYXJnZXRBdmF0YXJJbWFnZXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5oub5b6F44OQ44OK44O844KS6KGo56S6Ci8vICAgICAgICAgICAgc2hvd0ludml0ZUJhbm5lcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnm7jmiYvjga7jgqLjg5Djgr/jg7zjgpLooajnpLoK</text>
+        <text encoding="base64">Ly8gICAgICAgIGNoYXRSb29tLnNldEF2YXRhckFuaW1hdGlvbih2aWV3OiBjaGF0Um9vbS5hdmF0YXIsIGltYWdlczogdGFyZ2V0LnN0YXR1cy5nZXRUYXJnZXRBdmF0YXJJbWFnZXMoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnm7jmiYvjga7jgqLjg5Djgr/jg7zjgpLooajnpLoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGluaXRUb29sYm94KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
