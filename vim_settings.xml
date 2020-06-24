@@ -152,10 +152,12 @@
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1592977931909">
-        <mark key="[" line="261" column="41" />
-        <mark key="]" line="271" column="0" />
-        <mark key="." line="271" column="0" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1592978642853">
+        <mark key="'" line="230" column="18" />
+        <mark key="[" line="272" column="31" />
+        <mark key="]" line="272" column="22" />
+        <mark key="." line="272" column="21" />
+        <mark key="^" line="272" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/RoomDelegate.swift" timestamp="1592977977423">
         <mark key="[" line="15" column="58" />
@@ -168,7 +170,7 @@
         <mark key="^" line="709" column="57" />
         <mark key="." line="709" column="56" />
       </file>
-      <file name="/LLDB" timestamp="1591784498713">
+      <file name="/LLDB" timestamp="1592978419314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
@@ -196,21 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="671" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
-      <jump line="152" column="86" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
-      <jump line="165" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
-      <jump line="156" column="28" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/task/PrepareReplacePlaylistTask.kt" />
-      <jump line="15" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/BootReceiver.kt" />
-      <jump line="33" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/LicenseRegistrationActivity.kt" />
-      <jump line="31" column="20" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiGetUtil.kt" />
-      <jump line="62" column="8" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
-      <jump line="71" column="12" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ContentsManager.kt" />
-      <jump line="8" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/HiddenCommandFragment.kt" />
-      <jump line="15" column="35" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/VerificationFragment.kt" />
-      <jump line="7" column="13" filename="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/java/text/SimpleDateFormat.class" />
-      <jump line="27" column="67" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
-      <jump line="32" column="137" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/data/Event.kt" />
       <jump line="175" column="30" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="183" column="47" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
       <jump line="248" column="59" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/util/ApiUtil.java" />
@@ -296,6 +283,21 @@
       <jump line="395" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="110" column="31" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" />
       <jump line="102" column="12" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" />
+      <jump line="273" column="12" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="134" column="8" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="166" column="17" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="170" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="173" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="177" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="225" column="12" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="227" column="12" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="37" column="8" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="39" column="31" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="171" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="174" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="224" column="11" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="229" column="44" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="230" column="18" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,14 +305,14 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb29tRGVsZWdhdGU/Lm9uUmVjZWl2ZVN0cmVhbShzdHJlYW06IHN0cmVhbU9iaiwgc2VsZi5pc093bmVyKQo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">PCNUIyNUYWxrRWZmZWN0VHlwZSMjVHdpbnNUYWxrLlRhbGtFZmZlY3RUeXBlIz4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCNUIyNpc093bmVyOiBCb29sIyNTd2lmdC5Cb29sIz4=</text>
+        <text encoding="base64">PCNUIyNUYWxrRWZmZWN0VHlwZSMjVHdpbnNUYWxrLlRhbGtFZmZlY3RUeXBlIz4=</text>
       </register>
       <register name="/" type="4">
-        <text>viewdidload</text>
+        <text encoding="base64">XDxpc011dGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yb29tRGVsZWdhdGU/Lm9uUmVjZWl2ZVN0cmVhbShzdHJlYW06IHN0cmVhbU9iaiwgaXNPd25lcjpzZWxmLmlzT3duZXIpCg==</text>
@@ -349,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>viewdidload</last-search>
+      <last-search encoding="base64">XDxpc011dGVcPg==</last-search>
       <last-offset />
-      <last-pattern>viewdidload</last-pattern>
+      <last-pattern encoding="base64">XDxpc011dGVcPg==</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
       <last-dir>1</last-dir>
