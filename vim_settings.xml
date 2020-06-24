@@ -100,6 +100,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.kt" timestamp="1590731267853">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
         <mark key="'" line="772" column="37" />
         <mark key="[" line="99" column="21" />
@@ -107,8 +110,27 @@
         <mark key="^" line="781" column="40" />
         <mark key="." line="99" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
+        <mark key="'" line="764" column="12" />
+        <mark key="[" line="1112" column="0" />
+        <mark key="]" line="1112" column="80" />
+        <mark key="." line="1112" column="0" />
+        <mark key="^" line="764" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
+        <mark key="[" line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/fragment/WebZipManageFragment.kt" timestamp="1591753369093">
         <mark key="[" line="89" column="26" />
+      </file>
+      <file name="/" timestamp="1591782029632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopScore.dart" timestamp="1590743401329">
         <mark key="[" line="835" column="33" />
@@ -126,6 +148,14 @@
         <mark key="]" line="145" column="18" />
         <mark key="." line="145" column="18" />
         <mark key="^" line="109" column="32" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1591784483986">
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="280" column="0" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -146,36 +176,6 @@
         <mark key="[" line="402" column="34" />
         <mark key="]" line="402" column="35" />
         <mark key="." line="402" column="35" />
-      </file>
-      <file name="/fragment.kt" timestamp="1590731267853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
-        <mark key="'" line="764" column="12" />
-        <mark key="[" line="1112" column="0" />
-        <mark key="]" line="1112" column="80" />
-        <mark key="." line="1112" column="0" />
-        <mark key="^" line="764" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
-        <mark key="[" line="11" column="47" />
-      </file>
-      <file name="/" timestamp="1591782029632">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1591784483986">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591770941540">
         <mark key="[" line="9" column="24" />
