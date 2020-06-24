@@ -103,6 +103,13 @@
       <file name="/fragment.kt" timestamp="1590731267853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" timestamp="1592976936392">
+        <mark key="'" line="110" column="31" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="142" column="56" />
+        <mark key="^" line="142" column="56" />
+        <mark key="." line="142" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
         <mark key="'" line="772" column="37" />
         <mark key="[" line="99" column="21" />
@@ -142,20 +149,17 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1591782955029">
-        <mark key="'" line="253" column="18" />
-        <mark key="[" line="145" column="26" />
-        <mark key="]" line="145" column="18" />
-        <mark key="." line="145" column="18" />
-        <mark key="^" line="109" column="32" />
-      </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1591784483986">
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/RoomDelegate.swift" timestamp="1592976768116">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
         <mark key="[" line="709" column="45" />
@@ -191,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="32" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/player/VideoPlayer.kt" />
       <jump line="686" column="31" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="53" column="41" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
       <jump line="671" column="24" filename="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" />
@@ -291,6 +294,7 @@
       <jump line="362" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="392" column="4" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="395" column="0" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="110" column="31" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/User.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,17 +302,17 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
+      <register name="*" type="4">
+        <text>onReceiveStream</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>talkEffect</text>
       </register>
       <register name="/" type="4">
         <text>viewdidload</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFibGVWaWV3LmRlc2VsZWN0Um93KGF0OiBpbmRleFBhdGgsIGFuaW1hdGVkOiB0cnVlKQo=</text>
+      <register name="0" type="4">
+        <text>onReceiveStream</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CmV4dGVuc2lvbiBUYWxrUm9vbVZpZXdDb250cm9sbGVyOiBTdGF0dXNWaWV3RGVsZWdhdGUgewogICAgZnVuYyBvbkNsaWNrRmxvcmlkYSgpIHsKICAgICAgICBsZXQgdmlld0NvbnRyb2xsZXIgPSBTdGF0dXNVcGRhdGVWaWV3Q29udHJvbGxlcigpCiAgICAgICAgdmlld0NvbnRyb2xsZXIuZGVsZWdhdGUgPSBzZWxmCiAgICAgICAgdmlld0NvbnRyb2xsZXIuc2V0QXJndW1lbnQoc3RhdHVzOiBvd24uc3RhdHVzKQogICAgICAgIGxldCBuYXZpZ2F0aW9uQ29udHJvbGxlciA9IFVJTmF2aWdhdGlvbkNvbnRyb2xsZXIocm9vdFZpZXdDb250cm9sbGVyOiB2aWV3Q29udHJvbGxlcikKICAgICAgICBuYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uSXRlbS50aXRsZVZpZXcgPSBOYXZpZ2F0aW9uVGl0bGUoKQogICAgICAgIHByZXNlbnQobmF2aWdhdGlvbkNvbnRyb2xsZXIsIGFuaW1hdGVkOiB0cnVlLCBjb21wbGV0aW9uOiBuaWwpCiAgICB9Cn0K</text>
