@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>new handler</entry>
         <entry>player</entry>
         <entry encoding="base64">XDxwbGF5ZXJGcmFnbWVudFw+</entry>
         <entry>handler</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxpc011dGVcPg==</entry>
         <entry encoding="base64">XDxzZXRFbmFibGVBdWRpb1RyYWNrXD4=</entry>
         <entry encoding="base64">XDxpc0pvaW5lZFJvb21cPg==</entry>
+        <entry>sendpush</entry>
       </history-search>
       <history-cmd>
         <entry>106,111s/\?//g</entry>
@@ -100,37 +100,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.kt" timestamp="1590731267853">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/main.dart" timestamp="1590740658044">
-        <mark key="'" line="772" column="37" />
-        <mark key="[" line="99" column="21" />
-        <mark key="]" line="99" column="21" />
-        <mark key="^" line="781" column="40" />
-        <mark key="." line="99" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" timestamp="1590723252397">
-        <mark key="'" line="764" column="12" />
-        <mark key="[" line="1112" column="0" />
-        <mark key="]" line="1112" column="80" />
-        <mark key="." line="1112" column="0" />
-        <mark key="^" line="764" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
-        <mark key="[" line="11" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/ui/fragment/WebZipManageFragment.kt" timestamp="1591753369093">
         <mark key="[" line="89" column="26" />
-      </file>
-      <file name="/" timestamp="1591782029632">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/fragment/slideshow/ExoPlayer.kt" timestamp="1590733553372">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopScore.dart" timestamp="1590743401329">
         <mark key="[" line="835" column="33" />
@@ -142,39 +113,56 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="15" />
       </file>
-      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1593098323423">
-        <mark key="[" line="111" column="34" />
-        <mark key="]" line="111" column="34" />
-        <mark key="." line="111" column="34" />
-        <mark key="^" line="114" column="35" />
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/ViewController.swift" timestamp="1593099768964">
+        <mark key="[" line="359" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/RoomDelegate.swift" timestamp="1592977977423">
         <mark key="[" line="15" column="58" />
         <mark key="]" line="15" column="58" />
         <mark key="." line="15" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/java/jp/co/newphoria/wbs/v5/MainActivity.java" timestamp="1590732401013">
-        <mark key="[" line="709" column="45" />
-        <mark key="]" line="709" column="57" />
-        <mark key="^" line="709" column="57" />
-        <mark key="." line="709" column="56" />
-      </file>
-      <file name="/LLDB" timestamp="1593098228351">
+      <file name="/LLDB" timestamp="1593099801909">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/WBS/wbs-v5-player-apk/app/src/main/res/layout/fragment_exo_video.xml" timestamp="1590733686376">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="14" column="27" />
-        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/work/dcoord/dcoord-app/lib/widget/TopMovieList.dart" timestamp="1590744486185">
         <mark key="[" line="402" column="34" />
         <mark key="]" line="402" column="35" />
         <mark key="." line="402" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Fields/native_android_app/app/src/main/java/bothub/launchapp/viewmodel/BraviaSystemDataViewModel.kt" timestamp="1591753397607">
+        <mark key="[" line="11" column="47" />
+      </file>
+      <file name="/" timestamp="1591782029632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1591783427966">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" timestamp="1593099922955">
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="23" />
+        <mark key="^" line="167" column="23" />
+        <mark key="." line="167" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/data/Api.swift" timestamp="1593099874478">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/Constants.swift" timestamp="1593100011400">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/DammyData.swift" timestamp="1593100045316">
+        <mark key="[" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/DummyData.swift" timestamp="1593100053626">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/AppDelegate.swift" timestamp="1591770941540">
         <mark key="[" line="9" column="24" />
@@ -190,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5172" column="59" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
-      <jump line="5126" column="16" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
-      <jump line="1014" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
       <jump line="2750" column="11" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
       <jump line="2685" column="28" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
       <jump line="2681" column="48" filename="$USER_HOME$/Documents/work/Applican/v1/runtime-android/app/src/main/java/jp/co/newphoria/html5app/WebActivity.java" />
@@ -290,6 +275,9 @@
       <jump line="79" column="15" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="82" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
       <jump line="85" column="16" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/viewController/TalkRoomViewController.swift" />
+      <jump line="20" column="3" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/MoyaCaller.swift" />
+      <jump line="87" column="9" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/MoyaCaller.swift" />
+      <jump line="90" column="29" filename="$USER_HOME$/Documents/work/Sony/ios_app/TwinsTalk/utility/MoyaCaller.swift" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,44 +288,44 @@
       <register name="&quot;" type="4">
         <text>class</text>
       </register>
-      <register name="*" type="4">
-        <text>d</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIC8vIGR1bW15Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0pvaW5lZFJvb21cPg==</text>
+        <text>sendpush</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nLmQobWVzc2FnZTogImludml0ZWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLmQoKQo=</text>
+        <text encoding="base64">ICAgIC8vIGR1bW15Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZXQgY2FuY2VsRGF0ZSA9IGNhbmNlbERhdGUgewogICAgICAgICAgICBpZiBub3RpZmljYXRpb24uZGF0ZSA+IGNhbmNlbERhdGUgewogICAgICAgICAgICAgICAgLy8g44Kt44Oj44Oz44K744Or5b6M44Gr5bGK44GE44Gf6YCa55+l44KS6ZaL44GP5aC05ZCI44Gv5oub5b6F44GV44KM44GfCiAgICAgICAgICAgICAgICByZXR1cm4gLklOVklURUQKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIOOCreODo+ODs+OCu+ODq+WJjeOBrumAmuefpeOCkumWi+OBhOOBn+WgtOWQiOOBr+aLm+W+heOBmeOCiwogICAgICAgICAgICAgICAgcmV0dXJuIC5JTlZJVEUKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXjgpLpgIHjgosKICAgICAgICBNb3lhQ2FsbGVyLnNoYXJlZC5zZW5kUHVzaCh1c2VySWQ6IG93bi5pZCwgcHVzaFVzZXJJZDogdGFyZ2V0LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc093bmVyIHsKICAgICAgICAgICAgLy8g5oub5b6F44KS6YCB44KLCiAgICAgICAgICAgIE1veWFDYWxsZXIuc2hhcmVkLnNlbmRQdXNoKHVzZXJJZDogb3duLmlkLCBwdXNoVXNlcklkOiB0YXJnZXQuaWQpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgZ3VhcmQgbGV0IG5vdGlmaWNhdGlvbiA9IG5vdGlmaWNhdGlvbiBlbHNlIHsKICAgICAgICAgICAgcmV0dXJuIC5JTlZJVEUK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PCNUIyNTdHJpbmcjI1N3aWZ0LlN0cmluZyM+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXjgYzjgq3jg6Pjg7Pjgrvjg6vlvowgLT4g5paw44GX44GP5p2l44Gf5oub5b6F44Gq44Gu44Gn5Y+C5YqgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PCNUIyNTdHJpbmcjI1N3aWZ0LlN0cmluZyM+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXjgYzjgq3jg6Pjg7Pjgrvjg6vliY0gLT4g5pyf6ZmQ5YiH44KM44Gn5oub5b6FCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3duLmlzTXV0ZSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXjgYzjgYLjgosg44Kt44Oj44Oz44K744Or44GM44GC44KLCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3duLmlzTXV0ZSA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAvL+aLm+W+heOBjOOBguOCiyDjgq3jg6Pjg7Pjgrvjg6vjgYxuaWwgLT4g5Y+C5Yqg44GZ44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGF0X3Jvb20udGFyZ2V0X2ljb24uaXNIaWRkZW4gPSBmYWxzZQogICAgICAgIGNoYXRfcm9vbS50YXJnZXRfbXV0ZV9jb3Zlci5pc0hpZGRlbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXjgYzjgarjgYQgLT4g5oub5b6F44GZ44KLCg==</text>
       </register>
       <register name=":" type="4">
         <text>tabo</text>
@@ -346,9 +334,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc0pvaW5lZFJvb21cPg==</last-search>
+      <last-search>sendpush</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0pvaW5lZFJvb21cPg==</last-pattern>
+      <last-pattern>sendpush</last-pattern>
       <last-replace>Logger</last-replace>
       <last-substitute>LogUtils</last-substitute>
       <last-dir>1</last-dir>
