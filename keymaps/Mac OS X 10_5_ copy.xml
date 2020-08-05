@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CleanGradleProject">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
   <action id="CloseContent" />
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -7,6 +10,7 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveAll" />
+  <action id="Vcs.Push" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
