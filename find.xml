@@ -13,7 +13,7 @@
     <mask>*.yaml</mask>
     <mask>*.dart</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
